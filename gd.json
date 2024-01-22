@@ -1,4 +1,6 @@
 {
+  "movies": [
+    {
       "title": "Movie 1",
       "genre": "Action",
       "year": 2021,
@@ -27,4 +29,6 @@
           "age": 32
         }
       ]
+    }
+  ]
 }
