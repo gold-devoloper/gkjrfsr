@@ -2081,6 +2081,21 @@
         "title": "60 daqiqa",
         "trailer": "https://ok.ru/video/6816819317438",
         "year": "2024"
+      },
+      "-Npvy58AtSl9Y9CVNY68": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Seul prokurori, yuqori darajadagi ishni yo'qotgan Xan Ji-Xunga xayrixoh bo'lishga va avvalgi lavozimiga qaytishga urinib, Koreya Markaziy razvedka boshqarmasi uchun u erda ishlaydigan bir guruh agentlarning ishi haqida hisobot tuzish uchun Xitoyning Shenyang shahriga boradi. . Kelganidan so'ng, printsipial prokuror o'zini otishmaning o'rtasida topadi va tez orada turli mamlakatlarning razvedka idoralari Kim oilasining shaxsiy hisoblari bilan bog'liq bo'lgan Shimoliy Koreya rasmiysini olishga harakat qilayotganini bilib oladi. Bu vazifani uddalash uchun Yaksha laqabli Janubiy Koreya terma jamoasi rahbari Chi Gang In hech narsadan to‘xtamaydi va u eng og‘ir usullarni qo‘llaydi.",
+        "genre": "Jangari ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/kKbnAJK.jpg",
+        "link": "https://ok.ru/video/4691056921111",
+        "push": "-Npvy58AtSl9Y9CVNY68",
+        "state": "Janubiy Koreya ",
+        "time": "06022024061132",
+        "title": "Yaksha: Shafqatsiz usullar",
+        "trailer": "https://ok.ru/video/4105766767149",
+        "year": "2022"
       }
     },
     "KOMEDIYA": {
@@ -4758,6 +4773,21 @@
       "title": "Dahshatlar Kaleydoskopi",
       "trailer": "https://ok.ru/video/88050043411",
       "year": "2019"
+    },
+    "-Npw71WIaLEDDel_n4Xd": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Sobiq harbiy politsiya mayori Jek Richer korruptsiyaga qarshi kurashchini o'ldirishda gumonlanib hibsga olingan kichik shaharchaga tashrif buyuradi. Mahalliy politsiya xavfli ko'rinishga ega bu katta yigit ular qidirayotgan odam emasligini anglab etgach, unga haqiqiy qotillarni topishda hamkorlik qilish taklif etiladi.",
+      "genre": "Jangari Kriminal ",
+      "id": "JEKRICHER",
+      "imdb": "8.1",
+      "img": "https://i.imgur.com/xiy8egI.jpg",
+      "push": "-Npw71WIaLEDDel_n4Xd",
+      "state": "AQSH ",
+      "time": "06022024065459",
+      "title": "Jek Richer",
+      "trailer": "https://ok.ru/video/3702320859693",
+      "year": "2022"
     }
   },
   "SERIALKOREA": {
@@ -31431,6 +31461,13 @@
         "link": "http://fayllar1.ru/25/Seriallar/Dahshatlar%20Kaleydoskopi/Dahshatlar%20Kaleydoskopi%201-5%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 5,
         "title": "Dahshatlar Kaleydoskopi"
+      },
+      "-Npw886UnOzs_wgTvEt5": {
+        "id": "CREEPSHOWUZ",
+        "img": "https://i.imgur.com/4cRbBkx.jpg",
+        "link": "http://fayllar1.ru/25/Seriallar/Dahshatlar%20Kaleydoskopi/Dahshatlar%20Kaleydoskopi%201-6%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 6,
+        "title": "Dahshatlar Kaleydoskopi"
       }
     },
     "FLASHYH": {
@@ -35126,6 +35163,15 @@
         "link": "https://ok.ru/video/4697017682455",
         "part": 41,
         "title": "Iztopar"
+      }
+    },
+    "JEKRICHER": {
+      "-Npw7_y5Ialo9ju3_Awp": {
+        "id": "JEKRICHER",
+        "img": "https://i.imgur.com/xiy8egI.jpg",
+        "link": "http://fayllar1.ru/34/Seriallar/Richer/Richer%201-1%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 1,
+        "title": "Jek Richer"
       }
     },
     "KORBARAY": {
