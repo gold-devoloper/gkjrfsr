@@ -2792,6 +2792,21 @@
         "title": "Xalqaro kosmik stansiya",
         "trailer": "https://ok.ru/video/6512698264127",
         "year": "2023"
+      },
+      "-Nqb7Jf4U1BcwL_pADAj": {
+        "age": 12,
+        "child": "KINO",
+        "description": "1990-yillarning boshi. Iroqda Saddam Husayn hukmronligi davrida, uning rejimi Kurdiston mintaqasi hududida ixcham yashagan kurdlarning yashashi uchun chinakam chidab bo'lmas sharoitlarni yaratgan. Boshpanasiz qolgan kurd aka-uka, yetti yoshli Zana va o‘n yoshli Dana devordagi teshikdan tasodifan Supermen filmidagi kadrlarni ko‘rib qolishdi. Bolalar bu super qahramonni topish uchun Amerikaga qochishga qaror qilishadi. U ularning barcha muammolarini hal qila oladi, hayotni osonlashtiradi va ularga zulm qilganlarni jazolaydi, deb umid qiladilar.",
+        "genre": "Drama Sarguzashtlar ",
+        "imdb": "7.5",
+        "img": "https://i.imgur.com/ZqeJzPs.jpg",
+        "link": "http://fayllar1.ru/33/kinolar/Yetimlar%202012%20720p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "push": "-Nqb7Jf4U1BcwL_pADAj",
+        "state": "Shveytsariya Finlyandiya Iroq",
+        "time": "14022024031953",
+        "title": "Yetimlar",
+        "trailer": "https://ok.ru/video/1903891778163",
+        "year": "2012"
       }
     },
     "QORQINCHLI": {
@@ -40029,9 +40044,23 @@
   "USERS": {
     "3qpmEV9rUoWr0yo9ZXTVlITiZ293": {
       "email": "diUwXZveqjdmDvUqvFHby/eVwV1X7P+Mw0wYeQrkknE=",
-      "membership": "VIP",
+      "membership": "Normal",
       "mobileUid": "pOHfwFqVjk7oH9940/7mUY/QrS6Szi0nIUX5wYjCNlo=",
       "name": "Goldmovi",
+      "violation": "No"
+    },
+    "OtibyiTSvqY0WpQOKlAVcMzXGtB2": {
+      "email": "xOLEeyBD55xR2Xj+NXCRJoOF7ycw667CtmTYYYA8baQ=",
+      "membership": "Normal",
+      "mobileUid": "ow2ZAV5bGaybTd/GXvGhh5zV9nRp1+G96tOaebmedio=",
+      "name": "Test",
+      "violation": "No"
+    },
+    "z6cbpyu69kh5SOqSGjpoZ9nPauX2": {
+      "email": "CUJqacT2qDi2GkrgyGMGCuof9HVOvbsPWCAoPuyjByE=",
+      "membership": "Normal",
+      "mobileUid": "nsR77t8H8nM38pVB21eBGTupUWz+0Ur0DD6wdjSRDLU=",
+      "name": "Firdavs",
       "violation": "No"
     }
   }
