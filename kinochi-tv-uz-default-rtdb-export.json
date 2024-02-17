@@ -5126,6 +5126,21 @@
       "title": "Obi-Van Kenobi",
       "trailer": "https://ok.ru/video/6557805447681",
       "year": "2022"
+    },
+    "-NqqkhYur6tfXR6lWbc7": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Chorshanba Addamsning talabalik yillari, u o'zining yangi paydo bo'lgan ruhiy qobiliyatini egallashga, qotilliklarning oldini olishga va ota-onasini qamrab olgan sirni hal qilishga harakat qiladi.",
+      "genre": "Komediya Fantastika Kriminal ",
+      "id": "VENZDEY",
+      "imdb": "8.1",
+      "img": "https://i.imgur.com/38m4YaC.jpg",
+      "push": "-NqqkhYur6tfXR6lWbc7",
+      "state": "AQSH ",
+      "time": "17022024041039",
+      "title": "Uenzdey / Venzdey",
+      "trailer": "https://ok.ru/video/4629749172953",
+      "year": "2022"
     }
   },
   "SERIALKOREA": {
@@ -39529,6 +39544,22 @@
         "link": "https://files.uzbeklar.biz/film3/vanda/9qism.mp4",
         "part": 9,
         "title": "Vanda va Vijn"
+      }
+    },
+    "VENZDEY": {
+      "-NqqkvqKOBMHrJm6rdmF": {
+        "id": "VENZDEY",
+        "img": "https://i.imgur.com/38m4YaC.jpg",
+        "link": "https://fb.watch/qgjuK1JeeU/?mibextid=RtaFA8",
+        "part": 1,
+        "title": "Uenzdey / Venzdey"
+      },
+      "-Nqql1YuhFjzSJVNYWgV": {
+        "id": "VENZDEY",
+        "img": "https://i.imgur.com/38m4YaC.jpg",
+        "link": "https://fb.watch/qgjxeCnYwd/?mibextid=RtaFA8",
+        "part": 2,
+        "title": "Uenzdey / Venzdey"
       }
     },
     "YIGITSOZI": {
