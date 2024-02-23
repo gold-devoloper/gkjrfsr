@@ -3966,6 +3966,12 @@
       "push": "-Nr60IkwCHqmfcgpOEhw",
       "time": "20022024075706",
       "title": "Qatar"
+    },
+    "-NrMOO6K5DYatTVbuk8D": {
+      "img": "https://i.imgur.com/zlcHen5.jpeg",
+      "push": "-NrMOO6K5DYatTVbuk8D",
+      "time": "24022024121615",
+      "title": "Daniya"
     }
   },
   "IMAGESLIDER": {
@@ -32596,6 +32602,13 @@
         "link": "http://fayllar1.ru/33/Seriallar/Andor/Andor%201-1%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 1,
         "title": "Andor"
+      },
+      "-NrMLie091C6ShlNTzoX": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "http://fayllar1.ru/33/Seriallar/Andor/Andor%201-2%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 2,
+        "title": "Andor"
       }
     },
     "ANGAFSONASI": {
@@ -36954,6 +36967,13 @@
         "img": "https://i.imgur.com/xiy8egI.jpg",
         "link": "http://fayllar1.ru/34/Seriallar/Richer/Richer%201-8%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 8,
+        "title": "Jek Richer"
+      },
+      "-NrMEHNFdhzsAjQyZJc2": {
+        "id": "JEKRICHER",
+        "img": "https://i.imgur.com/xiy8egI.jpg",
+        "link": "http://fayllar1.ru/34/Seriallar/Richer/Richer%202-1%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 9,
         "title": "Jek Richer"
       }
     },
