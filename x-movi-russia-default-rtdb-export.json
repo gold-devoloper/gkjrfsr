@@ -36,6 +36,127 @@
       "title": "Различный"
     }
   },
+  "CATEGORYX": {
+    "FANTASTIK": {
+      "-NrENs3LT53X3P8ya_AD": {
+        "age": 16,
+        "child": "KINO",
+        "description": "После того, как удар метеорита положил начало новому ледниковому периоду, группа выживших пытается найти устройство, которое могло бы дать человечеству новую надежду.",
+        "genre": "Боевик Приключение ",
+        "imdb": "3.3",
+        "img": "https://i.imgur.com/mVNr73S.jpeg",
+        "link": "https://ok.ru/video/227930540707",
+        "push": "-NrENs3LT53X3P8ya_AD",
+        "state": "США Германия ",
+        "time": "22022024105702",
+        "title": "ПОСЛЕ АПОКАЛИПСИСА",
+        "trailer": "https://ok.ru/video/227930540707",
+        "year": "2004"
+      }
+    },
+    "HIND": {
+      "-NrEJKEcuAqJK2ulRwES": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Свами и Ананд, которые выглядят совершенно одинаково, происходят из разных слоев общества. В сложных обстоятельствах Пранави, молодая и красивая девушка, влюбляется в них обоих. Как Свами и Ана...",
+        "genre": "Боевик Комедия ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/GDfvno3.jpeg",
+        "link": "https://ok.ru/video/4644754426569",
+        "push": "-NrEJKEcuAqJK2ulRwES",
+        "state": "Индия ",
+        "time": "22022024103711",
+        "title": "Большой Взрыв",
+        "trailer": "https://ok.ru/video/3031824206574",
+        "year": "2022"
+      }
+    },
+    "JANGARI": {
+      "-NrEFUOKDlMIgAW6vQHD": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Владелец ранчо на границе с Аризоной становится маловероятным защитником мексиканского мальчика, отчаянно спасающегося от убийц картеля, преследовавших его в США.",
+        "genre": "Боевик Драма ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/8XrwT7e.jpeg",
+        "link": "https://ok.ru/video/4543902321259",
+        "push": "-NrEFUOKDlMIgAW6vQHD",
+        "state": "США ",
+        "time": "22022024102024",
+        "title": "Заступник",
+        "trailer": "https://ok.ru/video/2479120059053",
+        "year": "2021"
+      }
+    },
+    "KOMEDIYA": {
+      "-NrEPWlZdk4_sLwE1c4z": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Эгоцентричный бабник оказывается в затруднительном положении, когда в его правую руку вселяется дух ненавидящей его молодой женщины.",
+        "genre": "Комедия Драма ",
+        "imdb": "4.4",
+        "img": "https://i.imgur.com/mckLriu.jpeg",
+        "link": "https://ok.ru/video/7452912781873",
+        "push": "-NrEPWlZdk4_sLwE1c4z",
+        "state": "Россия ",
+        "time": "22022024110415",
+        "title": "Одной левой",
+        "trailer": "https://ok.ru/video/7232619798",
+        "year": "2015"
+      }
+    },
+    "MULTFILM": {
+      "-NrEGxG-9kvOOQwezUFU": {
+        "age": 12,
+        "child": "KINO",
+        "description": "В мире роботов молодой изобретатель-идеалист отправляется в большой город, чтобы присоединиться к компании своего вдохновителя, но обнаруживает, что выступает против ее зловещего нового руководства.",
+        "genre": "Комедия Приключение ",
+        "imdb": "6.4",
+        "img": "https://i.imgur.com/hu1KBVn.jpeg",
+        "link": "https://ok.ru/video/361850800839",
+        "push": "-NrEGxG-9kvOOQwezUFU",
+        "state": "США ",
+        "time": "22022024102648",
+        "title": "Роботы ",
+        "trailer": "https://ok.ru/video/7279107836439",
+        "year": "2005"
+      }
+    },
+    "OTHER": {
+      "-NrER8hvu0Mqg4U23Djc": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Томбируо — проблемный молодой человек, уродливый, послушный и обремененный силами, которые не подчиняются его воле. Трагическая смерть его отца заставляет Томбируо мстить и наказывать тех, кто пострадал... ",
+        "genre": "Приключение Драма ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/bsBQXGb.jpeg",
+        "link": "https://ok.ru/video/557056526947",
+        "push": "-NrER8hvu0Mqg4U23Djc",
+        "state": "Малайзия",
+        "time": "22022024111121",
+        "title": "Томбируо",
+        "trailer": "https://ok.ru/video/1077054147277",
+        "year": "2017"
+      }
+    },
+    "QORQINCHLI": {
+      "-NrED4xpwSV7N2iETarl": {
+        "age": 18,
+        "child": "KINO",
+        "description": "После того, как молодая пара берет к себе двух своих племянниц, они подозревают, что к их семье вселился сверхъестественный дух по имени Мама.",
+        "genre": "Фантастика Ужастик ",
+        "imdb": "6.2",
+        "img": "https://i.imgur.com/xUjK45u.jpeg",
+        "link": "https://ok.ru/video/33394133749",
+        "push": "-NrED4xpwSV7N2iETarl",
+        "state": "Канада Мексиканский ",
+        "time": "22022024100955",
+        "title": "Мама",
+        "trailer": "https://ok.ru/video/6789959256630",
+        "year": "2013"
+      }
+    }
+  },
   "COUNTRY": {
     "-Nj6UEhE_jHgC30VAYZ7": {
       "img": "https://i.imgur.com/I582YOt.jpg",
@@ -112,6 +233,23 @@
       "img": "soon",
       "time": "13112023102143",
       "title": "Rek up"
+    }
+  },
+  "SERIAL": {
+    "-NrEq7sWxfRlNdGuZED5": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Шурик, более известный в дайвинг-среде как «Черный македонец», уже много лет занимается дайвингом за границей, куда попал подростком после гибели отца в бандитском шоу... ",
+      "genre": "Приключение ",
+      "id": "DAYBER",
+      "imdb": "0",
+      "img": "https://i.imgur.com/frzLuvu.jpeg",
+      "push": "-NrEq7sWxfRlNdGuZED5",
+      "state": "Россия ",
+      "time": "22022024010453",
+      "title": "ДАЙВЕР",
+      "trailer": "https://ok.ru/video/3879513623124",
+      "year": "2022"
     }
   },
   "TV": {
