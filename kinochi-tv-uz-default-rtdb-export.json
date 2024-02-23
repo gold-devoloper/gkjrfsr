@@ -5487,6 +5487,21 @@
       "title": "Berlin",
       "trailer": "https://ok.ru/video/6639699692123",
       "year": "2023"
+    },
+    "-NrM4xNsUsbK9wG9MjVY": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Aang to'rt elementni nazorat qila oladi va do'stlari bilan ko'p asrlik urushni to'xtatishga harakat qiladi.\n",
+      "genre": "Jangari Komediya Sarguzashtlar Fantastika ",
+      "id": "ANGAFSONASI",
+      "imdb": "7.6",
+      "img": "https://i.imgur.com/WSovRl2.jpeg",
+      "push": "-NrM4xNsUsbK9wG9MjVY",
+      "state": "AQSH ",
+      "time": "23022024105121",
+      "title": "Avatar: Ang afsonasi",
+      "trailer": "https://ok.ru/video/6402904099458",
+      "year": "2024"
     }
   },
   "SERIALKOREA": {
@@ -32581,6 +32596,15 @@
         "link": "http://fayllar1.ru/33/Seriallar/Andor/Andor%201-1%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 1,
         "title": "Andor"
+      }
+    },
+    "ANGAFSONASI": {
+      "-NrM558-qNMZhgJBXbIV": {
+        "id": "ANGAFSONASI",
+        "img": "https://i.imgur.com/WSovRl2.jpeg",
+        "link": "http://fayllar1.ru/27/Seriallar/Avatar/Avatar%20Ang%20afsonasi%201-qism%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 1,
+        "title": "Avatar: Ang afsonasi"
       }
     },
     "ASKARKR": {
