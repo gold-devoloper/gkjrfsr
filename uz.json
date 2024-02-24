@@ -2775,6 +2775,21 @@
         "title": "Migratsiya",
         "trailer": "https://ok.ru/video/4511248157343",
         "year": "2023"
+      },
+      "-NrO3eLgVVonYQozzbSU": {
+        "age": 6,
+        "child": "KINO",
+        "description": "Video o'yin yovuz qahramoni qahramon bo'lishni xohlaydi va o'z orzusini amalga oshirishga kirishadi, lekin uning izlanishlari u yashaydigan butun arkadani vayron qiladi.",
+        "genre": "Sarguzashtlar Komediya ",
+        "imdb": "7.7",
+        "img": "https://i.imgur.com/Nb4UthF.jpeg",
+        "link": "https://www.dailymotion.com/video/k4NHw4eI01qVYXA3Enm",
+        "push": "-NrO3eLgVVonYQozzbSU",
+        "state": "AQSH ",
+        "time": "24022024080455",
+        "title": "Ralf 1",
+        "trailer": "https://ok.ru/video/1012601850471",
+        "year": "2012"
       }
     },
     "OTHER": {
@@ -3966,6 +3981,12 @@
       "push": "-Nr60IkwCHqmfcgpOEhw",
       "time": "20022024075706",
       "title": "Qatar"
+    },
+    "-NrMOO6K5DYatTVbuk8D": {
+      "img": "https://i.imgur.com/zlcHen5.jpeg",
+      "push": "-NrMOO6K5DYatTVbuk8D",
+      "time": "24022024121615",
+      "title": "Daniya"
     }
   },
   "IMAGESLIDER": {
@@ -5487,6 +5508,36 @@
       "title": "Berlin",
       "trailer": "https://ok.ru/video/6639699692123",
       "year": "2023"
+    },
+    "-NrM4xNsUsbK9wG9MjVY": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Aang to'rt elementni nazorat qila oladi va do'stlari bilan ko'p asrlik urushni to'xtatishga harakat qiladi.\n",
+      "genre": "Jangari Komediya Sarguzashtlar Fantastika ",
+      "id": "ANGAFSONASI",
+      "imdb": "7.6",
+      "img": "https://i.imgur.com/WSovRl2.jpeg",
+      "push": "-NrM4xNsUsbK9wG9MjVY",
+      "state": "AQSH ",
+      "time": "23022024105121",
+      "title": "Avatar: Ang afsonasi",
+      "trailer": "https://ok.ru/video/6402904099458",
+      "year": "2024"
+    },
+    "-NrPiUSc6W6MvodeLkF5": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Ota-onalari halok bo‘lgan fojiali voqea sodir bo‘lganiga atigi to‘rt oy bo‘ldi, 17 yoshli Elena Gilbert va uning 15 yoshli akasi Jeremi hamon yo‘qotishdan qutulib, normal hayotga qaytishga harakat qilmoqda. Elena har doim a'lo o'quvchi, maktabda go'zal va mashhur qiz bo'lgan, ammo endi uning qayg'usini tashqi dunyodan yashirish juda qiyin. O'quv yilining boshida yangi o'quvchi, sirli va kelishgan Stefan Salvatore Elena va uning do'stlarining e'tiborini tortadi.\n",
+      "genre": "Drama Fantastika Ujas ",
+      "id": "VAMPIRLARKUNDALIGIX",
+      "imdb": "7.7",
+      "img": "https://i.imgur.com/VgicItQ.jpeg",
+      "push": "-NrPiUSc6W6MvodeLkF5",
+      "state": "AQSH ",
+      "time": "24022024034718",
+      "title": "Vampirlar Kundaligi ",
+      "trailer": "https://ok.ru/video/3914745186952",
+      "year": "2009"
     }
   },
   "SERIALKOREA": {
@@ -32581,6 +32632,22 @@
         "link": "http://fayllar1.ru/33/Seriallar/Andor/Andor%201-1%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 1,
         "title": "Andor"
+      },
+      "-NrMLie091C6ShlNTzoX": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "http://fayllar1.ru/33/Seriallar/Andor/Andor%201-2%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 2,
+        "title": "Andor"
+      }
+    },
+    "ANGAFSONASI": {
+      "-NrM558-qNMZhgJBXbIV": {
+        "id": "ANGAFSONASI",
+        "img": "https://i.imgur.com/WSovRl2.jpeg",
+        "link": "http://fayllar1.ru/27/Seriallar/Avatar/Avatar%20Ang%20afsonasi%201-qism%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 1,
+        "title": "Avatar: Ang afsonasi"
       }
     },
     "ASKARKR": {
@@ -36931,6 +36998,13 @@
         "link": "http://fayllar1.ru/34/Seriallar/Richer/Richer%201-8%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 8,
         "title": "Jek Richer"
+      },
+      "-NrMEHNFdhzsAjQyZJc2": {
+        "id": "JEKRICHER",
+        "img": "https://i.imgur.com/xiy8egI.jpg",
+        "link": "http://fayllar1.ru/34/Seriallar/Richer/Richer%202-1%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 9,
+        "title": "Jek Richer"
       }
     },
     "KORBARAY": {
@@ -40799,6 +40873,1212 @@
         "link": "http://fayllar1.ru/24/Seriallar/Tungi%20bo'rilar%206/Tungi%20bo'rilar%20f06q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
         "part": 100,
         "title": "Tungi Bo'rilar"
+      }
+    },
+    "VAMPIRLARKUNDALIGIX": {
+      "-NrQO_-vOa3iXE6AfImJ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 1,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQObjKf17gxqU9cjbH": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 2,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQOfHBK3Bqoj8iVlvJ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 3,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQOi7mwKZf-h6IAa32": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 4,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQOkr3M9Jisb1Y-pQ4": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 5,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQOxDOuXH4UZNn5kTA": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 6,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQP-byB8ANmZ3Zhg7I": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 7,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQP8IfcJfkCiez3V73": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 8,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPC5CYG6o-Tl4lCkc": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 9,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPG8hCbPD7D4QlTIW": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 10,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPNdgLcl0w47B4qTK": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 11,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPQyRJxLgwl5PrRvC": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q12%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 12,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPUwTkK23w421WeHW": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 13,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPYIM7Rr4-wOSEyj3": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 14,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPdRgMNG8LWYrNVLh": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q15%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 15,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPhrlZ5zxUFylRTcX": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 16,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPlcjQEP13vx0oDVx": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q17%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 17,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQPv-qBSYtcuohUWup": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q18%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 18,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQQ-Q7iz_Nig1Dxnde": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/21/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q19%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 19,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQQ8Pun7wGH1zkBU3c": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/25/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 20,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQQHu99GEtCv1n9lD8": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q21%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 21,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQQL_WQL0dLa-FNT9c": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f01q22%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 22,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQQZqzzWXA3QJsMP1Q": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 23,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQQlM9fU2ezg2FpPtk": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 24,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQQx0Iy6G7r3kFfqix": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 25,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQR-DUil3V6tB2_K5G": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 26,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQR35dD9PyAssvREJi": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 27,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQR7n7QJo7tZvGoLqi": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 28,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRB5_0FfWXRwOKlMb": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 29,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRFGu6qdT2yMcAuNU": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 30,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRJ8pjZlMyzNDfTqO": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 31,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRONWMuFbUSpAM-F_": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 32,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRSO-YfIVkLIVITYF": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 33,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRW6LDmplVxX0Pk13": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q12%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 34,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRaAL6Pm1YnFnc1-6": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 35,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRexJuE-reD3e6V9u": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 36,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQRotvWi6x8y0yqBKN": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 37,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQS8tPG21sbVnHfFCe": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 38,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSC0djvKz4OJve91S": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q17%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 39,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSFjiXLPyoanmNGQB": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q18%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 40,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSIS_1bo3hlCAWpke": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q19%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 41,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSLF1XFezB0bTrJTX": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 42,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSO6nXwYRNOZXVbdj": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q21%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 43,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSRQR1GR1AtGM4q3d": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%202/Vampirlar%20kundaligi%20f02q22%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 44,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSVOrWrAnBdXtsp0Z": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 45,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSY4iEJra6-l32IW3": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 46,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQS_yjc7pjUdKJ6pKZ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 47,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQScWJPDl4nONS7dSW": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 48,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSfcHQYDK2IShufrt": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 49,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSigMutGGtupssbPf": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 50,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSla329NgeMfO0zGg": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 51,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSoo4mvR52j8Rgs4Y": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 52,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSrtSgKP4YinUiJsz": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 53,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSuwU-oprLH4FeEn_": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/25/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f03q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 54,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQSyBBi2cM_iRSAjDp": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 55,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQT01OsDp0lUYHcSDP": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/24/Seriallar/Vampirlar%20kundaligi%203/Vampirlar%20kundaligi%20f03q12aaa%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 56,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQT2t7QgTXzSV6MQcK": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 57,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQT5_2OHoppGKs16Co": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 58,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQT8DRH4EPmxVzi7qb": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q15%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 59,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTB-vrVprEi-u6Z_-": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 60,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTDoYQQhrz14_s2Yv": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q17%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 61,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTH_Da22Frbsc09fq": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q18%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 62,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTKA0inkAXCHbY1J_": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q19%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 63,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTNQjxh_KiF2e5qm6": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 64,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTQVRYrY-Quomf4TF": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q21%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 65,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTTFlHZhrdokLZ5e9": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f03q22%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 66,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTWKFeEgPbp6vKv2-": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).m4v",
+        "part": 67,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTZ-mpd1o40JFIq7r": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 68,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTand-4urSoq26YtC": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 69,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQTeAFEAByYAt5vh8c": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 70,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQU4aPe7p8ppNMM5D6": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 71,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQU7EBi4NLy_lrhxIb": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 72,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUA0s92pWa5fOmzH0": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 73,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUDH6oa6RWYum_35K": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 74,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUGNlEs57BddjiO5h": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 75,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUJW-otoyOjpCkskm": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 76,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUN4_PZprxgmHl1Oz": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 77,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUPVfdPAnCSVyUkmA": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q12%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 78,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUSJuGcAy5RmjC4PU": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 79,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUWqyPrPqetkfxhqE": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 80,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUZeJ3Pjy-nL6713s": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q15%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 81,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUbG-w6f40Yy6nEci": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 82,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUeMInXjikivX6gVR": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q17%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 83,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUnM4lW5bCUOmMjAY": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q18%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 84,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUrndW-J2QBBj1U3r": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q19%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 85,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUuXJ0AmT_l-nRwdp": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 86,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQUxmNhBze0n9w7ee5": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q21%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 87,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQV0CPsZlHYhOvAqd7": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q22%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 88,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQV2nB1j7t6yXqdZ1h": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f04q23%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 89,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQV5oVQ7vDDdpgDXX0": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 90,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQV8gyknoTCQlAVF4e": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 91,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVBRPA0KPZKJcS42-": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 92,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVDzZtMn69AD2UyXY": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 93,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVGd6CJmpRVe-B_5o": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 94,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVJFLeSs5VqZ3bzQA": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 95,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVLwuJExIjJBCkZMx": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 96,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVOQkpOvURJIppmcD": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 97,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVTJmuMuNZbg2WcWN": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 98,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVVwPXkMx0iw1FheH": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 99,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQV_j0T3-e2ZUQ691z": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 100,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVeF8tUxTJ-OeZHn8": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q12%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 101,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVhzgX-tJ1Y6wDDRE": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 102,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVlfpiVCBtwGUVvp8": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 103,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVpNjQ8Grl0kLaHmZ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q15%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 104,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVsIXFqXNKA2HNpqI": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 105,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVvRAQ4VNtG1aKXKo": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q17%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 106,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQVy7zmM-QaIzE3-4o": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q18%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 107,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQW-vJs3ekGp4rXn-y": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q19%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 108,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQW2qbVaq2zV-iM46k": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 109,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQW5mqoqMCe_NiM_KC": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q21%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 110,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWIFYJTwtaLTE1Qcs": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f05q22%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 111,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWKq_ZhNbWWLA36Rp": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 112,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWOKncN_q6ACO6PUe": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 113,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWU4mjk-2MBn4FCFJ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 114,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWd-1pbezy-Xc0E1J": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 115,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWm3fw74l46rYcf-_": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 116,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWqTbQfzGEjpcK9Vh": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 117,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWtD_2_NIfPMbAE5K": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 117,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQWz1zjPMo_n7zeHdl": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 118,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQX2qGeltvXrhxNWkN": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 119,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQX6H4LdMr1DrLF5tf": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 120,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXAwkIFH7OCk4hel5": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 121,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXF7UFZ8x2lZ85m5n": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 122,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXHtqKozLs0GPpgOr": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q12%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 123,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXKPvqR2coUhpJIPI": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 124,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXMwqH0-GR9s8MZu4": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 125,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXPw1q75pLMT54nLo": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q15%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 126,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXSZ2rA89AXLBNY2b": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 127,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXWLamMZdVE6d56Qd": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q17%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 128,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXYvBrnMaXXLEXCEZ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q18%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 129,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXadSUFb66r5t_zXX": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q19%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 130,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXdMKb4mgU-yB1WiR": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 131,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXfvnTDZNkaLBQD3u": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q21%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 132,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXieq6a0Oqb8cH_bj": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f06q22%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 133,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXm-dlE7EkGoD46mQ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 134,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXp5e6XqX5156mK8Y": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 135,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXrX-Llmt26JZ2oU1": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 136,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXu2LqXS8VnXTV9pV": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 137,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXwaebOw1-dub6FSX": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 138,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQXz5I831kApGJcIkQ": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/19/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f07q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 139,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQY0jKOG6uk84jKAtp": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/19/Seriallar/Vampirlar%20kundaligi/Vampirlar%20kundaligi%20f07q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 140,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQY3QVS0GDjKvePtgC": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 141,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQY5sHNCCkS8zxWKkE": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 142,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQY8NROQ4JijMOo4nz": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 143,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYB2qtFKYmb4uxfGH": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 144,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYDbeGkSDvXC-RWDr": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q12%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 145,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYG3pIx0HP_czblaD": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 146,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYIMnrDugI0ttyaEE": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 147,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYMeKzBWAKAurPYgN": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q15%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 148,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYQ75tkyJvv-qzcfB": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 149,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYTJdja6By3036ABe": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q17%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 150,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYXAEth8Yu9KhFWbW": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q18%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 151,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYbFGBliQSOMhw25Z": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q19%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 152,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYe3XPkr6Of_IQLnr": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q20%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 153,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYhJ5fcpsvvo8hRXE": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q21%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 154,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYk3xO69Q1Qh7eHx5": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f07q22%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 155,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYmmhngdpnZN-97kg": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q01%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 156,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYpEjHRN-37RWZSlW": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q02%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 157,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYrl_FFF4SDUqPdwY": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q03%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 158,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYuZHqHd9dQ1T0cxk": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q04%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 159,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYxGNtSV7ryuTPFV3": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q05%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 160,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQYzoJGUCc8X3rQ3Th": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q06%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 161,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZ1Lf_1bQBTa7CaWB": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q07%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 162,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZ3g0pZKPlxonOtKT": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q08%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 163,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZ6AfQN5R4GleeSur": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q09%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 164,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZ94nwDZN82zon_2f": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q10%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 165,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZC2SrpMmGIAvb5iO": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q11%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 166,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZEqHH0YXvNMJysMU": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q12%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 167,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZH8oPusv8k5FcWlG": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q13%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 168,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZJH4Ndwl6hIyBH2V": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q14%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 169,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZMFWduhai60a1vht": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q15%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 170,
+        "title": "Vampirlar Kundaligi "
+      },
+      "-NrQZOs-ycSdVL_B_oKF": {
+        "id": "VAMPIRLARKUNDALIGIX",
+        "img": "https://i.imgur.com/VgicItQ.jpeg",
+        "link": "http://fayllar1.ru/23/Seriallar/Vampirlar%203/Vampirlar%20kundaligi%20f08q16%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 171,
+        "title": "Vampirlar Kundaligi "
       }
     },
     "VANDAVAVIJN": {
