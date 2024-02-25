@@ -3990,41 +3990,13 @@
     }
   },
   "IMAGESLIDER": {
-    "-NcgGfUJGd6wRIMtuTg9": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/Wyx8T8y.jpg"
+    "-NrTI3x2M3T7uKLMeb2m": {
+      "id": "NRGLMM",
+      "img": "https://i.imgur.com/EE02nH3.jpeg"
     },
-    "-NcgGiXZXRsihiPSYmlm": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/iPdStIc.jpg"
-    },
-    "-NcgGnEjXacVvIYnkPEN": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/EMpucSW.jpg"
-    },
-    "-NcgGpsYE55Lg4JBwkF8": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/q1YJjQy.jpg"
-    },
-    "-NcgGtJBy0z_EjUGHyF7": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/aGyItor.jpg"
-    },
-    "-NcgGvuQwhm6DTf_0HNi": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/i9xergq.jpg"
-    },
-    "-Nl1wCr6KJhvVXlLznbI": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/bC46C96.jpg"
-    },
-    "-NlBc0VRycGMzY6BgcvX": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/VYAbvrx.jpg"
-    },
-    "-Nr8l2DVzwiq0Y-okn0y": {
-      "id": "9GwsS",
-      "img": "https://i.imgur.com/fycJOlq.jpeg"
+    "-NrTcCfn17QVhRrVmYjZ": {
+      "id": "NRM4XN",
+      "img": "https://i.imgur.com/t0cpySJ.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -4876,6 +4848,12 @@
       "img": "soon",
       "time": "09022024101753",
       "title": "Ilovani yangilab oling"
+    },
+    "-NrQxkLRZ4s2pvgnSw1t": {
+      "desc": "Ilovada Ayrim kinolar seriallar ko'rsatmasligi mumkin. Texnik ishlab olib borilmoqda ertaga Hammaga yangilanish boradi  muammo uchun uzur so'raymiz.",
+      "img": "soon",
+      "time": "24022024093337",
+      "title": "Ilovada Ayrim kinolar seriallar ko'rsatmasligi mumkin. Texnik ishlab olib borilmoqda ertaga Hammaga yangilanish boradi  muammo uchun uzur so'raymiz."
     }
   },
   "SERIAL": {
@@ -32639,6 +32617,13 @@
         "link": "http://fayllar1.ru/33/Seriallar/Andor/Andor%201-2%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 2,
         "title": "Andor"
+      },
+      "-NrQb-NFjeeb-Mx0Y1fx": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "http://fayllar1.ru/33/Seriallar/Andor/Andor%201-3%20AQSH%20seriali%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 3,
+        "title": "Andor"
       }
     },
     "ANGAFSONASI": {
@@ -32647,6 +32632,13 @@
         "img": "https://i.imgur.com/WSovRl2.jpeg",
         "link": "http://fayllar1.ru/27/Seriallar/Avatar/Avatar%20Ang%20afsonasi%201-qism%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "part": 1,
+        "title": "Avatar: Ang afsonasi"
+      },
+      "-NrTcTixeU6NK0F4wvvW": {
+        "id": "ANGAFSONASI",
+        "img": "https://i.imgur.com/WSovRl2.jpeg",
+        "link": "http://fayllar1.ru/27/Seriallar/Avatar/Avatar%20Ang%20afsonasi%202-qism%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "part": 2,
         "title": "Avatar: Ang afsonasi"
       }
     },
