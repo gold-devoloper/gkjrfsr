@@ -2396,6 +2396,36 @@
         "title": "Zulmat girdobida",
         "trailer": "https://ok.ru/video/6644697991774",
         "year": "2024"
+      },
+      "-Nrk5Ol1sjUT5kbI-RAs": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Belgiya, Britaniya Hamdo'stligi va Imperiyasi va Frantsiyadan kelgan ittifoqchilar askarlari Germaniya armiyasi tomonidan o'rab olingan va Ikkinchi Jahon urushidagi shiddatli jang paytida evakuatsiya qilingan.",
+        "genre": "Jangari Drama ",
+        "imdb": "7.8",
+        "img": "https://i.imgur.com/9Lypf2A.jpeg",
+        "link": "https://ok.ru/video/6646776859230",
+        "push": "-Nrk5Ol1sjUT5kbI-RAs",
+        "state": "Buyuk Britaniya AQSH Fransiya  Niderlandiya",
+        "time": "28022024072357",
+        "title": "Dyunkerk",
+        "trailer": "https://ok.ru/video/324212230888",
+        "year": "2017"
+      },
+      "-Nrk6sGbdO_oAtZD7ySL": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Eksklyuziv orolda VIPni qutqarish uchun yuborilgan elita xavfsizlik guruhi a'zolari. Qutqaruv missiyasi omon qolish, oroldan qochish va dahshatli mavjudlikdan qochish uchun umidsiz urinishga aylanadi ...",
+        "genre": "Jangari Fantastika ",
+        "imdb": "5.4",
+        "img": "https://i.imgur.com/cWwZVTf.jpeg",
+        "link": "https://ok.ru/video/6648226974302",
+        "push": "-Nrk6sGbdO_oAtZD7ySL",
+        "state": "AQSH ",
+        "time": "28022024073024",
+        "title": "Qora shovqin",
+        "trailer": "https://ok.ru/video/6544843540993",
+        "year": "2023"
       }
     },
     "KOMEDIYA": {
@@ -3257,6 +3287,21 @@
         "title": "Ona g'azabi",
         "trailer": "https://ok.ru/video/6552283515393",
         "year": "2023"
+      },
+      "-Nrk3KGC1UD97jfW8eUP": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Film 19-asrning ikkinchi yarmida Sankt-Peterburgda shtat tarixidagi eng katta va eng halokatli bo'lgan dahshatli suv toshqinidan keyin sodir bo'ladi: kuchli suv oqimi tufayli to'rt mingdan ortiq uy vayron bo'lgan va zarar ko'rgan. , bu yuzlab odamlarning hayotiga zomin bo'ldi.\nVoqealar Sankt-Peterburgning tabiiy ofatdan jiddiy zarar ko'rgan markaziy hududlarida bo'lib o'tadi. Syujyet markazida ma'lum sabablarga ko'ra professional duelchiga aylanib, pul evaziga duellarda qatnashib, shu orqali o'z tirikchiligini topib yurgan yosh ofitser Yakovlev joylashgan. Va o'sha paytda erkaklar orasida bunday radikal usul yordamida yuzaga kelgan muammolarni hal qilishni istagan jasur erkaklar juda kam bo'lganligi sababli, bizning qahramonimiz ishsiz o'tirishi shart emas edi. Yakovlev raqiblarini birin-ketin mag'lub eta boshlaganida, ba'zi shaharliklarda savollar tug'iladi: u qanday maqsadlarni ko'zlaydi va qahramonimizni o'qlardan himoya qilib, shaytonning o'zi bilan kelishuvga erishganga o'xshash jim yigit qanday sirni saqlaydi. .",
+        "genre": "Drama ",
+        "imdb": "6.4",
+        "img": "https://i.imgur.com/X1f3Dc7.jpeg",
+        "link": "https://ok.ru/video/6646521662046",
+        "push": "-Nrk3KGC1UD97jfW8eUP",
+        "state": "Rossiya ",
+        "time": "28022024071455",
+        "title": "Duelchi",
+        "trailer": "https://ok.ru/video/6646521662046",
+        "year": "2016"
       }
     },
     "QORQINCHLI": {
@@ -5025,6 +5070,12 @@
       "img": "soon",
       "time": "25022024054256",
       "title": "Ilovani oxirgi versiyaga yangilab oling eski ilovada ayrim kinolar ko'rsatmasligi mumkin"
+    },
+    "-NrevATb9mBQfe2P_6xM": {
+      "desc": "Yangi joylangan Seriallar kinolar eski ilovalarda ko'rinmaydi play marketdan yangilab oling Tez kunda Mb tejash tezkor player yuklab olish takomilashtiriladi",
+      "img": "soon",
+      "time": "27022024071649",
+      "title": "Yangi joylangan Seriallar kinolar eski ilovalarda ko'rinmaydi play marketdan yangilab oling Tez kunda Mb tejash tezkor player yuklab olish takomilashtiriladi"
     }
   },
   "SERIAL": {
