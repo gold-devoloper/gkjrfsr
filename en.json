@@ -1,0 +1,337 @@
+{
+  "CATEGORY": {
+    "-NcjP0OxLMebzgK9Rzmn": {
+      "id": "JANGARI",
+      "img": "https://i.pinimg.com/564x/ba/72/4a/ba724ad951e978b20f471b5f1f1021b2.jpg",
+      "title": "Боевики"
+    },
+    "-NcjPMYh_oiLRIgwXOY0": {
+      "id": "MULTFILM",
+      "img": "https://i.pinimg.com/564x/4e/8f/31/4e8f31644369654e66d7468839e53d62.jpg",
+      "title": "Мультфильмы"
+    },
+    "-NcjVt37PXSB-DHtk5Ec": {
+      "id": "FANTASTIK",
+      "img": "https://i.pinimg.com/564x/71/d0/16/71d0163e78add5d7391d165de78aabaa.jpg",
+      "title": "Фантастические фильмы"
+    },
+    "-NcjWrnFU08IVJ5605BH": {
+      "id": "KOMEDIYA",
+      "img": "https://i.pinimg.com/564x/4d/93/57/4d93578e210cbb3db0a0f62a66266699.jpg",
+      "title": "Комедии"
+    },
+    "-NcjWzvUqnA3KIWWkp9h": {
+      "id": "HIND",
+      "img": "https://i.pinimg.com/564x/b2/56/d0/b256d0b9414c1d7ee725bd1da197bda2.jpg",
+      "title": "Для фильмов на хинди"
+    },
+    "-NcjX7vQnVAQGVVZ4fJv": {
+      "id": "QORQINCHLI",
+      "img": "https://topkinolar.com/uploads/posts/2023-03/1679789955-1692769565.webp",
+      "title": "Фильмы ужасов"
+    },
+    "-NcjtffuKn5hTupnMiun": {
+      "id": "OTHER",
+      "img": "https://i.imgur.com/DQtYnf5.jpg",
+      "title": "Различный"
+    }
+  },
+  "CATEGORYX": {
+    "FANTASTIK": {
+      "-NrENs3LT53X3P8ya_AD": {
+        "age": 16,
+        "child": "KINO",
+        "description": "После того, как удар метеорита положил начало новому ледниковому периоду, группа выживших пытается найти устройство, которое могло бы дать человечеству новую надежду.",
+        "genre": "Боевик Приключение ",
+        "imdb": "3.3",
+        "img": "https://i.imgur.com/mVNr73S.jpeg",
+        "link": "https://ok.ru/video/227930540707",
+        "push": "-NrENs3LT53X3P8ya_AD",
+        "state": "США Германия ",
+        "time": "22022024105702",
+        "title": "ПОСЛЕ АПОКАЛИПСИСА",
+        "trailer": "https://ok.ru/video/227930540707",
+        "year": "2004"
+      }
+    },
+    "HIND": {
+      "-NrEJKEcuAqJK2ulRwES": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Свами и Ананд, которые выглядят совершенно одинаково, происходят из разных слоев общества. В сложных обстоятельствах Пранави, молодая и красивая девушка, влюбляется в них обоих. Как Свами и Ана...",
+        "genre": "Боевик Комедия ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/GDfvno3.jpeg",
+        "link": "https://ok.ru/video/4644754426569",
+        "push": "-NrEJKEcuAqJK2ulRwES",
+        "state": "Индия ",
+        "time": "22022024103711",
+        "title": "Большой Взрыв",
+        "trailer": "https://ok.ru/video/3031824206574",
+        "year": "2022"
+      }
+    },
+    "JANGARI": {
+      "-NrEFUOKDlMIgAW6vQHD": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Владелец ранчо на границе с Аризоной становится маловероятным защитником мексиканского мальчика, отчаянно спасающегося от убийц картеля, преследовавших его в США.",
+        "genre": "Боевик Драма ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/8XrwT7e.jpeg",
+        "link": "https://ok.ru/video/4543902321259",
+        "push": "-NrEFUOKDlMIgAW6vQHD",
+        "state": "США ",
+        "time": "22022024102024",
+        "title": "Заступник",
+        "trailer": "https://ok.ru/video/2479120059053",
+        "year": "2021"
+      }
+    },
+    "KOMEDIYA": {
+      "-NrEPWlZdk4_sLwE1c4z": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Эгоцентричный бабник оказывается в затруднительном положении, когда в его правую руку вселяется дух ненавидящей его молодой женщины.",
+        "genre": "Комедия Драма ",
+        "imdb": "4.4",
+        "img": "https://i.imgur.com/mckLriu.jpeg",
+        "link": "https://ok.ru/video/7452912781873",
+        "push": "-NrEPWlZdk4_sLwE1c4z",
+        "state": "Россия ",
+        "time": "22022024110415",
+        "title": "Одной левой",
+        "trailer": "https://ok.ru/video/7232619798",
+        "year": "2015"
+      }
+    },
+    "MULTFILM": {
+      "-NrEGxG-9kvOOQwezUFU": {
+        "age": 12,
+        "child": "KINO",
+        "description": "В мире роботов молодой изобретатель-идеалист отправляется в большой город, чтобы присоединиться к компании своего вдохновителя, но обнаруживает, что выступает против ее зловещего нового руководства.",
+        "genre": "Комедия Приключение ",
+        "imdb": "6.4",
+        "img": "https://i.imgur.com/hu1KBVn.jpeg",
+        "link": "https://ok.ru/video/361850800839",
+        "push": "-NrEGxG-9kvOOQwezUFU",
+        "state": "США ",
+        "time": "22022024102648",
+        "title": "Роботы ",
+        "trailer": "https://ok.ru/video/7279107836439",
+        "year": "2005"
+      }
+    },
+    "OTHER": {
+      "-NrER8hvu0Mqg4U23Djc": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Томбируо — проблемный молодой человек, уродливый, послушный и обремененный силами, которые не подчиняются его воле. Трагическая смерть его отца заставляет Томбируо мстить и наказывать тех, кто пострадал... ",
+        "genre": "Приключение Драма ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/bsBQXGb.jpeg",
+        "link": "https://ok.ru/video/557056526947",
+        "push": "-NrER8hvu0Mqg4U23Djc",
+        "state": "Малайзия",
+        "time": "22022024111121",
+        "title": "Томбируо",
+        "trailer": "https://ok.ru/video/1077054147277",
+        "year": "2017"
+      }
+    },
+    "QORQINCHLI": {
+      "-NrED4xpwSV7N2iETarl": {
+        "age": 18,
+        "child": "KINO",
+        "description": "После того, как молодая пара берет к себе двух своих племянниц, они подозревают, что к их семье вселился сверхъестественный дух по имени Мама.",
+        "genre": "Фантастика Ужастик ",
+        "imdb": "6.2",
+        "img": "https://i.imgur.com/xUjK45u.jpeg",
+        "link": "https://ok.ru/video/33394133749",
+        "push": "-NrED4xpwSV7N2iETarl",
+        "state": "Канада Мексиканский ",
+        "time": "22022024100955",
+        "title": "Мама",
+        "trailer": "https://ok.ru/video/6789959256630",
+        "year": "2013"
+      }
+    }
+  },
+  "COUNTRY": {
+    "-Nj6UEhE_jHgC30VAYZ7": {
+      "img": "https://i.imgur.com/I582YOt.jpg",
+      "push": "-Nj6UEhE_jHgC30VAYZ7",
+      "time": "13112023120218",
+      "title": "США"
+    },
+    "-Nj6UIYixZuoWduQDpCU": {
+      "img": "https://i.imgur.com/qGx0dhx.jpg",
+      "push": "-Nj6UIYixZuoWduQDpCU",
+      "time": "13112023120234",
+      "title": "Индия"
+    },
+    "-Nj6UMaxyCGwicUrV5cv": {
+      "img": "https://i.imgur.com/Ytcy3us.jpg",
+      "push": "-Nj6UMaxyCGwicUrV5cv",
+      "time": "13112023120250",
+      "title": "Япония"
+    },
+    "-Nj6UgzYE3thTeQR1B3Q": {
+      "img": "https://i.imgur.com/zdO1pEz.jpg",
+      "push": "-Nj6UgzYE3thTeQR1B3Q",
+      "time": "13112023120418",
+      "title": "Турция"
+    },
+    "-Nj6UzkpIe0kkrSruWp0": {
+      "img": "https://i.imgur.com/7U0qSxI.jpg",
+      "push": "-Nj6UzkpIe0kkrSruWp0",
+      "time": "13112023120535",
+      "title": "Корея"
+    },
+    "-Nj6VRTgbDxKDYrIoF3T": {
+      "img": "https://i.imgur.com/nb3NjwD.jpg",
+      "push": "-Nj6VRTgbDxKDYrIoF3T",
+      "time": "13112023120732",
+      "title": "Китай"
+    },
+    "-Nj6ViYBniBZd_RQ45Xe": {
+      "img": "https://i.imgur.com/2vt7L6o.jpg",
+      "push": "-Nj6ViYBniBZd_RQ45Xe",
+      "time": "13112023120846",
+      "title": "Россия"
+    }
+  },
+  "IMAGESLIDER": {
+    "-NcgGfUJGd6wRIMtuTg9": {
+      "id": "SOON",
+      "img": "https://i.imgur.com/Wyx8T8y.jpg"
+    },
+    "-NcgGiXZXRsihiPSYmlm": {
+      "id": "SOON",
+      "img": "https://i.imgur.com/iPdStIc.jpg"
+    },
+    "-NcgGnEjXacVvIYnkPEN": {
+      "id": "SOON",
+      "img": "https://i.imgur.com/EMpucSW.jpg"
+    },
+    "-NcgGpsYE55Lg4JBwkF8": {
+      "id": "SOON",
+      "img": "https://i.imgur.com/q1YJjQy.jpg"
+    },
+    "-NcgGtJBy0z_EjUGHyF7": {
+      "id": "SOON",
+      "img": "https://i.imgur.com/aGyItor.jpg"
+    },
+    "-NcgGvuQwhm6DTf_0HNi": {
+      "id": "SOON",
+      "img": "https://i.imgur.com/i9xergq.jpg"
+    }
+  },
+  "NOTIFICATION": {
+    "-Nj67DFpYwbV_BWeKe5u": {
+      "desc": "Reklamalar har 20 daqiqada chiqib turadi  10.15.23 soniyalik reklamalar oldingidan ancha kamaygan. Oldin kinoni ustiga bosganizda 1.2 minut reklama chiqib qolardi endi bu oz ozdan kinoni ichida chiqadi. ",
+      "img": "soon",
+      "time": "13112023102143",
+      "title": "Rek up"
+    }
+  },
+  "SERIAL": {
+    "-NrEq7sWxfRlNdGuZED5": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Шурик, более известный в дайвинг-среде как «Черный македонец», уже много лет занимается дайвингом за границей, куда попал подростком после гибели отца в бандитском шоу... ",
+      "genre": "Приключение ",
+      "id": "DAYBER",
+      "imdb": "0",
+      "img": "https://i.imgur.com/frzLuvu.jpeg",
+      "push": "-NrEq7sWxfRlNdGuZED5",
+      "state": "Россия ",
+      "time": "22022024010453",
+      "title": "ДАЙВЕР",
+      "trailer": "https://ok.ru/video/3879513623124",
+      "year": "2022"
+    }
+  },
+  "TV": {
+    "-NcgG3IZ6k1DGW9DW-YO": {
+      "desc": "Taraqqiyot telekanli online tomosha qiling",
+      "img": "https://i.imgur.com/aQa7cyJ.jpg",
+      "push": "-NcgG3IZ6k1DGW9DW-YO",
+      "time": "25082023033626",
+      "title": "Taraqqiyot",
+      "videoid": "https://tas-ix.tv/tv-tasix/127-taraqqiyot-tv.html"
+    },
+    "-NcgHiS3qQs7tWU66y5x": {
+      "desc": "ommabop telekanallarni bizda tomosha qiling",
+      "img": "https://i.imgur.com/vhwFAMl.jpg",
+      "push": "-NcgHiS3qQs7tWU66y5x",
+      "time": "25082023034341",
+      "title": "Mening yurtim 5",
+      "videoid": "https://tas-ix.tv/tv-tasix/9-kanal-mening-yurtim.html"
+    },
+    "-NcgI41rNuFZnVcUQlhM": {
+      "desc": "Zo'r tv telekanli",
+      "img": "https://i.imgur.com/UlBipBf.jpg",
+      "push": "-NcgI41rNuFZnVcUQlhM",
+      "time": "25082023034513",
+      "title": "Zo'r TV",
+      "videoid": "https://tas-ix.tv/tv-tasix/5-kanal-zortv.html"
+    },
+    "-NcgJ1XFdIn-Jp671LUY": {
+      "desc": "Aqlvoy telekanali bolajonlar uchun",
+      "img": "https://i.imgur.com/W8PhMdx.jpg",
+      "push": "-NcgJ1XFdIn-Jp671LUY",
+      "time": "25082023034925",
+      "title": "Aqlvoy",
+      "videoid": "https://tas-ix.tv/tv-tasix/194-aqlvoy.html"
+    },
+    "-NcgKIyGs6kheIdM1sDm": {
+      "desc": "Uzreport TV online tomosh qiling",
+      "img": "https://i.imgur.com/3BOOKSh.jpg",
+      "push": "-NcgKIyGs6kheIdM1sDm",
+      "time": "25082023035459",
+      "title": "Uzreport",
+      "videoid": "https://tas-ix.tv/tv-tasix/210-uzreport-tv-uz.html"
+    },
+    "-NcgL3n7FY3DSdRh4YAZ": {
+      "desc": "Tv kanallarni ko`rish uchun kamida internet olmaydi \" 2 Mbps bo`lishi kerak agar internet tezligi \"2 Mbps \"dan kam bo`lsa kanallar ko`rsatmoqda\nShu tufayli internetga e`tibor bering",
+      "img": "https://i.imgur.com/mAJLJmB.jpg",
+      "push": "-NcgL3n7FY3DSdRh4YAZ",
+      "time": "25082023035818",
+      "title": "FTV",
+      "videoid": "https://tas-ix.tv/tv-tasix/64-futbol-tv.html"
+    },
+    "-NcgOVXuVrQ2UbjcA17w": {
+      "desc": "Tv kanallarni ko`rish uchun kamida internet olmaydi \" 2 Mbps bo`lishi kerak agar internet tezligi \"2 Mbps \"dan kam bo`lsa kanallar ko`rsatmoqda\nShu tufayli internetga e`tibor bering",
+      "img": "https://i.imgur.com/3t2227p.png",
+      "push": "-NcgOVXuVrQ2UbjcA17w",
+      "time": "25082023041319",
+      "title": "Disney",
+      "videoid": "https://tas-ix.media/tv/7090-kanal-disney.html"
+    },
+    "-NcgTR1GA07q0cdxF-xr": {
+      "desc": "Mahalla telekanli",
+      "img": "https://i.imgur.com/i7bpEKM.jpg",
+      "push": "-NcgTR1GA07q0cdxF-xr",
+      "time": "25082023043451",
+      "title": "Mahalla",
+      "videoid": "https://tas-ix.media/tv/8714-kanal-mahalla.html"
+    },
+    "-NcgVZ8onWiXXSZR2aHV": {
+      "desc": "navo telekanli 😶‍🌫️",
+      "img": "https://i.imgur.com/4laZ43f.jpg",
+      "push": "-NcgVZ8onWiXXSZR2aHV",
+      "time": "25082023044408",
+      "title": "Navo",
+      "videoid": "https://tas-ix.media/tv/8713-kanal-navo.html"
+    },
+    "-Nch7PNFHZW6WZ3olZdb": {
+      "desc": "Milliy telekanli sharx yozishga 🚀",
+      "img": "https://i.imgur.com/ofodsO5.jpg",
+      "push": "-Nch7PNFHZW6WZ3olZdb",
+      "time": "25082023073814",
+      "title": "Milliy TV",
+      "videoid": "https://tas-ix.media/tv/8711-kanal-milliy-tv.html"
+    }
+  }
+}
