@@ -250,6 +250,81 @@
       "title": "ДАЙВЕР",
       "trailer": "https://ok.ru/video/3879513623124",
       "year": "2022"
+    },
+    "-NruKhp9OC2oElEs-8a_": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Аанг может управлять четырьмя стихиями и пытается вместе с друзьями остановить вековую войну.",
+      "genre": "Боевик Приключение  Комедия ",
+      "id": "AVATARANGRU",
+      "imdb": "7.4",
+      "img": "https://i.imgur.com/GaD3rF3.jpeg",
+      "push": "-NruKhp9OC2oElEs-8a_",
+      "state": "США ",
+      "time": "01032024070704",
+      "title": "Аватар: Легенда об Аанге",
+      "trailer": "https://ok.ru/video/6884354230839",
+      "year": "2024"
+    }
+  },
+  "SERIALX": {
+    "AVATARANGRU": {
+      "-NruKrB1WmNJ5DbCcpgH": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/6836831783586",
+        "part": 1,
+        "title": "Аватар: Легенда об Аанге"
+      },
+      "-NruKu95lRKUbKwt6rBJ": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/6837029964450",
+        "part": 2,
+        "title": "Аватар: Легенда об Аанге"
+      },
+      "-NruKxMUbxfEsiaMlyAK": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/6837563624098",
+        "part": 3,
+        "title": "Аватар: Легенда об Аанге"
+      },
+      "-NruL0N1StT7arNbdYLI": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/6837742537378",
+        "part": 4,
+        "title": "Аватар: Легенда об Аанге"
+      },
+      "-NruLDdKN5qtLd41HTHR": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/6839356623522",
+        "part": 5,
+        "title": "Аватар: Легенда об Аанге"
+      },
+      "-NruLKQv3Tts6IWNRZoi": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/7198071523929",
+        "part": 6,
+        "title": "Аватар: Легенда об Аанге"
+      },
+      "-NruLO6p211gcFw1ZwhL": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/6839943301794",
+        "part": 7,
+        "title": "Аватар: Легенда об Аанге"
+      },
+      "-NruLVgY2BmPr9_fBz8e": {
+        "id": "AVATARANGRU",
+        "img": "https://i.imgur.com/GaD3rF3.jpeg",
+        "link": "https://ok.ru/video/7650577287865",
+        "part": 8,
+        "title": "Аватар: Легенда об Аанге"
+      }
     }
   },
   "TV": {
