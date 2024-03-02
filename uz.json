@@ -742,6 +742,21 @@
         "title": "O'rgimchak xonim",
         "trailer": "https://ok.ru/video/7014469601815",
         "year": "2024"
+      },
+      "-NrzNQfwmfDFbsYaftwL": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Qudratli qurilish ishchisi kasal onasiga yordam berish uchun pul yig'ish maqsadida bir guruh jinoyatchilar bilan qo'shilib ketadi.",
+        "genre": "Jangari Drama Fantastika ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/9DIP3YV.jpeg",
+        "link": "https://ok.ru/video/6654729718366",
+        "push": "-NrzNQfwmfDFbsYaftwL",
+        "state": "Kanada ",
+        "time": "02032024063703",
+        "title": "Kod 8",
+        "trailer": "https://ok.ru/video/2213948100924",
+        "year": "2019"
       }
     },
     "HIND": {
@@ -2426,6 +2441,36 @@
         "title": "Qora shovqin",
         "trailer": "https://ok.ru/video/6544843540993",
         "year": "2023"
+      },
+      "-NrzOPZMUtpuq3BVurhN": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Iskender Buyuk xiyonat va davlat to'ntarishida ayblanib, konstitutsiyaviy sudda sudlanmoqda. \"GLADIO tashkiloti\" haqidagi bu voqea aldangan insayder nuqtai nazaridan aytiladi, ...",
+        "genre": "Jangari Drama Kriminal ",
+        "imdb": "6.2",
+        "img": "https://i.imgur.com/EkHGec6.jpeg",
+        "link": "https://ok.ru/video/6657197279838",
+        "push": "-NrzOPZMUtpuq3BVurhN",
+        "state": "Turkiya ",
+        "time": "02032024064120",
+        "title": "Qashqirlar makoni: Gladio",
+        "trailer": "https://ok.ru/video/5458475682450",
+        "year": "2009"
+      },
+      "-NrzPdmbukn0Sl4hTe_s": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Markaziy razvedka boshqarmasining sobiq xodimi o'tmishdagi sirli ayol qayta paydo bo'lgach, xavfli dunyoga qaytadi. Endi u tinimsiz qotil va yolg'on qora operatsiya dasturi tomonidan fosh qilingan va nishonga olingan ...",
+        "genre": " Triller ",
+        "imdb": "4.6",
+        "img": "https://i.imgur.com/LjOL620.jpeg",
+        "link": "https://ok.ru/video/6655804246622",
+        "push": "-NrzPdmbukn0Sl4hTe_s",
+        "state": "AQSH ",
+        "time": "02032024064645",
+        "title": "Rassom",
+        "trailer": "https://ok.ru/video/6552368384513",
+        "year": "2024"
       }
     },
     "KOMEDIYA": {
@@ -3800,6 +3845,10 @@
     "-NrpFr09rgvK0uosxWXo": {
       "id": "ce1QDpMjk",
       "img": "https://i.imgur.com/lpUZExB.jpeg"
+    },
+    "-NrzOWqFcv4TIjWQfcxe": {
+      "id": "puq3BVurhN",
+      "img": "https://i.imgur.com/VMf6zUg.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -4410,6 +4459,12 @@
       "img": "soon",
       "time": "29022024054400",
       "title": "Filmlar eski ilovalarda ko'rinmaydi eng yangi ilovani urnatganingizga ishonch hosil qiling yoki Telegram orqali @kinochitv_chat ga yozing"
+    },
+    "-NrxVYRTnxyrx4Q7Kykb": {
+      "desc": "Eslatib o'tamiz ilova serverida texnik ishlar olib borilmoqda 10ga yaqin seriallarni Aqsh  va Rossiydagi bazlarimizga ko'chirilmoqda ",
+      "img": "soon",
+      "time": "02032024095317",
+      "title": "Eslatib o'tamiz ilova serverida texnik ishlar olib borilmoqda 10ga yaqin seriallarni Aqsh  va Rossiydagi bazlarimizga ko'chirilmoqda "
     }
   },
   "SERIAL": {
