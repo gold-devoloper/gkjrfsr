@@ -243,6 +243,24 @@
       "img": "soon",
       "time": "01032024072229",
       "title": "Rus baza ham ishga tushyapti endi eng yangilari rus bazada chiqadi uzbek tilida dub qilinguncha buni ko'rib bo'lasiz"
+    },
+    "-Ns1YAtWJhS5uq296u3H": {
+      "desc": "Halo rus tilida barcha qismi joylandi",
+      "img": "soon",
+      "time": "03032024092253",
+      "title": "Halo rus tilida barcha qismi joylandi"
+    },
+    "-Ns2aqOoPuNYSjvNtB6n": {
+      "desc": "test",
+      "img": "soon",
+      "time": "03032024021831",
+      "title": "test ru"
+    },
+    "-Ns2cW2iax7uUAkJ-DmV": {
+      "desc": "Test ru",
+      "img": "soon",
+      "time": "03032024022548",
+      "title": "test ru baza"
     }
   },
   "SERIAL": {
@@ -290,6 +308,21 @@
       "title": "Хало",
       "trailer": "https://ok.ru/video/6823529351749",
       "year": "2022"
+    },
+    "-Ns2jD6TDle27sFzJzlN": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Когда таинственный европейский корабль обнаруживается затерянным в соседней рыбацкой деревне, лорд Ёси Торанага раскрывает секреты, которые могут склонить чашу весов власти и опустошить его врагов.",
+      "genre": "Драма Приключение Исторический ",
+      "id": "SYOGUN",
+      "imdb": "9.2",
+      "img": "https://i.imgur.com/3UEF3PN.jpeg",
+      "push": "-Ns2jD6TDle27sFzJzlN",
+      "state": "США ",
+      "time": "03032024025505",
+      "title": "Сёгун",
+      "trailer": "https://ok.ru/video/6606180649473",
+      "year": "2024"
     }
   },
   "SERIALX": {
@@ -349,6 +382,22 @@
         "link": "https://ok.ru/video/7650577287865",
         "part": 8,
         "title": "Аватар: Легенда об Аанге"
+      }
+    },
+    "DAYBER": {
+      "-Ns2MGZTT0Gg0FuSKt-O": {
+        "id": "DAYBER",
+        "img": "https://i.imgur.com/frzLuvu.jpeg",
+        "link": "https://ok.ru/video/7542028438222",
+        "part": 1,
+        "title": "ДАЙВЕР"
+      },
+      "-Ns2MKN0DdMswsP8MiA-": {
+        "id": "DAYBER",
+        "img": "https://i.imgur.com/frzLuvu.jpeg",
+        "link": "https://ok.ru/video/7542028503758",
+        "part": 2,
+        "title": "ДАЙВЕР"
       }
     },
     "HALORU": {
@@ -449,6 +498,22 @@
         "link": "https://vk.com/video-224905498_456239295",
         "part": 14,
         "title": "Хало"
+      }
+    },
+    "SYOGUN": {
+      "-Ns2jM5QSo5oqKraRbql": {
+        "id": "SYOGUN",
+        "img": "https://i.imgur.com/3UEF3PN.jpeg",
+        "link": "https://vk.com/video-224905498_456239056",
+        "part": 1,
+        "title": "Сёгун"
+      },
+      "-Ns2jTRx0EMaF0eoh-Ox": {
+        "id": "SYOGUN",
+        "img": "https://i.imgur.com/3UEF3PN.jpeg",
+        "link": "https://vk.com/video-224905498_456239057",
+        "part": 2,
+        "title": "Сёгун"
       }
     }
   },
