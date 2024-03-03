@@ -225,6 +225,10 @@
     "-NcgGvuQwhm6DTf_0HNi": {
       "id": "SOON",
       "img": "https://i.imgur.com/i9xergq.jpg"
+    },
+    "-Ns1Vxi-KpKTDOe1wWuJ": {
+      "id": "Ns1VRSFSxPpOuZ2VUDW",
+      "img": "https://i.imgur.com/ZKk9eFP.jpeg"
     }
   },
   "NOTIFICATION": {
@@ -233,6 +237,12 @@
       "img": "soon",
       "time": "13112023102143",
       "title": "Rek up"
+    },
+    "-NruOEh7aS5YME1LhGZY": {
+      "desc": "Rus baza ham ishga tushyapti endi eng yangilari rus bazada chiqadi uzbek tilida dub qilinguncha buni ko'rib bo'lasiz",
+      "img": "soon",
+      "time": "01032024072229",
+      "title": "Rus baza ham ishga tushyapti endi eng yangilari rus bazada chiqadi uzbek tilida dub qilinguncha buni ko'rib bo'lasiz"
     }
   },
   "SERIAL": {
@@ -265,6 +275,21 @@
       "title": "Аватар: Легенда об Аанге",
       "trailer": "https://ok.ru/video/6884354230839",
       "year": "2024"
+    },
+    "-Ns1VRSFSxPpOuZ2VUDW": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "XXVI век н.э. Между человечеством и союзом инопланетных рас Ковенантом идет затяжная война. Люди оказываются намного слабее, как физически, так и технически, но появляется надежда — проект «Спартанцы», программа создания людей со сверхспособностями. Возглавляет этот генетически модифицированный отряд Мастер Чиф Джон-117, солдат, которому нет равных в бою. Во время миссии на одну из планет он находит камень Предтечи, который очень важен для Ковенанта. Странным образом солдат и артефакт оказываются связаны, а пришельцы знают, что это может изменить ход противостояния.",
+      "genre": "Боевик Фантастика Научная фантастика ",
+      "id": "HALORU",
+      "imdb": "7.2",
+      "img": "https://i.imgur.com/h6CJO5k.jpeg",
+      "push": "-Ns1VRSFSxPpOuZ2VUDW",
+      "state": "США ",
+      "time": "03032024091055",
+      "title": "Хало",
+      "trailer": "https://ok.ru/video/6823529351749",
+      "year": "2022"
     }
   },
   "SERIALX": {
@@ -324,6 +349,106 @@
         "link": "https://ok.ru/video/7650577287865",
         "part": 8,
         "title": "Аватар: Легенда об Аанге"
+      }
+    },
+    "HALORU": {
+      "-Ns1WQdyj_WzlH67C_nY": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239278",
+        "part": 1,
+        "title": "Хало"
+      },
+      "-Ns1W_I-z9C9dd8qD1Ig": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239277",
+        "part": 2,
+        "title": "Хало"
+      },
+      "-Ns1WdPyOr1WcyXQYJR2": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239276",
+        "part": 3,
+        "title": "Хало"
+      },
+      "-Ns1WhAB6863f613sYvv": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239275",
+        "part": 4,
+        "title": "Хало"
+      },
+      "-Ns1WlZH1Eg3Ox46xoXQ": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239274",
+        "part": 5,
+        "title": "Хало"
+      },
+      "-Ns1WpGfUJaJeGH3ma8c": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239273",
+        "part": 6,
+        "title": "Хало"
+      },
+      "-Ns1Wt4q4LzL8u-8meaZ": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239272",
+        "part": 7,
+        "title": "Хало"
+      },
+      "-Ns1WwjCDBEhRVFv7GkT": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239271",
+        "part": 8,
+        "title": "Хало"
+      },
+      "-Ns1X0wXSj5WOod6lo8i": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239270",
+        "part": 9,
+        "title": "Хало"
+      },
+      "-Ns1X8PrPfKPmFN1xN4t": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239131",
+        "part": 10,
+        "title": "Хало"
+      },
+      "-Ns1XDppCwVs78VYCM0W": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239130",
+        "part": 11,
+        "title": "Хало"
+      },
+      "-Ns1XJlN14HQWP8WnzLi": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239129",
+        "part": 12,
+        "title": "Хало"
+      },
+      "-Ns1XQL7d5helHlhUUjn": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239128",
+        "part": 13,
+        "title": "Хало"
+      },
+      "-Ns1XVN1Q6ds_dja5gxJ": {
+        "id": "HALORU",
+        "img": "https://i.imgur.com/h6CJO5k.jpeg",
+        "link": "https://vk.com/video-224905498_456239295",
+        "part": 14,
+        "title": "Хало"
       }
     }
   },
