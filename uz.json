@@ -4679,6 +4679,18 @@
       "img": "soon",
       "time": "13112023102143",
       "title": "Rek up"
+    },
+    "-NsF-JXH4EirVfp-7wHT": {
+      "desc": "O'rgimchak xonim filmini 10daqiqadan so'ng tomosha qilishingiz mumkin .",
+      "img": "soon",
+      "time": "06032024120523",
+      "title": "O'rgimchak xonim filmini 10daqiqadan so'ng tomosha qilishingiz mumkin ."
+    },
+    "-NsH5rFZ2MJd_y7s5OiY": {
+      "desc": "Штамм serialini To'liq Full HD farmatda rus tilida bo'yam ko'rvoramizmi a nima deysizlar ? javobingizni Telegram orqali @kinochitv kanalimizga oxirgi joylangan postga reaksiyalar orqali kutaman",
+      "img": "soon",
+      "time": "06032024095312",
+      "title": "Штамм serialini To'liq Full HD farmatda rus tilida bo'yam ko'rvoramizmi a nima deysizlar ? javobingizni Telegram orqali @kinochitv kanalimizga oxirgi joylangan postga reaksiyalar orqali kutaman"
     }
   },
   "SERIAL": {
@@ -5401,6 +5413,21 @@
       "title": "Yun Xi afsonasi",
       "trailer": "https://ok.ru/video/2853563534034",
       "year": "2018"
+    },
+    "-NsJPEPoR-x93iYSVkwh": {
+      "age": 12,
+      "child": "SERIALX",
+      "description": "Yaponiyaning Xitoyga bostirib kirishi paytida badavlat jang san'ati ustasi o'z shahri ishg'ol qilinganda uyini tark etishga majbur bo'ladi. O'zlarini ta'minlash uchun ozgina vositalar bilan, Ip Man va qolganlari...",
+      "genre": "Jangari Drama Biografiya ",
+      "id": "IPMANKINOBARCHASI",
+      "imdb": "8.0",
+      "img": "https://i.imgur.com/ryYPqKS.jpeg",
+      "push": "-NsJPEPoR-x93iYSVkwh",
+      "state": "Gonkong Xitoy ",
+      "time": "06032024083706",
+      "title": "Ipman",
+      "trailer": "https://ok.ru/video/2928477455",
+      "year": "2008"
     }
   },
   "SERIALKOREA": {
@@ -36285,6 +36312,50 @@
         "link": "https://www.dailymotion.com/video/k4rSEyn6dwbKdUA7z26",
         "part": 12,
         "title": "Halo"
+      }
+    },
+    "IPMANKINOBARCHASI": {
+      "-NsJPgrrkSy-GtgZmcLs": {
+        "id": "IPMANKINOBARCHASI",
+        "img": "https://i.imgur.com/ryYPqKS.jpeg",
+        "link": "https://ok.ru/video/572544256609",
+        "part": 1,
+        "title": "Ipman"
+      },
+      "-NsJPwCLSdO7c1jwxEW6": {
+        "id": "IPMANKINOBARCHASI",
+        "img": "https://i.imgur.com/ryYPqKS.jpeg",
+        "link": "https://ok.ru/video/458814525787",
+        "part": 2,
+        "title": "Ipman"
+      },
+      "-NsJQ8f7ghKUbtGuKtuK": {
+        "id": "IPMANKINOBARCHASI",
+        "img": "https://i.imgur.com/ryYPqKS.jpeg",
+        "link": "https://ok.ru/video/367079197383",
+        "part": 3,
+        "title": "Ipman"
+      },
+      "-NsJQHCmIZsDpp63cIEy": {
+        "id": "IPMANKINOBARCHASI",
+        "img": "https://i.imgur.com/ryYPqKS.jpeg",
+        "link": "https://ok.ru/video/1497498913403",
+        "part": 4,
+        "title": "Ipman"
+      },
+      "-NsJQsDYwNdkOOXg68Ox": {
+        "id": "IPMANKINOBARCHASI",
+        "img": "https://i.imgur.com/ryYPqKS.jpeg",
+        "link": "https://vk.com/video-186124728_456244069",
+        "part": 5,
+        "title": "Ipman"
+      },
+      "-NsJR2Ys3bqnuqnrCVeW": {
+        "id": "IPMANKINOBARCHASI",
+        "img": "https://i.imgur.com/ryYPqKS.jpeg",
+        "link": "https://ok.ru/video/4316191656703",
+        "part": 6,
+        "title": "Ipman"
       }
     },
     "IZTOPAR": {
