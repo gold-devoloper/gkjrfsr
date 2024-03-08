@@ -2486,6 +2486,21 @@
         "title": "Yetti shamshir",
         "trailer": "https://ok.ru/video/6669349816926",
         "year": "2005"
+      },
+      "-NsSg9E0A4XQejVN26RA": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Cash halol va sokin hayot kechirishga harakat qilmoqda, lekin Katta mushuk uni o'z xizmatlariga majburlaganida, u shaharni va o'zi qoldirgan yagona oilani himoya qilish uchun hamma narsaga qodirligini isbotlaydi.",
+        "genre": "Jangari Triller ",
+        "imdb": "5.3",
+        "img": "https://i.imgur.com/4pyxq9b.jpeg",
+        "link": "https://ok.ru/video/6670281607774",
+        "push": "-NsSg9E0A4XQejVN26RA",
+        "state": "AQSH ",
+        "time": "08032024035201",
+        "title": "Qizil o'ng qo'l",
+        "trailer": "https://ok.ru/video/6878569040453",
+        "year": "2024"
       }
     },
     "KOMEDIYA": {
@@ -3917,6 +3932,10 @@
     "-NsEEME8U-cPsPGb7Pm7": {
       "id": "NsEndZlsFYkuNYeQyUd",
       "img": "https://i.imgur.com/olVT3Pi.jpeg"
+    },
+    "-NsSgGtKcvhTRZgCCTev": {
+      "id": "4XQejVN26RA",
+      "img": "https://i.imgur.com/wXVlewH.jpeg"
     }
   },
   "MULTISERIAL": {
