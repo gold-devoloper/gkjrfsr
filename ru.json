@@ -154,6 +154,36 @@
         "title": "Мама",
         "trailer": "https://ok.ru/video/6789959256630",
         "year": "2013"
+      },
+      "-Nsq3HQoPjokInqGp6Gp": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Проснувшуюся ночью от криков юную Эвелин Уипли находят залитой кровью и таинственным образом привязанной к кровати — «Готический ужас», действие которого происходит в 1940-х годах, психосексуальный триллер, замаскированный под...",
+        "genre": "Триллер Ужастик ",
+        "imdb": "3.3",
+        "img": "https://i.imgur.com/fe67RH2.jpeg",
+        "link": "https://vk.com/video-168083637_456239228",
+        "push": "-Nsq3HQoPjokInqGp6Gp",
+        "state": "США ",
+        "time": "13032024092820",
+        "title": "Дом жестоких страстей",
+        "trailer": "https://vk.com/video-203473797_456245024",
+        "year": "2018"
+      },
+      "-NsqBeq-noJ81DxeZUsq": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Благодаря технологии, способной создавать проекции сознания других людей, Карли придется заглянуть в разум своей матери, 20 лет назад убившей более 20 человек, и отыскать истинную",
+        "genre": "Драма Научная фантастика Ужастик ",
+        "imdb": "4.3",
+        "img": "https://i.imgur.com/Uhb7xDG.jpeg",
+        "link": "https://vk.com/video-9087170_456242822",
+        "push": "-NsqBeq-noJ81DxeZUsq",
+        "state": "США ",
+        "time": "13032024100457",
+        "title": "Демоник",
+        "trailer": "https://vk.com/video-94705031_456243422",
+        "year": "2021"
       }
     }
   },
@@ -342,6 +372,21 @@
       "title": "Штамм",
       "trailer": "https://ok.ru/video/6393647729370",
       "year": "2014"
+    },
+    "-NsHanVPcFNiObLtsVDI": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Спустя три года после того, как вирус зомби распространился и уничтожил почти всю страну, команда должна перевезти оставшегося в живых от...",
+      "genre": "Ужастик Фантастика Боевик ",
+      "id": "NATSIYAZ",
+      "imdb": "6.7",
+      "img": "https://i.imgur.com/7BfpzHF.jpeg",
+      "push": "-NsHanVPcFNiObLtsVDI",
+      "state": "США ",
+      "time": "06032024121246",
+      "title": "Нация  Z",
+      "trailer": "https://ok.ru/video/2286568802878",
+      "year": "2014"
     }
   },
   "SERIALX": {
@@ -517,6 +562,15 @@
         "link": "https://vk.com/video-224905498_456239295",
         "part": 14,
         "title": "Хало"
+      }
+    },
+    "NATSIYAZ": {
+      "-NsHfWkvXCmiQ-uKkmso": {
+        "id": "NATSIYAZ",
+        "img": "https://i.imgur.com/7BfpzHF.jpeg",
+        "link": "https://vk.com/video-108470971_171286254",
+        "part": 1,
+        "title": "Нация  Z"
       }
     },
     "SHTAMMRUS": {
