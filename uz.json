@@ -3120,6 +3120,21 @@
         "title": "Kung-fu Panda 3",
         "trailer": "https://ok.ru/video/37644208792",
         "year": "2016"
+      },
+      "-Nt0IFy6OdB2nAz2Lwte": {
+        "age": 0,
+        "child": "KINO",
+        "description": "To'liq metrajli \"Lilo va Stitch\" multfilmi. Bu genetik tajriba natijasida noqonuniy ravishda yaratilgan jonzot haqida hikoya qiluvchi fantastik hikoya. Galaktika federatsiyasi hukumati laboratoriyani yopdi. Rahbar, doktor Jamba Jakov qamoqqa yuborildi. Va ularning eng yaxshi namunasi, halokatli kuchga ega bo'lib, uzoq sayyoraga surgun qilishga qaror qilindi. Koloniyaga boradigan yo'lda 626-namuna qochib ketishga muvaffaq bo'ldi, ammo hiperdrive va navigatsiya tizimidagi muammolar tufayli u bizning quyosh tizimimizga olib borildi. U favqulodda qo'nish uchun Yer sayyorasini tanladi. Yerda kichkina yirtqich hayvon Lilo ismli qiz bilan uchrashadi. Uning ota-onasi vafot etgan va u juda yolg'iz. Shuning uchun, u boshqa sayyoradan kelgan jonzotni uchratganida, unga Stitch ismini qo'yadi va uni oddiy uy hayvonlari kabi tarbiyalay boshlaydi. Galaktika federatsiyasi olimlari qila olmagan narsa esa kichkina qizcha uchun mumkin bo'lib chiqdi. Stitch madaniyatli mavjudot va ajoyib do'stga aylanadi. Birgalikda ular endi katta, agar biroz tartibsiz bo'lsa ham, oila.\n",
+        "genre": "Komediya Sarguzashtlar Animatsiya Fantastika ",
+        "imdb": "7.3",
+        "img": "https://i.imgur.com/fxQRn7w.jpeg",
+        "link": "https://ok.ru/video/6620964653631",
+        "push": "-Nt0IFy6OdB2nAz2Lwte",
+        "state": "AQSH ",
+        "time": "15032024014936",
+        "title": "Lilo va stich",
+        "trailer": "https://ok.ru/video/2616465558179",
+        "year": "2002"
       }
     },
     "OTHER": {
@@ -5567,6 +5582,21 @@
       "title": "Bryus Li afsonasi",
       "trailer": "https://vk.com/video-186124728_456240493",
       "year": "2009"
+    },
+    "-Nt1f1wigoYOq9qLuFog": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Ajnabiy izquar politsiyachi seriali uzbek tilida",
+      "genre": "Kriminal Komediya ",
+      "id": "KOP",
+      "imdb": "6.0",
+      "img": "https://i.imgur.com/m2YUkvS.jpeg",
+      "push": "-Nt1f1wigoYOq9qLuFog",
+      "state": "Rossiya ",
+      "time": "15032024081307",
+      "title": "Ajnabiy izquar",
+      "trailer": "https://ok.ru/video/1804804754125",
+      "year": "2019"
     }
   },
   "SERIALKOREA": {
@@ -37157,6 +37187,78 @@
         "link": "https://ok.ru/video/4697017682455",
         "part": 41,
         "title": "Iztopar"
+      }
+    },
+    "KOP": {
+      "-Nt1fosrlnEDhIdW9Eyg": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3852715952663",
+        "part": 1,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1ftmvMewVLdOZWrtM": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3867620739607",
+        "part": 2,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1iR9ESx55DFuZ-6UO": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3852715952663",
+        "part": 1,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1iWYIvZhF1m2XKe62": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3867620739607",
+        "part": 2,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1iayCBIRL-qbJzCk7": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3867620674071",
+        "part": 3,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1iggiENjIY8H8mn7L": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3893267532311",
+        "part": 4,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1ilhmbCNiB69YEikq": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3893267597847",
+        "part": 5,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1iqJ7F6xePJkZK7ot": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3893267663383",
+        "part": 6,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1iwDy7rRaJsMvLWRm": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3893267401239",
+        "part": 7,
+        "title": "Ajnabiy izquar"
+      },
+      "-Nt1j-lnLwY9mYkVebZQ": {
+        "id": "KOP",
+        "img": "https://i.imgur.com/m2YUkvS.jpeg",
+        "link": "https://ok.ru/video/3893267335703",
+        "part": 8,
+        "title": "Ajnabiy izquar"
       }
     },
     "KORBARAY": {
