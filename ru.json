@@ -199,6 +199,36 @@
         "title": "последний день на земле",
         "trailer": "https://vk.com/video-108943641_456244468",
         "year": "2021"
+      },
+      "-NtCIJozg78uibC2EUn2": {
+        "age": 18,
+        "child": "KINO",
+        "description": "В 1979 году группа молодых режиссеров намеревалась снять фильм для взрослых в сельской местности Техаса, но когда пожилые ведущие-затворники ловят их на месте преступления, актерам приходится бороться за свои права..",
+        "genre": "Ужастик Триллер ",
+        "imdb": "6.5",
+        "img": "https://i.imgur.com/hi2CAFz.jpeg",
+        "link": "https://vk.com/video-30823579_456251937",
+        "push": "-NtCIJozg78uibC2EUn2",
+        "state": "США Канада ",
+        "time": "17032024094523",
+        "title": "X",
+        "trailer": "https://ok.ru/video/3718006113711",
+        "year": "2022"
+      },
+      "-NtCNLHuXDdEFK7vDg9R": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Красавица Люба на грани нервного срыва. Её отношения с мужем зашли в тупик — она устала терпеть издевательства и оскорбления, но не может найти силы уйти. Вместе с подругами Люба отправляется на ретрит в российской глубинке, где шаманы проводят тайные ритуалы, чтобы помочь подопечным взглянуть в глаза своим страхам. Но так получилось, что главный страх Любы — это встреча с самой собой. И от себя, в отличие от служителей культа, не убежать.",
+        "genre": "Ужастик Триллер ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/iQWFPLI.jpeg",
+        "link": "https://vk.com/video-38448119_456240588",
+        "push": "-NtCNLHuXDdEFK7vDg9R",
+        "state": "Россия ",
+        "time": "17032024100720",
+        "title": "Омут",
+        "trailer": "https://ok.ru/video/4613979966054",
+        "year": "2022"
       }
     }
   },
@@ -310,6 +340,12 @@
       "img": "soon",
       "time": "03032024022548",
       "title": "test ru baza"
+    },
+    "-NsvQEEfMm0tW6xVBN_3": {
+      "desc": "Halo serialni muxlislari 15-qism chiqibdi rus tilida Rus bazaga o'tib ko'rishlaring mumkin uzbek tilida 13ta qismi chiqgan Rus tilida film serial tomosha qiluvchilar zakaz bering Telegram orqali @xurshid _meliziyayev",
+      "img": "soon",
+      "time": "14032024102642",
+      "title": "Halo serialni muxlislari 15-qism chiqibdi rus tilida Rus bazaga o'tib ko'rishlaring mumkin uzbek tilida 13ta qismi chiqgan Rus tilida film serial tomosha qiluvchilar zakaz bering Telegram orqali @xurshid _meliziyayev"
     }
   },
   "SERIAL": {
@@ -402,6 +438,41 @@
       "title": "Нация  Z",
       "trailer": "https://ok.ru/video/2286568802878",
       "year": "2014"
+    }
+  },
+  "SERIALKOREA": {
+    "-NtCRp-Rp8gKE_ELQruv": {
+      "age": 18,
+      "child": "SERIALKOREAX",
+      "description": "После гибели родителей и сестры замкнутый старшеклассник Чха Хён-су остаётся совсем один, и ему приходится переехать в маленькую квартирку в занюханном жилом комплексе Green Home. Не видя никаких причин жить дальше, парень решает покончить с собой, но внезапно некоторые люди начинают превращаться в агрессивных чудовищ. Хён-су придётся преодолеть себя и поближе познакомиться с новыми соседями, чтобы совместными усилиями противостоять неожиданной угрозе.",
+      "genre": "Ужастик Драма Фантастика ",
+      "id": "SWEETHOME",
+      "imdb": "7.3",
+      "img": "https://i.imgur.com/x2Qyj38.jpeg",
+      "push": "-NtCRp-Rp8gKE_ELQruv",
+      "state": "Южная Корея ",
+      "time": "17032024102654",
+      "title": "Милый дом",
+      "trailer": "https://ok.ru/video/2457162025644",
+      "year": "2020"
+    }
+  },
+  "SERIALKOREAX": {
+    "SWEETHOME": {
+      "-NtCS9FFhq397oJ6IFD6": {
+        "id": "SWEETHOME",
+        "img": "https://i.imgur.com/x2Qyj38.jpeg",
+        "link": "https://vk.com/video-79614896_456240585",
+        "part": 2,
+        "title": "Милый дом"
+      },
+      "-NtCSNGFVWnaLWTXjXlV": {
+        "id": "SWEETHOME",
+        "img": "https://i.imgur.com/x2Qyj38.jpeg",
+        "link": "https://vk.com/video-145832074_456240383",
+        "part": 1,
+        "title": "Милый дом"
+      }
     }
   },
   "SERIALX": {
