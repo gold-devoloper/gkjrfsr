@@ -1614,6 +1614,36 @@
         "title": "777 Charli",
         "trailer": "https://ok.ru/video/3212512725634",
         "year": "2022"
+      },
+      "-NtZu5phWSjlbBTy98HX": {
+        "age": 12,
+        "child": "KINO",
+        "description": "1970-yillarda Rokki ismli gangster Kolar oltin konlari deb nomlanuvchi mashhur oltin konining egasiga suiqasd qilish uchun qul sifatida yashirincha boradi.",
+        "genre": "Jangari Kriminal Drama ",
+        "imdb": "8.2",
+        "img": "https://i.imgur.com/uwJkFvP.jpeg",
+        "link": "https://vk.com/video-186124728_456245285",
+        "push": "-NtZu5phWSjlbBTy98HX",
+        "state": "Hindiston ",
+        "time": "22032024114608",
+        "title": "K.G.F Kollarning oltin quymalari 1",
+        "trailer": "https://ok.ru/video/1208865000146",
+        "year": "2018"
+      },
+      "-NtZvRfnDYBVt39CNDm3": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Qonga botgan Kolar oltin dalalarida Rokkining nomi dushmanlarini qo'rquvga soladi, hukumat esa uni qonun va tartib uchun tahdid deb biladi. Rokki uncha uchun har tomondan tahdidlarga qarshi kurashishi kerak ...",
+        "genre": "Jangari Drama Kriminal ",
+        "imdb": "8.3",
+        "img": "https://i.imgur.com/muGbtNz.jpeg",
+        "link": "https://vk.com/video-186124728_456244530",
+        "push": "-NtZvRfnDYBVt39CNDm3",
+        "state": "Hindiston ",
+        "time": "22032024115200",
+        "title": "K.G.F Kollarning oltin quymalari 2",
+        "trailer": "https://ok.ru/video/4368814115409",
+        "year": "2022"
       }
     },
     "JANGARI": {
@@ -4011,6 +4041,10 @@
     "-NsSgGtKcvhTRZgCCTev": {
       "id": "4XQejVN26RA",
       "img": "https://i.imgur.com/wXVlewH.jpeg"
+    },
+    "-NtZxPIAlBom3Xfp5x0n": {
+      "id": "Vt39CNDm3",
+      "img": "https://i.imgur.com/muGbtNz.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -4848,6 +4882,18 @@
       "img": "soon",
       "time": "21032024030036",
       "title": "O'rgimchak xonim qayta yuklandi muammo tuzatildi"
+    },
+    "-NtWJ4ug8xo1D_jJqpaI": {
+      "desc": "Argayl: super josus qayta yuklandi HD tomosha qiling",
+      "img": "soon",
+      "time": "21032024070111",
+      "title": "Argayl: super josus qayta yuklandi HD tomosha qiling"
+    },
+    "-NtZ61KoDdA1gHaTxv5q": {
+      "desc": "Hammaga salom ishda bo'lganim uchun ayrim serial kinolarni tuzatib bera olmayapman oz qoldi ishim tugab kinolarni ko'paytirib ko'rsatmaganini tuzatib beraman ",
+      "img": "soon",
+      "time": "22032024080300",
+      "title": "Hammaga salom ishda bo'lganim uchun ayrim serial kinolarni tuzatib bera olmayapman oz qoldi ishim tugab kinolarni ko'paytirib ko'rsatmaganini tuzatib beraman "
     }
   },
   "SERIAL": {
