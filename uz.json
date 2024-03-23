@@ -2606,6 +2606,21 @@
         "title": "Qashqirlar makoni: Iroq",
         "trailer": "https://ok.ru/video/6686171073118",
         "year": "2005"
+      },
+      "-Ntf94SSAVb_QpbWXxwZ": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Umrini qasos izlash bilan o'tkazgan yosh yigitning hikoyasi, faqat o'zini boshidan o'zi kutganidan ham kattaroq sinovga qarshi turish uchun.",
+        "genre": "Jangari Drama Triller ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/sv7Ko6C.jpeg",
+        "link": "https://ok.ru/video/5290224650775",
+        "push": "-Ntf94SSAVb_QpbWXxwZ",
+        "state": "AQSH ",
+        "time": "23032024045340",
+        "title": "Banraku",
+        "trailer": "https://ok.ru/video/1842611482",
+        "year": "2010"
       }
     },
     "KOMEDIYA": {
@@ -4045,6 +4060,10 @@
     "-NtZxPIAlBom3Xfp5x0n": {
       "id": "Vt39CNDm3",
       "img": "https://i.imgur.com/muGbtNz.jpeg"
+    },
+    "-Ntf9Gh1pFltbne_pwrk": {
+      "id": "QpbWXxwZ",
+      "img": "https://i.imgur.com/sv7Ko6C.jpeg"
     }
   },
   "MULTISERIAL": {
