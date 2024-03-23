@@ -2621,6 +2621,66 @@
         "title": "Banraku",
         "trailer": "https://ok.ru/video/1842611482",
         "year": "2010"
+      },
+      "-Ntg82nZd-iPBJFbZyzT": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Chloe o'likxonadan dalillarni o'g'irlash uchun o'z o'limini soxtalashtiradi. Koroner o'likxonani kasal va buzilgan biznes uchun old qism sifatida ishlatadi. Mushuk va sichqonning qo'rqinchli o'yini boshlanadi, chunki Chloe ko'proq narsani o'rganadi ...",
+        "genre": "Ujas Triller ",
+        "imdb": "5.2",
+        "img": "https://i.imgur.com/hmmW2md.jpeg",
+        "link": "https://ok.ru/video/5048112056862",
+        "push": "-Ntg82nZd-iPBJFbZyzT",
+        "state": "AQSH ",
+        "time": "23032024092851",
+        "title": "Morgdagi qotillik",
+        "trailer": "https://ok.ru/video/7289366186737",
+        "year": "2022"
+      },
+      "-NtgAXTF__LEI4oY-Dxq": {
+        "age": 16,
+        "child": "KINO",
+        "description": "1932 yil edi. Keksa karate ustasi vafot etib, bir nechta shogirdlarini tark etadi. Ulardan biri Taikan o'qituvchining ko'rsatmalarini - himoya qilish va o'zini o'zi yaxshilash uchun karatedan foydalanishni rad etib, imperator harbiy politsiyasining instruktoriga aylanadi. U qo'mondonga boshqa dojolarni, ichimliklarni, ayollar bilan tartibsizliklarni qabul qilishga yordam beradi.\n\nGiryuning yana bir shogirdi o'qituvchi ko'rsatgan yo'ldan borishga harakat qiladi, lekin hayot uni o'z tamoyillaridan voz kechishga, hayotini saqlab qolgan oila uchun turishga majbur qiladi. Bu harakati bilan u qimor mafiyasi va harbiy politsiya qo'mondoni g'azabiga duchor bo'ladi. Shunday qilib, Giryu va Taykan yaxshilik va yomonlik o'rtasidagi kurashni aks ettiruvchi duelda uchrashishlari kerak va kim g'alaba qozonishi noma'lum ...",
+        "genre": "Jangari Drama Sport ",
+        "imdb": "6.9",
+        "img": "https://i.imgur.com/gceNw4L.jpeg",
+        "link": "https://ok.ru/video/5290223274519",
+        "push": "-NtgAXTF__LEI4oY-Dxq",
+        "state": "Yaponiya",
+        "time": "23032024093941",
+        "title": "Qora belbog'",
+        "trailer": "https://ok.ru/video/2863299561989",
+        "year": "2007"
+      },
+      "-NtgDNHPBEXwUq3p48hQ": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ikki obro'siz do'st haddan tashqari zo'ravon va yolg'onchi bo'lib chiqadigan bir guruh jinoyatchilar bilan bog'lanadi.",
+        "genre": "Jangari Triller Kriminal ",
+        "imdb": "7.1",
+        "img": "https://i.imgur.com/ngSqMtx.jpeg",
+        "link": "https://ok.ru/video/4304066972254",
+        "push": "-NtgDNHPBEXwUq3p48hQ",
+        "state": "Xitoy ",
+        "time": "23032024095206",
+        "title": "Toblanganlar",
+        "trailer": "https://ok.ru/video/4304066972254",
+        "year": "1992"
+      },
+      "-NtgF2H2XqBaTsDU_t1M": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Martin Blank - professional qotil. U Detroyt chekkasidagi Grosse Pointe missiyasiga yuboriladi va tasodifan uning o'n yillik o'rta maktabida uchrashish kechasi o'sha erda bo'lib o'tadi ... ",
+        "genre": "Jangari Kriminal Komediya ",
+        "imdb": "7.3",
+        "img": "https://i.imgur.com/HMnGBlU.jpeg",
+        "link": "https://ok.ru/video/5290224585239",
+        "push": "-NtgF2H2XqBaTsDU_t1M",
+        "state": "AQSH ",
+        "time": "23032024095924",
+        "title": "Gross Pointdagi qotillik",
+        "trailer": "https://ok.ru/video/5290224585239",
+        "year": "1997"
       }
     },
     "KOMEDIYA": {
@@ -4064,6 +4124,22 @@
     "-Ntf9Gh1pFltbne_pwrk": {
       "id": "QpbWXxwZ",
       "img": "https://i.imgur.com/sv7Ko6C.jpeg"
+    },
+    "-Ntg8EOL0WubwYaOkbZD": {
+      "id": "iPBJFbZyzT",
+      "img": "https://i.imgur.com/hmmW2md.jpeg"
+    },
+    "-NtgAi3dkwVDXIuzf1-q": {
+      "id": "NtgAXTF",
+      "img": "https://i.imgur.com/gceNw4L.jpeg"
+    },
+    "-NtgDgwokJ4--0VDmNjQ": {
+      "id": "wUq3p48hQ",
+      "img": "https://i.imgur.com/4a3Y4Ay.jpeg"
+    },
+    "-NtgF8mthCVXH67h5Suk": {
+      "id": "QBATSDU",
+      "img": "https://i.imgur.com/HMnGBlU.jpeg"
     }
   },
   "MULTISERIAL": {
