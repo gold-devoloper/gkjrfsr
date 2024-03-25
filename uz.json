@@ -4009,6 +4009,21 @@
         "title": "Qo'rqinchli sahro",
         "trailer": "https://ok.ru/video/2026994797079",
         "year": "2019"
+      },
+      "-NtpsC_r4ezkFVuhyhyN": {
+        "age": 16,
+        "child": "KINO",
+        "description": "O'rta maktabda yolg'iz o'quvchi Bird Fitcher topib olgan Polaroid kamerasiga qanday qorong'u sirlar bog'langanligini bilmaydi. Ko'p o'tmay, u bilan suratga tushganlar tez orada...",
+        "genre": "Drama Ujas ",
+        "imdb": "5.2",
+        "img": "https://i.imgur.com/6RXpEVb.jpeg",
+        "link": "https://ok.ru/video/7707924499086",
+        "push": "-NtpsC_r4ezkFVuhyhyN",
+        "state": "AQSH ",
+        "time": "25032024065127",
+        "title": "Polaroid",
+        "trailer": "https://ok.ru/video/311544910135",
+        "year": "2019"
       }
     }
   },
@@ -4144,6 +4159,10 @@
     "-Ntk3xNLWZnJTycOstoD": {
       "id": "Ntk3LAXGgGstLgqR2Ax",
       "img": "https://i.imgur.com/BWF7dRY.jpeg"
+    },
+    "-NtptW1aEeB3luqBvqZm": {
+      "id": "NtpsC_r4ezkFVuhyhyN",
+      "img": "https://i.imgur.com/6RXpEVb.jpeg"
     }
   },
   "MULTISERIAL": {
