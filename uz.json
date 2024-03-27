@@ -2696,6 +2696,36 @@
         "title": "Gross Pointdagi qotillik",
         "trailer": "https://ok.ru/video/5290224585239",
         "year": "1997"
+      },
+      "-Nu-YSTfQKJ5k8x5zrhp": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Qadimgi taymerlarning jinoiy to'dasi taxminiy qiymati 200 million funt sterlingga teng bo'lgan er osti seyfida ingliz tarixidagi eng yirik o'g'irlikni sodir etishga urinmoqda.",
+        "genre": "Jangari Kriminal Triller ",
+        "imdb": "5.6",
+        "img": "https://i.imgur.com/B17SgRg.jpeg",
+        "link": "https://ok.ru/video/6728619854430",
+        "push": "-Nu-YSTfQKJ5k8x5zrhp",
+        "state": "AQSH ",
+        "time": "27032024083637",
+        "title": "Hatton gardon yohud asr talonchiligi",
+        "trailer": "https://ok.ru/video/6728619854430",
+        "year": "2017"
+      },
+      "-Nu-ZrCQToEuQLJyNAgF": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Napoleon urushlari paytida, jasur britaniyalik kapitan o'z kemasi va ekipajini Janubiy Amerika bo'ylab dahshatli frantsuz harbiy kemasini ta'qib qilish uchun o'z chegaralariga itaradi.",
+        "genre": "Jangari Drama Sarguzashtlar ",
+        "imdb": "7.5",
+        "img": "https://i.imgur.com/Y8R6ile.jpeg",
+        "link": "https://ok.ru/video/6728364591710",
+        "push": "-Nu-ZrCQToEuQLJyNAgF",
+        "state": "AQSH ",
+        "time": "27032024084244",
+        "title": "Dengiz hukmdori",
+        "trailer": "https://ok.ru/video/3144689912324",
+        "year": "2003"
       }
     },
     "KOMEDIYA": {
@@ -3632,6 +3662,21 @@
         "title": "Duelchi",
         "trailer": "https://ok.ru/video/6646521662046",
         "year": "2016"
+      },
+      "-Nu-XQXh5R3_lgqEgUIj": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Afsonaviy ritm va blyuz musiqachisi Rey Charlzning hayoti va karerasi, uning janubdagi kamtarona boshlanishidan tortib, yetti yoshida ko'r bo'lib qolganidan tortib, uning meteorik ko'tarilishgacha bo'lgan hikoyasi ... ",
+        "genre": "Biografiya Drama Musiqa ",
+        "imdb": "7.7",
+        "img": "https://i.imgur.com/SlUFZUt.jpeg",
+        "link": "https://ok.ru/video/6728460798558",
+        "push": "-Nu-XQXh5R3_lgqEgUIj",
+        "state": "AQSH ",
+        "time": "27032024083207",
+        "title": "Rey ",
+        "trailer": "https://ok.ru/video/1299813436060",
+        "year": "2004"
       }
     },
     "QORQINCHLI": {
@@ -4182,6 +4227,10 @@
     "-NtqWdyy8MtQ7FER2tbd": {
       "id": "D0GFMo",
       "img": "https://i.imgur.com/cueVylP.jpeg"
+    },
+    "-Nu-_26upGx_-qMDDYtq": {
+      "id": "EQULJY",
+      "img": "https://i.imgur.com/Y8R6ile.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -41751,6 +41800,13 @@
         "img": "https://i.imgur.com/RSSw9AH.jpeg",
         "link": "https://vk.com/video-225182992_456239052",
         "part": 5,
+        "title": "Tanalar"
+      },
+      "-Nu-ajHp2yclOFni78FD": {
+        "id": "TANALAR",
+        "img": "https://i.imgur.com/RSSw9AH.jpeg",
+        "link": "https://vk.com/video-225182992_456239071",
+        "part": 6,
         "title": "Tanalar"
       }
     },
