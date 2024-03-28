@@ -510,7 +510,7 @@
         "genre": "Sarguzasht Boevik Fantastika ",
         "imdb": "7.00",
         "img": "https://i.imgur.com/gsxs61T.jpg",
-        "link": "https://files.uzbeklar.biz/film3/yura-davri-dunyosi-1.mp4",
+        "link": "https://ok.ru/video/2550893447703",
         "push": "-NnZaBNMxp0po1VS83UP",
         "state": "AQSH ",
         "time": "07012024084425",
@@ -525,7 +525,7 @@
         "genre": "Sarguzashtlar Boevik Fantastika ",
         "imdb": "6.2",
         "img": "https://i.imgur.com/UEE6JHl.jpg",
-        "link": "https://uzbeklar.biz/film44/yura-davri-dunyosi2.mp4",
+        "link": "https://ok.ru/video/2130893081234",
         "push": "-NnZcBBP5BbVS4dSzg9G",
         "state": "AQSH ",
         "time": "07012024085309",
@@ -540,7 +540,7 @@
         "genre": "Sarguzashtlar Triller Boevik Fantastika ",
         "imdb": "5.8",
         "img": "https://i.imgur.com/nBczQsJ.jpg",
-        "link": "https://uzbeklar.biz/film55/YANGI-yura-davri-3.mp4",
+        "link": "https://ok.ru/video/3544633510499",
         "push": "-NnZd8thOLFXcd71YTyp",
         "state": "AQSH ",
         "time": "07012024085722",
@@ -570,7 +570,7 @@
         "genre": "Jangari Sarguzashtlar Fantastika Drama ",
         "imdb": "7.9",
         "img": "https://i.imgur.com/rVHMe74.jpg",
-        "link": "https://29.fayllar1.ru/29/kinolar/Isyonkor%20oy-Olov%20farzandi%202023%201080p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "link": "https://vk.com/video819694391_456239032",
         "push": "-NnxMfVh1Sk5J7myrkX9",
         "state": "AQSH ",
         "time": "12012024041131",
@@ -600,7 +600,7 @@
         "genre": "Jangari Fantastika ",
         "imdb": "6.3",
         "img": "https://i.imgur.com/omdFPY1.jpg",
-        "link": "http://fayllar1.ru/13/Godzilla%20VS%20King%20Kong%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "link": "https://vk.com/video-188782334_456239108",
         "push": "-No53Ms4-cWKBPokMOWc",
         "state": "AQSH ",
         "time": "14012024084346",
@@ -615,7 +615,7 @@
         "genre": "Jangari Fantastika Sarguzashtlar Triller ",
         "imdb": "7.9",
         "img": "https://i.imgur.com/IkyDj90.jpg",
-        "link": "http://fayllar1.ru/29/kinolar/Akvamen%202%20720p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "link": "https://vk.com/video-225182992_456239074",
         "push": "-Np1Ps4de9leoKVXOpVS",
         "state": "AQSH Ispaniya Avstriya ",
         "time": "26012024015918",
@@ -675,7 +675,7 @@
         "genre": "Jangari Fantastika ",
         "imdb": "8.3",
         "img": "https://i.imgur.com/GOmCLqx.jpg",
-        "link": "http://fayllar1.ru/30/kinolar/Godzilla%20minus%201%202024%20720p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "link": "https://ok.ru/video/7594852158072",
         "push": "-NqwlLS6CWKNP6bT_3gD",
         "state": "Yaponiya",
         "time": "18022024081110",
@@ -690,7 +690,7 @@
         "genre": "Jangari Sarguzashtlar Fantastika Ujas Drama ",
         "imdb": "6.9",
         "img": "https://i.imgur.com/JpPHUm7.jpg",
-        "link": "http://fayllar1.ru/34/kinolar/Hayvonlar%20Saltanati%202023%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "link": "https://ok.ru/video/7345781082647",
         "push": "-Nr0pbJiQOZlHbZ-2MOv",
         "state": "Fransiya Belgiya ",
         "time": "19022024074754",
@@ -705,7 +705,7 @@
         "genre": "Fantastika ",
         "imdb": "5.4",
         "img": "https://i.imgur.com/12Yx2yp.jpeg",
-        "link": "http://fayllar1.ru/30/kinolar/Android%202013%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "link": "http://30.fayllar1.ru/30/kinolar/Android%202013%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4",
         "push": "-NrAdkCpnZKjnuSqUIm-",
         "state": "Niderlandiya",
         "time": "21022024053217",
@@ -33810,6 +33810,22 @@
     }
   },
   "SERIALX": {
+    "ANDORUZZ": {
+      "-Nu4-7gKTG0dviRb8Adk": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "https://vk.com/video-225182992_456239075",
+        "part": 1,
+        "title": "Andor"
+      },
+      "-Nu4-BjsMz8gxV354960": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "https://vk.com/video-225182992_456239076",
+        "part": 2,
+        "title": "Andor"
+      }
+    },
     "ANGAFSONASI": {
       "-NrM558-qNMZhgJBXbIV": {
         "id": "ANGAFSONASI",
