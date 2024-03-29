@@ -585,7 +585,7 @@
         "genre": "Fantastika Drama Sarguzashtlar Kriminal Jangari ",
         "imdb": "5.9",
         "img": "https://i.imgur.com/GO8tmUm.jpg",
-        "link": "http://fayllar1.ru/15/kinolar/Venom%202%20(2021)%20720p%20O'zbek%20tilida%20(asilmedia.net).mp4",
+        "link": "https://vk.com/video-225182992_456239077",
         "push": "-No1Dt2ofxCGIPSn2uV_",
         "state": "AQSH Kanada Buyuk Britaniya ",
         "time": "13012024025114",
@@ -619,21 +619,6 @@
         "push": "-Np1Ps4de9leoKVXOpVS",
         "state": "AQSH Ispaniya Avstriya ",
         "time": "26012024015918",
-        "title": "Akvamen 2: Yo'qolgan qirollik",
-        "trailer": "https://ok.ru/video/6472323042042",
-        "year": "2023"
-      },
-      "-Np1_odD_ijWI6QKNPGo": {
-        "age": 14,
-        "child": "KINO",
-        "description": "Atlantida ustidan qayta tiklab bo'lmaydigan falokatga olib kelishi mumkin bo'lgan yangi tahdid paydo bo'ldi. Hatto Aquaman ham yolg'iz o'zi bardosh bera olmaydi - u o'z shohligini saqlab qolish uchun kutilmagan ittifoq tuzishga majbur bo'ladi.",
-        "genre": "Jangari Fantastika Sarguzashtlar Triller ",
-        "imdb": "7.9",
-        "img": "https://i.imgur.com/q4lb7b5.jpg",
-        "link": "https://ok.ru/video/6560446941795",
-        "push": "-Np1_odD_ijWI6QKNPGo",
-        "state": "AQSH Ispaniya Avstriya ",
-        "time": "26012024024707",
         "title": "Akvamen 2: Yo'qolgan qirollik",
         "trailer": "https://ok.ru/video/6472323042042",
         "year": "2023"
@@ -787,6 +772,51 @@
         "title": "Sonik 2",
         "trailer": "https://ok.ru/video/2720476565861",
         "year": "2022"
+      },
+      "-Nu7XclvSmiCjBBgBu6h": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Genetikasi o‘zgartirilgan o‘rgimchak tishlaganidan so‘ng, uyatchan o‘smir o‘rgimchakka o‘xshash qobiliyatlarga ega bo‘lib, u niqobli superqahramon sifatida adolatsizlikka qarshi kurashadi va qasoskor dushmanga duch keladi.",
+        "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "7.4",
+        "img": "https://i.imgur.com/Cwn1b81.jpeg",
+        "link": "https://www.aparat.com/v/Zlq54",
+        "push": "-Nu7XclvSmiCjBBgBu6h",
+        "state": "AQSH ",
+        "time": "29032024094959",
+        "title": "O'rgimchak odam 1",
+        "trailer": "https://ok.ru/video/43473570487",
+        "year": "2002"
+      },
+      "-Nu7Z7omTK4EJDza1cxe": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Piter Parker Otto Oktavius ​​ismli sobiq zo'r olim bilan kurashar ekan, o'zining muvaffaqiyatsiz shaxsiy hayotida muammolarga duch keladi.",
+        "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "7.5",
+        "img": "https://i.imgur.com/oXuNMXa.jpeg",
+        "link": "https://www.aparat.com/v/xT8lk",
+        "push": "-Nu7Z7omTK4EJDza1cxe",
+        "state": "AQSH ",
+        "time": "29032024095632",
+        "title": "O'rgimchak odam 2",
+        "trailer": "https://ok.ru/video/23209118447",
+        "year": "2004"
+      },
+      "-Nu7bD6bDV6GgXideR_n": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Boshqa dunyodan kelgan g'alati qora tanli mavjudot Piter Parker bilan bog'lanadi va u yangi yovuz odamlar, vasvasalar va qasos bilan kurashayotganda ichki tartibsizliklarni keltirib chiqaradi.",
+        "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/pr435cR.jpeg",
+        "link": "https://ok.ru/video/1455017888489",
+        "push": "-Nu7bD6bDV6GgXideR_n",
+        "state": "AQSH ",
+        "time": "29032024101000",
+        "title": "O'rgimchak odam 3",
+        "trailer": "https://ok.ru/video/1455017888489",
+        "year": "2007"
       }
     },
     "HIND": {
@@ -4250,6 +4280,18 @@
     "-Nu-eaXl1CeUe3DwBfgj": {
       "id": "ePAzD6EfwIcufhyF",
       "img": "https://i.imgur.com/UImpgoi.jpeg"
+    },
+    "-Nu7Xp1CxrDkWQ4BKaJq": {
+      "id": "jBBgBu6h",
+      "img": "https://i.imgur.com/a9QG9Vd.jpeg"
+    },
+    "-Nu7ZF8HyA7DelywjA6d": {
+      "id": "za1cxe",
+      "img": "https://i.imgur.com/oXuNMXa.jpeg"
+    },
+    "-Nu7bK-KS6w6-ab9vpR3": {
+      "id": "DV6GGX",
+      "img": "https://i.imgur.com/pr435cR.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -5123,6 +5165,12 @@
       "img": "soon",
       "time": "28032024075436",
       "title": "Vonka joylandi. Millerning qizi, Adipurush, Josusular 3 qayta yuklandi."
+    },
+    "-Nu42EostXQWEyibJ4sq": {
+      "desc": "Andor seriali yuklanmoqda. Akvamen 2 qayta joylandi Full HD.  va yana bir nechta filmlar Sifatli formatga uzgartirildi va tuzatildi.",
+      "img": "soon",
+      "time": "28032024053358",
+      "title": "Andor seriali yuklanmoqda. Akvamen 2 qayta joylandi Full HD.  va yana bir nechta filmlar Sifatli formatga uzgartirildi va tuzatildi."
     }
   },
   "SERIAL": {
