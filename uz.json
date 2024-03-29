@@ -1689,6 +1689,21 @@
         "title": "K.G.F Kollarning oltin quymalari 2",
         "trailer": "https://ok.ru/video/4368814115409",
         "year": "2022"
+      },
+      "-Nu8RtRtErLNDo6nuiAN": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Gabbar Singx Rajput o'zining korruptsiyaga qarshi tashkilotini tuzadi, u hayotning barcha sohalaridagi eng korruptsionerlarni yo'q qiladi. Ko'p o'tmay, politsiya va hukumat ushbu tashkilot boshida turgan odamni topish uchun bosim o'tkaza boshlaydi ...",
+        "genre": "Jangari Kriminal Drama ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/sLlxVUZ.jpeg",
+        "link": "https://ok.ru/video/1606207867591",
+        "push": "-Nu8RtRtErLNDo6nuiAN",
+        "state": "Hindiston ",
+        "time": "29032024020431",
+        "title": "Gabbarning qaytishi",
+        "trailer": "https://ok.ru/video/3326677470",
+        "year": "2015"
       }
     },
     "JANGARI": {
@@ -4292,6 +4307,10 @@
     "-Nu7bK-KS6w6-ab9vpR3": {
       "id": "DV6GGX",
       "img": "https://i.imgur.com/pr435cR.jpeg"
+    },
+    "-Nu8S11kF5J1eWySJeB-": {
+      "id": "6nuiAN",
+      "img": "https://i.imgur.com/sLlxVUZ.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -33871,6 +33890,27 @@
         "img": "https://i.imgur.com/0Kpt6wk.jpeg",
         "link": "https://vk.com/video-225182992_456239076",
         "part": 2,
+        "title": "Andor"
+      },
+      "-Nu8T4tXpjCIWvZbIjOd": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "https://vk.com/video-225182992_456239078",
+        "part": 3,
+        "title": "Andor"
+      },
+      "-Nu8T8Zwk6qlZHOJanjf": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "https://vk.com/video-225182992_456239085",
+        "part": 4,
+        "title": "Andor"
+      },
+      "-Nu8TEzQFcPtPUMx0yz-": {
+        "id": "ANDORUZZ",
+        "img": "https://i.imgur.com/0Kpt6wk.jpeg",
+        "link": "https://vk.com/video-225182992_456239086",
+        "part": 5,
         "title": "Andor"
       }
     },
