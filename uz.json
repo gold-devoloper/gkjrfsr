@@ -1704,6 +1704,21 @@
         "title": "Gabbarning qaytishi",
         "trailer": "https://ok.ru/video/3326677470",
         "year": "2015"
+      },
+      "-NuEjBlO9aAmshAw3jZs": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Jiddiy jarohat olgan va qiz do'sti shafqatsiz hujumda o'ldirilganidan keyin yigit hayotni saqlab qolgan yuz transplantatsiyasini oladi. Dushmanlari tanib bo‘lmas ekan, u qasos olishga yo‘l oladi. ...",
+        "genre": "Jangari Triller ",
+        "imdb": "5.8",
+        "img": "https://i.imgur.com/NcpX7ZO.jpeg",
+        "link": "https://ok.ru/video/265391706545",
+        "push": "-NuEjBlO9aAmshAw3jZs",
+        "state": "Hindiston ",
+        "time": "30032024072212",
+        "title": "O'zganing qasosi",
+        "trailer": "https://ok.ru/video/14970194480",
+        "year": "2014"
       }
     },
     "JANGARI": {
@@ -4315,6 +4330,10 @@
     "-NuDrBLyF1Dzad3Z6pSE": {
       "id": "VA5SMX",
       "img": "https://i.imgur.com/CqxOT9t.jpeg"
+    },
+    "-NuEjVNL3hIFnFGfJhj_": {
+      "id": "Aw3jZs",
+      "img": "https://i.imgur.com/NcpX7ZO.jpeg"
     }
   },
   "MULTISERIAL": {
