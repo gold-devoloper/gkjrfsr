@@ -3752,6 +3752,21 @@
         "title": "Rey ",
         "trailer": "https://ok.ru/video/1299813436060",
         "year": "2004"
+      },
+      "-NuEwvSqz44pejNG894S": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Totalitar mamlakatdan qochgan homilador ayol dengizda suzayotgan yuk kemasi konteynerida omon qolishga harakat qilmoqda.",
+        "genre": "Drama Triller ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/u3QXyPU.jpeg",
+        "link": "https://ok.ru/video/6212994992734",
+        "push": "-NuEwvSqz44pejNG894S",
+        "state": "Ispaniya ",
+        "time": "30032024082212",
+        "title": "Hech qayerga",
+        "trailer": "https://ok.ru/video/6354672880319",
+        "year": "2023"
       }
     },
     "QORQINCHLI": {
@@ -4334,6 +4349,10 @@
     "-NuEjVNL3hIFnFGfJhj_": {
       "id": "Aw3jZs",
       "img": "https://i.imgur.com/NcpX7ZO.jpeg"
+    },
+    "-NuEx0ThVtdRzsx5Jr8G": {
+      "id": "NG894S",
+      "img": "https://i.imgur.com/u3QXyPU.jpeg"
     }
   },
   "MULTISERIAL": {
