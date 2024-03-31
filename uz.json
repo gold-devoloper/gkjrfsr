@@ -817,6 +817,21 @@
         "title": "O'rgimchak odam 3",
         "trailer": "https://ok.ru/video/1455017888489",
         "year": "2007"
+      },
+      "-NuHu_bKCy7J0Av-Nd1h": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ikki qadimiy titanlar, Godzilla va Kong epik jangda to'qnash kelishadi, chunki odamlar o'zlarining kelib chiqishi va Boshsuyagi orolining sirlari bilan bog'liqligini ochib berishadi.",
+        "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "6.7",
+        "img": "https://i.imgur.com/V1hdlKn.jpeg",
+        "link": "https://vk.com/video-225182992_456239108",
+        "push": "-NuHu_bKCy7J0Av-Nd1h",
+        "state": "AQSH ",
+        "time": "31032024101050",
+        "title": "Godzilla va Kong: Yangi imperya",
+        "trailer": "https://ok.ru/video/6751104797315",
+        "year": "2024"
       }
     },
     "HIND": {
@@ -4353,6 +4368,10 @@
     "-NuEx0ThVtdRzsx5Jr8G": {
       "id": "NG894S",
       "img": "https://i.imgur.com/u3QXyPU.jpeg"
+    },
+    "-NuHunOyTzfr3bytPfXG": {
+      "id": "Cy7J0Av",
+      "img": "https://i.imgur.com/V1hdlKn.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -5232,6 +5251,12 @@
       "img": "soon",
       "time": "28032024053358",
       "title": "Andor seriali yuklanmoqda. Akvamen 2 qayta joylandi Full HD.  va yana bir nechta filmlar Sifatli formatga uzgartirildi va tuzatildi."
+    },
+    "-NuHcjRRRSMcjCabgsij": {
+      "desc": "Kino ichida reklamalar ham ko'payib ketyapti saytlar joylashtirgan reklamalar  iloji boricha orginalini chiqarishga harkat qilamiz ovozni orginal filmga ko'chiramiz tez kunlarda",
+      "img": "soon",
+      "time": "31032024085251",
+      "title": "Kino ichida reklamalar ham ko'payib ketyapti saytlar joylashtirgan reklamalar  iloji boricha orginalini chiqarishga harkat qilamiz ovozni orginal filmga ko'chiramiz tez kunlarda"
     }
   },
   "SERIAL": {
