@@ -832,6 +832,21 @@
         "title": "Godzilla va Kong: Yangi imperya",
         "trailer": "https://ok.ru/video/6751104797315",
         "year": "2024"
+      },
+      "-NuUu6JFipOJaSumky3j": {
+        "age": 12,
+        "child": "KINO",
+        "description": "O'zga sayyoraliklar tomonidan o'g'irlab ketilgan silliq turk yigiti GORA sayyorasining yovuz bosh qo'mondonini aldash orqali o'zining buyuk \"insonparvarlik ruhini\" namoyish etadi.",
+        "genre": "Sarguzashtlar Komediya Ilmiy-fantastik ",
+        "imdb": "8.0",
+        "img": "https://i.imgur.com/exTLodU.jpeg",
+        "link": "https://ok.ru/video/6747134167646",
+        "push": "-NuUu6JFipOJaSumky3j",
+        "state": "Turkiya ",
+        "time": "02042024104357",
+        "title": "GORA",
+        "trailer": "https://ok.ru/video/6747134167646",
+        "year": "2004"
       }
     },
     "HIND": {
@@ -1734,6 +1749,21 @@
         "title": "O'zganing qasosi",
         "trailer": "https://ok.ru/video/14970194480",
         "year": "2014"
+      },
+      "-NuUvd30G7R8Wxp-R-fu": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ehtiyotsiz, ammo zo'r eskadron rahbari va uning elita qiruvchi uchuvchilar jamoasi halokatli missiya uchun birlashganda o'lik xavf va ichki jinlarga duch kelishadi.",
+        "genre": "Jangari Triller ",
+        "imdb": "6.5",
+        "img": "https://i.imgur.com/FyThB0W.jpeg",
+        "link": "https://ok.ru/video/6744545102430",
+        "push": "-NuUvd30G7R8Wxp-R-fu",
+        "state": "Hindiston ",
+        "time": "02042024105037",
+        "title": "Qiruvchi",
+        "trailer": "https://ok.ru/video/6744545102430",
+        "year": "2024"
       }
     },
     "JANGARI": {
@@ -4372,6 +4402,14 @@
     "-NuHunOyTzfr3bytPfXG": {
       "id": "Cy7J0Av",
       "img": "https://i.imgur.com/V1hdlKn.jpeg"
+    },
+    "-NuUuMBUNHFFOFmSSdzA": {
+      "id": "Sumky3j",
+      "img": "https://i.imgur.com/exTLodU.jpeg"
+    },
+    "-NuUvrqwv5o8MCark3ZV": {
+      "id": "7R8Wxp",
+      "img": "https://i.imgur.com/FyThB0W.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -5275,6 +5313,12 @@
       "img": "soon",
       "time": "01042024105602",
       "title": "Kimga qanaqa kino kerak bo'lsaTelegram orqali @xurshid_meliziyayev ga yozing Rus Uzbek Ingliz Hind tillarida joylab beriladi"
+    },
+    "-NuUSnqa5vFALgOcXfEj": {
+      "desc": "Filmlarni onlayn ko'rish tavsiya etiladi yuklab olish yangi qo'shilgan endigi yangilanishda takomilashtiriladi yana oldingidek takomilashtirish boshlanadi. Ilovani birga yaratamiz telegram chatimizda izohlar qoldiring.  Biz ham oddiy qishloqdagi odammiz bemalol taklif va savollaringizni yozib qoldirishingiz mumkin.",
+      "img": "soon",
+      "time": "02042024084017",
+      "title": "Filmlarni onlayn ko'rish tavsiya etiladi yuklab olish yangi qo'shilgan endigi yangilanishda takomilashtiriladi yana oldingidek takomilashtirish boshlanadi. Ilovani birga yaratamiz telegram chatimizda izohlar qoldiring.  Biz ham oddiy qishloqdagi odammiz bemalol taklif va savollaringizni yozib qoldirishingiz mumkin."
     }
   },
   "SERIAL": {
