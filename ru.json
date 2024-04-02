@@ -331,6 +331,10 @@
     "-NuNa5eHTACjHUwNzskj": {
       "id": "xW7e3I",
       "img": "https://i.imgur.com/AWSXW0k.jpeg"
+    },
+    "-NuUOw4gnHi1_NOg_aer": {
+      "id": "AOXDm9Aq",
+      "img": "https://i.imgur.com/OqM7flo.jpeg"
     }
   },
   "NOTIFICATION": {
@@ -369,6 +373,12 @@
       "img": "soon",
       "time": "14032024102642",
       "title": "Halo serialni muxlislari 15-qism chiqibdi rus tilida Rus bazaga o'tib ko'rishlaring mumkin uzbek tilida 13ta qismi chiqgan Rus tilida film serial tomosha qiluvchilar zakaz bering Telegram orqali @xurshid _meliziyayev"
+    },
+    "-NuU4zRbWah-3Vxqto4b": {
+      "desc": "Bugun tunda kino orqasidan kino yangilaridan va buyurtma qilingan Gaddar yirtqich to'liq Rus bazaga yuklanadi.",
+      "img": "soon",
+      "time": "02042024065613",
+      "title": "Bugun tunda kino orqasidan kino yangilaridan va buyurtma qilingan Gaddar yirtqich to'liq Rus bazaga yuklanadi."
     }
   },
   "SERIAL": {
@@ -510,6 +520,104 @@
         "link": "https://vk.com/video-145832074_456240383",
         "part": 1,
         "title": "Милый дом"
+      }
+    }
+  },
+  "SERIALTURKIYA": {
+    "-NuUOoguoEqHAOXDm9Aq": {
+      "age": 16,
+      "child": "SERIALTURKIYAX",
+      "description": "Даган возвращается домой после службы в армии, но вернуть свою прежнюю жизнь он уже не может. Любимая девушка Айдан его бросила, не сказав ",
+      "genre": "Боевик Драма Криминальный ",
+      "id": "GADDAR",
+      "imdb": "7.6",
+      "img": "https://i.imgur.com/OqM7flo.jpeg",
+      "push": "-NuUOoguoEqHAOXDm9Aq",
+      "state": "Турция ",
+      "time": "02042024082252",
+      "title": "Беспощадный",
+      "trailer": "https://ok.ru/video/7415105718998",
+      "year": "2024"
+    }
+  },
+  "SERIALTURKIYAX": {
+    "GADDAR": {
+      "-NuUPBK-2ei9GQ3IH0qi": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239119",
+        "part": 1,
+        "title": "Беспощадный"
+      },
+      "-NuUPFWUZc3vZEkkXDLD": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239120",
+        "part": 2,
+        "title": "Беспощадный"
+      },
+      "-NuUPKkrniKeNAjj6N4F": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://ok.ru/video/6672392456767",
+        "part": 3,
+        "title": "Беспощадный"
+      },
+      "-NuUPPbeLBSsgiji0kUf": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239122",
+        "part": 4,
+        "title": "Беспощадный"
+      },
+      "-NuUPTeA-hEI5YUpjqAy": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239123",
+        "part": 5,
+        "title": "Беспощадный"
+      },
+      "-NuUPXQZbSgoa2hE_Jd_": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239124",
+        "part": 6,
+        "title": "Беспощадный"
+      },
+      "-NuUPcctP2rYUrBJuqbe": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239125",
+        "part": 7,
+        "title": "Беспощадный"
+      },
+      "-NuUPlieuXephp-l-YtJ": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239127",
+        "part": 8,
+        "title": "Беспощадный"
+      },
+      "-NuUPqqOpvdmyp6dS-5R": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239129",
+        "part": 9,
+        "title": "Беспощадный"
+      },
+      "-NuUPvfS997dHYfdPyE_": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239130",
+        "part": 10,
+        "title": "Беспощадный"
+      },
+      "-NuUPzVSvH4Uha9RJAfp": {
+        "id": "GADDAR",
+        "img": "https://i.imgur.com/OqM7flo.jpeg",
+        "link": "https://vk.com/video-225182992_456239131",
+        "part": 11,
+        "title": "Беспощадный"
       }
     }
   },
