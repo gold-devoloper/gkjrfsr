@@ -1764,6 +1764,21 @@
         "title": "Qiruvchi",
         "trailer": "https://ok.ru/video/6744545102430",
         "year": "2024"
+      },
+      "-NuY4K_aYDqiMKuH0WMY": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Chhalaang - Montuning quvnoq, ammo ilhomlantiruvchi sayohati.",
+        "genre": "Komediya Drama Sport ",
+        "imdb": "6.7",
+        "img": "https://i.imgur.com/7iZFLNA.jpeg",
+        "link": "https://ok.ru/video/6752446188126",
+        "push": "-NuY4K_aYDqiMKuH0WMY",
+        "state": "Hindiston ",
+        "time": "03042024013151",
+        "title": "Kutilmagan g'alaba",
+        "trailer": "https://ok.ru/video/1833660189349",
+        "year": "2020"
       }
     },
     "JANGARI": {
@@ -3435,6 +3450,21 @@
         "title": "Lilo va stich",
         "trailer": "https://ok.ru/video/2616465558179",
         "year": "2002"
+      },
+      "-NuY36J9RoUOz-LXxsAT": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Nyu-York hayvonot bog'idan o'smir sher tasodifan Afrikaga jo'natildi. Endi ozod bo'lgan uning hayvonot bog'i do'stlari uni qaytarishga yordam berish uchun kelishmovchiliklarni chetga surishlari kerak.",
+        "genre": "Komediya Sarguzashtlar Animatsiya ",
+        "imdb": "5.2",
+        "img": "https://i.imgur.com/Ji8GLBl.jpeg",
+        "link": "https://ok.ru/video/6747278871134",
+        "push": "-NuY36J9RoUOz-LXxsAT",
+        "state": "AQSH ",
+        "time": "03042024012630",
+        "title": "Shermurodni izlab",
+        "trailer": "https://ok.ru/video/6747278871134",
+        "year": "2006"
       }
     },
     "OTHER": {
@@ -4410,6 +4440,14 @@
     "-NuUvrqwv5o8MCark3ZV": {
       "id": "7R8Wxp",
       "img": "https://i.imgur.com/FyThB0W.jpeg"
+    },
+    "-NuY3BKUBPbi0mqjnscC": {
+      "id": "LXXSAT",
+      "img": "https://i.imgur.com/Ji8GLBl.jpeg"
+    },
+    "-NuY4Y9TjbRxRY4Dfv5i": {
+      "id": "H0WMY",
+      "img": "https://i.imgur.com/7iZFLNA.jpeg"
     }
   },
   "MULTISERIAL": {
