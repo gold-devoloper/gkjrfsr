@@ -847,6 +847,21 @@
         "title": "GORA",
         "trailer": "https://ok.ru/video/6747134167646",
         "year": "2004"
+      },
+      "-NuaMR1kc3RjJYbsnbNw": {
+        "age": 12,
+        "child": "KINO",
+        "description": "gora 2 uzbek tilida 2005 turkiya filmi ",
+        "genre": "Komediya Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "8.0",
+        "img": "https://i.imgur.com/xlHBT43.jpeg",
+        "link": "https://ok.ru/video/6747279133278",
+        "push": "-NuaMR1kc3RjJYbsnbNw",
+        "state": "Turkiya ",
+        "time": "04042024044948",
+        "title": "GORA 2",
+        "trailer": "https://ok.ru/video/6747279133278",
+        "year": "2005"
       }
     },
     "HIND": {
@@ -1779,6 +1794,21 @@
         "title": "Kutilmagan g'alaba",
         "trailer": "https://ok.ru/video/1833660189349",
         "year": "2020"
+      },
+      "-NuaOlmDL5zRIG5anpfi": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Aryan ideal hayot sherigini topa olmaydi. U AQSHda rasmiy topshiriq bilan yurganida mukammal qiz Sifra bilan tanishadi va uni sevib qoladi, keyin esa bu haqiqiy sevgi hikoyasi emasligini tushunadi.",
+        "genre": "Komediya Drama Romantika ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/pt3KuuJ.jpeg",
+        "link": "https://ok.ru/video/6740303219294",
+        "push": "-NuaOlmDL5zRIG5anpfi",
+        "state": "Hindiston ",
+        "time": "04042024050001",
+        "title": "Mening robot qizim",
+        "trailer": "https://ok.ru/video/6740303219294",
+        "year": "2024"
       }
     },
     "JANGARI": {
@@ -2846,6 +2876,21 @@
         "title": "Dengiz hukmdori",
         "trailer": "https://ok.ru/video/3144689912324",
         "year": "2003"
+      },
+      "-NuaSb0DRSj2Vz8QVgAl": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Sobiq qotil Rayan nafaqaga chiqishga qaror qiladi va qirg'oqqa joylashib, kichik uy va yaxta sotib oladi. Bu erda u bola Doni bilan do'stlashadi, lekin tez orada ikkinchisini mahalliy to'daning mashinasi urib yuboradi. Qahramon o'zining kichik do'sti uchun qasos olmoqchi va jinoyatchilar uning o'tmishdagi dushmani bilan bog'liqligini bilib oladi ...",
+        "genre": "Jangari Kriminal Drama ",
+        "imdb": "8.4",
+        "img": "https://i.imgur.com/o1Ilith.jpeg",
+        "link": "https://ok.ru/video/6741379582558",
+        "push": "-NuaSb0DRSj2Vz8QVgAl",
+        "state": "Avstriya AQSH Buyuk Britaniya ",
+        "time": "04042024051646",
+        "title": "Men jazovlovchiman / Qasoskor",
+        "trailer": "https://ok.ru/video/6741379582558",
+        "year": "2018"
       }
     },
     "KOMEDIYA": {
@@ -4448,6 +4493,18 @@
     "-NuY4Y9TjbRxRY4Dfv5i": {
       "id": "H0WMY",
       "img": "https://i.imgur.com/7iZFLNA.jpeg"
+    },
+    "-NuaMmmQO6V6GztUmvro": {
+      "id": "bsnbNw",
+      "img": "https://i.imgur.com/xlHBT43.jpeg"
+    },
+    "-NuaOtkZ3bdipJ0Y3w5g": {
+      "id": "G5ANPFI",
+      "img": "https://i.imgur.com/pt3KuuJ.jpeg"
+    },
+    "-NuaSk2cAJ76DXdrw5Ry": {
+      "id": "z8QVgAl",
+      "img": "https://i.imgur.com/o1Ilith.jpeg"
     }
   },
   "MULTISERIAL": {
