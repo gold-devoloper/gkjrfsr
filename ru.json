@@ -101,6 +101,21 @@
         "title": "Заступник",
         "trailer": "https://ok.ru/video/2479120059053",
         "year": "2021"
+      },
+      "-NucjFwUXNMlQYg4W7UH": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Американский солдат, очевидно, очень опытный в боевых искусствах, в одиночку сражается с наемниками на Филиппинах.",
+        "genre": "Боевик Приключение Романтика ",
+        "imdb": "5.4",
+        "img": "https://i.imgur.com/hXSyQbU.jpeg",
+        "link": "https://ok.ru/video/227521596076",
+        "push": "-NucjFwUXNMlQYg4W7UH",
+        "state": "США ",
+        "time": "04042024035309",
+        "title": "Американский ниндзя",
+        "trailer": "https://ok.ru/video/227521596076",
+        "year": "1985"
       }
     },
     "KOMEDIYA": {
@@ -335,6 +350,10 @@
     "-NuUOw4gnHi1_NOg_aer": {
       "id": "AOXDm9Aq",
       "img": "https://i.imgur.com/OqM7flo.jpeg"
+    },
+    "-Nucja6wwesqUsQD91dv": {
+      "id": "4W7UH",
+      "img": "https://i.imgur.com/hXSyQbU.jpeg"
     }
   },
   "NOTIFICATION": {
