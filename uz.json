@@ -3403,6 +3403,21 @@
         "title": "Shoshqaloqlar oilasi",
         "trailer": "https://ok.ru/video/6739555912286",
         "year": "2018"
+      },
+      "-NulcyWloZpiImY0Y8qE": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Filmning bosh qahramoni - kichik provinsiya shaharchasida politsiyachi bo'lib ishlaydigan Charli ismli yigit. U juda mehribon va sodda odam, aytaylik, har doim ham uning hayotiga ijobiy ta'sir ko'rsatmaydi. Bu birinchi marta xotini uchta ajoyib o'g'il tug'ganida o'zini namoyon qiladi. Nima katta gap, deb so'rayapsizmi? Agar ular ovqatlanayotganda qora tanli bo'lmasalar yaxshi bo'ladi. Atrofdagi hamma bu uning bolalari emasligini tushundi va faqat Charli bunga umuman ahamiyat bermadi. Ammo bir kuni qahramonning rafiqasi qora tanli bolakay bilan qochib ketganida hammasi joyiga tushdi, ehtimol u bolalarning haqiqiy otasi edi.\n\nShu asosda, Charli boshida qandaydir o'zgarishlarni boshdan kechiradi va bo'lingan shaxsiyat paydo bo'ladi. Uning ikkinchi o'zi, uning ismi Hank, qahramonning haqiqiy xarakteriga mutlaqo ziddir. Bu juda qo'pol, g'azablangan va xulq-atvorli odam, umuman olganda, odamni kamsitish nokni otish kabi oson bo'lgan axloqsiz odam. Shu paytdan boshlab qahramonning hayoti haqiqiy dahshatli tushga aylanadi ...",
+        "genre": "Komediya ",
+        "imdb": "6.60",
+        "img": "https://i.imgur.com/pi6shdz.jpeg",
+        "link": "https://ok.ru/video/1006658718423",
+        "push": "-NulcyWloZpiImY0Y8qE",
+        "state": "AQSH ",
+        "time": "06042024092215",
+        "title": "Hasan ibn Husan (Gobliddin tarjima)",
+        "trailer": "https://ok.ru/video/1006658718423",
+        "year": "2000"
       }
     },
     "MULTFILM": {
@@ -4676,6 +4691,10 @@
     "-Nui4vQ1QFEGpPTq-gDT": {
       "id": "JUlBIB",
       "img": "https://i.imgur.com/VYWcDKd.jpeg"
+    },
+    "-NuldEb2cr8mmzQ2b8Ok": {
+      "id": "Y0Y8qE",
+      "img": "https://i.imgur.com/pi6shdz.jpeg"
     }
   },
   "MULTISERIAL": {
