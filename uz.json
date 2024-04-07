@@ -2966,6 +2966,21 @@
         "title": "Kavaleriya",
         "trailer": "https://ok.ru/video/347552221947",
         "year": "2018"
+      },
+      "-Nuu-55sUu_ARifrx2N5": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Xususiy xavfsizlik agenti qimmatbaho xitoy antikvarini Shanxaydan olib chiqib ketishi kerak, lekin yo'lda pistirmaga tushib qoladi.",
+        "genre": "Jangari Triller ",
+        "imdb": "4.4",
+        "img": "https://i.imgur.com/pE62PMT.jpeg",
+        "link": "https://ok.ru/video/6762713123422",
+        "push": "-Nuu-55sUu_ARifrx2N5",
+        "state": "Xitoy ",
+        "time": "08042024122014",
+        "title": "Shanxaylik eltuvchi",
+        "trailer": "https://ok.ru/video/382524920253",
+        "year": "2017"
       }
     },
     "KOMEDIYA": {
@@ -4022,6 +4037,21 @@
         "title": "Qaynoq yuraklar",
         "trailer": "https://ok.ru/video/3649347455554",
         "year": "2022"
+      },
+      "-NutxI86arEaBEMAZR7I": {
+        "age": 16,
+        "child": "KINO",
+        "description": "1976 yil 28 iyulda Xebey provinsiyasining Tangshan shahrida yarim daqiqadan kamroq davom etgan zilzila yuz berdi, biroq bir necha yuz ming kishining hayotiga zomin bo'ldi. Bu soniyalar onani dahshatli tanlov oldiga qo'yadi - o'g'li yoki qizini qutqarish, bu o'nlab yillar davomida aybdorlik yukiga aylandi.",
+        "genre": "Drama Tarixiy ",
+        "imdb": "7.5",
+        "img": "https://i.imgur.com/TYrqwlu.jpeg",
+        "link": "https://ok.ru/video/6761093728862",
+        "push": "-NutxI86arEaBEMAZR7I",
+        "state": "Xitoy Gonkong ",
+        "time": "08042024120801",
+        "title": "Zilzila",
+        "trailer": "https://ok.ru/video/6761093728862",
+        "year": "2010"
       }
     },
     "QORQINCHLI": {
@@ -4695,6 +4725,14 @@
     "-NuldEb2cr8mmzQ2b8Ok": {
       "id": "Y0Y8qE",
       "img": "https://i.imgur.com/pi6shdz.jpeg"
+    },
+    "-NutxsxKcUYTWqgyoxM3": {
+      "id": "MAZR7I",
+      "img": "https://i.imgur.com/TYrqwlu.jpeg"
+    },
+    "-Nuu-H7J1ztEUoolVORH": {
+      "id": "ifrx2N5",
+      "img": "https://i.imgur.com/pE62PMT.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -5616,6 +5654,18 @@
       "img": "soon",
       "time": "06042024105531",
       "title": "Kinochi TV yana takomilashtirilishda davom etadi Yuklab olish takomilashtirildi endi siz istalgan filmni yuklab olishingiz va bir nechta filmlarni bir vaqtda yuklashingiz uchun api yaratildi. Buyurtmalar stoli kino seriallar buyurtma qilish topish funksiyasi qo'shildi. Yangilanish 1haftadan chiqadi. yana nimadirlar qo'shish kerakmi? Telegram guruhimizda yozib qoldiring."
+    },
+    "-NuscleEHKvptl8MxW-f": {
+      "desc": "Godzilla va Kong: yangi imperya qayta joylandi Tiniq formatda",
+      "img": "soon",
+      "time": "07042024055843",
+      "title": "Godzilla va Kong: yangi imperya qayta joylandi Tiniq formatda"
+    },
+    "-Nut-eTH11LGLLRrAOIx": {
+      "desc": "Ertaga yangilanish Yuklab olish takomilashtirildi endi bir nechta filmlarni birdaniga yuklab olishingiz pauza qilishingiz internet o'chib qolsa ham usha joyidan davom ettirishingiz mumkin. va q'shimcha Reklama ko'rishni istamaganlar uchun Reklmani o'chirish funksiyasi Albatta pullik va yana Film seriallarni qidirib topib joylab beruvchi funksiya qo'shildi Uzbek rus ingliz tilida usha filmni buyurtma qila olasiz Misol Uzbek tilida chiqmagan bo'lsa Rus tilida bo'ladi.",
+      "img": "soon",
+      "time": "07042024074305",
+      "title": "Ertaga yangilanish Yuklab olish takomilashtirildi endi bir nechta filmlarni birdaniga yuklab olishingiz pauza qilishingiz internet o'chib qolsa ham usha joyidan davom ettirishingiz mumkin. va q'shimcha Reklama ko'rishni istamaganlar uchun Reklmani o'chirish funksiyasi Albatta pullik va yana Film seriallarni qidirib topib joylab beruvchi funksiya qo'shildi Uzbek rus ingliz tilida usha filmni buyurtma qila olasiz Misol Uzbek tilida chiqmagan bo'lsa Rus tilida bo'ladi."
     }
   },
   "SERIAL": {
