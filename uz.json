@@ -862,6 +862,21 @@
         "title": "GORA 2",
         "trailer": "https://ok.ru/video/6747279133278",
         "year": "2005"
+      },
+      "-NuxFRXQedPWg6gkCVif": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Texnik blogger Franklin tasodifan tibbiyot sohasida ajoyib muvaffaqiyatlarga erishgan mashhur vizyoner va innovatsion guruga suiqasdning oldini oladi. Yigit tashlab qo'ygan uzukni ko'tarib, uning egasiga 57 soniya davomida o'tmishga sayohat qilish imkoniyatini berishini aniqladi. Franklin topilmadan foydalanishga va mo''jizaviy uzuk yordamida singlisining o'limida aybdor deb bilganlardan o'ch olishga qaror qiladi.",
+        "genre": "Triller Ilmiy-fantastik Jangari ",
+        "imdb": "5.4",
+        "img": "https://i.imgur.com/edYb2tO.jpeg",
+        "link": "https://vk.com/video-225182992_456239132",
+        "push": "-NuxFRXQedPWg6gkCVif",
+        "state": "AQSH ",
+        "time": "08042024033035",
+        "title": "57 Soniya / 57 Sekund",
+        "trailer": "https://ok.ru/video/7426959936209",
+        "year": "2023"
       }
     },
     "HIND": {
@@ -4733,6 +4748,10 @@
     "-Nuu-H7J1ztEUoolVORH": {
       "id": "ifrx2N5",
       "img": "https://i.imgur.com/pE62PMT.jpeg"
+    },
+    "-NuxFeUjLmhPEqYjxf64": {
+      "id": "g6gkCVif",
+      "img": "https://i.imgur.com/7kXsrQO.jpeg"
     }
   },
   "MULTISERIAL": {
