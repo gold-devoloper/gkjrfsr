@@ -877,6 +877,36 @@
         "title": "57 Soniya / 57 Sekund",
         "trailer": "https://ok.ru/video/7426959936209",
         "year": "2023"
+      },
+      "-Nv-ovbcslSh31w0VvX6": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Goryeo sulolasining oxirida afsonaviy ilohiy qilichni qo'lga olmoqchi bo'lgan qilichboz va inson qamoqqa olingan begona mahbusning orqasidan quvganlar o'rtasida vaqt eshigi ochiladi ...",
+        "genre": "Jangari Sarguzashtlar Fantastika ",
+        "imdb": "6.2",
+        "img": "https://i.imgur.com/v4clytq.jpeg",
+        "link": "https://ok.ru/video/3672996383293",
+        "push": "-Nv-ovbcslSh31w0VvX6",
+        "state": "Janubiy Koreya ",
+        "time": "09042024080851",
+        "title": "Kelgindilar 1",
+        "trailer": "https://ok.ru/video/6577506224641",
+        "year": "2022"
+      },
+      "-Nv-re6M_HDqbd6OwPVL": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Qadimgi Taoistlar ilohiy qilichni qo'lga kiritish uchun vaqt va makon bo'ylab sayohat qilishadi.",
+        "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/0iPtHrH.jpeg",
+        "link": "https://ok.ru/video/7736562420273",
+        "push": "-Nv-re6M_HDqbd6OwPVL",
+        "state": "Janubiy Koreya ",
+        "time": "09042024082046",
+        "title": "Kelgindilar 2",
+        "trailer": "https://ok.ru/video/7049379842630",
+        "year": "2024"
       }
     },
     "HIND": {
@@ -4752,6 +4782,14 @@
     "-NuxFeUjLmhPEqYjxf64": {
       "id": "g6gkCVif",
       "img": "https://i.imgur.com/7kXsrQO.jpeg"
+    },
+    "-Nv-p7K_mt_fpfqXMmsO": {
+      "id": "w0VvX6",
+      "img": "https://i.imgur.com/v4clytq.jpeg"
+    },
+    "-Nv-roZ-Of1jRaZbD-Bo": {
+      "id": "6OwPVL",
+      "img": "https://i.imgur.com/0iPtHrH.jpeg"
     }
   },
   "MULTISERIAL": {
