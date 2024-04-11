@@ -468,6 +468,10 @@
     "-NvBGjRQ9rcNHv7QaCWq": {
       "id": "-NvBGjQMU3U6_S8wWjxK",
       "img": "https://i.imgur.com/uVac1zs.jpeg"
+    },
+    "-NvD4JQrls2IOj_kKkpR": {
+      "id": "-NvD4JQN8U9KHO5yMSX2",
+      "img": "https://i.imgur.com/YKzPdzn.jpeg"
     }
   },
   "NOTIFICATION": {
@@ -642,9 +646,152 @@
       "title": "Милый дом",
       "trailer": "https://ok.ru/video/2457162025644",
       "year": "2020"
+    },
+    "-NvD4JQN8U9KHO5yMSX2": {
+      "age": 18,
+      "child": "SERIALKOREAX",
+      "description": "Начав просмотр сериала «Чёрный», зритель знакомится с профессиональным сыщиком, который всю свою жизнь занимается детективными расследованиями. За время своей деятельности Блэк стал одним из лучших в своем деле. Но он и понятия не имеет, что вскоре ему придется пережить невероятный мистический опыт. Одновременно с этим мы знакомимся с девушкой, обладающей удивительными способностями. Она может предвидеть смерть людей. Ей хочется спасать людей, но для этого у нее нет возможностей, ведь она знает, что никто не поверит в ее историю.",
+      "genre": "Драма Фантастика Криминальный ",
+      "id": "BLACK",
+      "imdb": "7.8",
+      "img": "https://i.imgur.com/YKzPdzn.jpeg",
+      "push": "-NvD4JQN8U9KHO5yMSX2",
+      "state": "Южная Корея ",
+      "time": "11042024095531",
+      "title": "Чёрный / Блэк",
+      "trailer": "https://vk.com/video-64354864_456248096",
+      "year": "2017"
     }
   },
   "SERIALKOREAX": {
+    "BLACK": {
+      "-NvDD9JTVbYPILrfeQty": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239456",
+        "part": 1,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDCK-EG96J4qpQofx": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239459",
+        "part": 2,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDFCn3jQ2XgyhzsPv": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239488",
+        "part": 3,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDINQhGMMgjC8z8zx": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239491",
+        "part": 4,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDL8YxcqBMNw3ZqB9": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239505",
+        "part": 5,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDNrz6TVj_AOIFspL": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239507",
+        "part": 6,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDQbcnN1M15mzCHK0": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239524",
+        "part": 7,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDTGFHPNxgjb78QEB": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239527",
+        "part": 8,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDVwDMbkJMBcU_10d": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239547",
+        "part": 9,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDYTUCm0YU2qkMDoU": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239552",
+        "part": 10,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDa4uSm2iYcnnBHPA": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239570",
+        "part": 11,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDcaz4Nj35I_wwbjQ": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239573",
+        "part": 12,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDfL92BaWaX439p4q": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239593",
+        "part": 13,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDhuaXj0mOKrAjhCv": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239596",
+        "part": 14,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDkRhYVP6mfbygjfB": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239611",
+        "part": 15,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDmx1eo7Nzx_lC-sv": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239614",
+        "part": 16,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDqIiBrTKXSavRfum": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239625",
+        "part": 17,
+        "title": "Чёрный / Блэк"
+      },
+      "-NvDDsmmaxWtO7rf0yU1": {
+        "id": "BLACK",
+        "img": "https://i.imgur.com/YKzPdzn.jpeg",
+        "link": "https://vk.com/video-57401580_456239626",
+        "part": 18,
+        "title": "Чёрный / Блэк"
+      }
+    },
     "SWEETHOME": {
       "-NtCS9FFhq397oJ6IFD6": {
         "id": "SWEETHOME",
