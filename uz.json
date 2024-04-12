@@ -3071,6 +3071,21 @@
         "title": "Ustoz",
         "trailer": "https://ok.ru/video/6766634207838",
         "year": "2016"
+      },
+      "-NvHAdH58JpbY6ad2kCW": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Kometa Yerga katta tezlikda yaqinlashmoqda, bu sayyoradagi barcha hayotni yo'q qilish bilan tahdid qilmoqda. Faqatgina xavfsiz joy - uzoq Grenlandiyadagi bunker, bu erda Yer aholisining ozgina qismi evakuatsiya qilinishi mumkin. Jon Garriti, uning rafiqasi Elison va ularning kichkina o'g'li Natan boshpana topish umidida xavfli safarga chiqmoqdalar. Biroq, nafaqat kometa tomonidan vayron qilingan shaharlar va yo'llar, balki global falokat paytida o'zlarining eng yomon fazilatlarini namoyon etadigan g'amgin odamlar ham to'sqinlik qilmoqda ...",
+        "genre": "Jangari Triller ",
+        "imdb": "6.4",
+        "img": "https://i.imgur.com/ly5IfBZ.jpeg",
+        "link": "https://kxcdn.ru/Grenlandiya_2020_Daxshat.Net.mp4",
+        "push": "-NvHAdH58JpbY6ad2kCW",
+        "state": "AQSH Buyuk Britaniya ",
+        "time": "12042024050139",
+        "title": "Grendlandiya",
+        "trailer": "https://ok.ru/video/2008477207228",
+        "year": "2020"
       }
     },
     "KOMEDIYA": {
@@ -3598,6 +3613,21 @@
         "title": "Fantomas 3",
         "trailer": "https://ok.ru/video/6768071346782",
         "year": "1967"
+      },
+      "-NvH7ZIhfhWz1MpoWeq8": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Milliy lotereyadagi hayajon tugagan nikohni saqlab qolishi mumkinmi? Yoki bu nikohning oxiri bormi? Ushbu qiziqarli komediyada Demet va Okan bu savolga javobni bilib olishadi.",
+        "genre": "Komediya Romantika ",
+        "imdb": "4.4",
+        "img": "https://i.imgur.com/K6oVHsr.jpeg",
+        "link": "https://ok.ru/video/6773968603742",
+        "push": "-NvH7ZIhfhWz1MpoWeq8",
+        "state": "Turkiya ",
+        "time": "12042024044812",
+        "title": "O'ldir meni sevgilim",
+        "trailer": "https://ok.ru/video/6773968603742",
+        "year": "2019"
       }
     },
     "MULTFILM": {
@@ -4950,6 +4980,14 @@
     "-Nv7Pax8Ldpp6VfcsqEr": {
       "id": "-Nv7PawRqq-GBm-s1n1F",
       "img": "https://i.imgur.com/8HjOWEG.jpeg"
+    },
+    "-NvH7ZJ6Zy4y4TMquFDf": {
+      "id": "-NvH7ZIhfhWz1MpoWeq8",
+      "img": "https://i.imgur.com/K6oVHsr.jpeg"
+    },
+    "-NvHAdHkaiNb0lpjeSWP": {
+      "id": "-NvHAdH58JpbY6ad2kCW",
+      "img": "https://i.imgur.com/ly5IfBZ.jpeg"
     }
   },
   "MULTISERIAL": {
