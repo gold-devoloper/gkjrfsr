@@ -67,6 +67,36 @@
         "title": "Годзилла и Конг: Новая империя",
         "trailer": "https://ok.ru/video/6680518462046",
         "year": "2024"
+      },
+      "-NvHLAearEJTUCSLvbtZ": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Пожертвовав собой, чтобы спасти возлюбленную, Эрик Дрэйвен застревает между мирами живых и мёртвых. Вернувшись с того света, он не остановится ни перед чем, чтобы свести счёты с убийцами. Отныне он Ворон, жаждущий справедливости, и его месть будет жестока как никогда.",
+        "genre": "Боевик Фантастика Криминальный ",
+        "imdb": "10",
+        "img": "https://i.imgur.com/EJ3Y2eL.jpeg",
+        "link": "https://vk.com/video-224621586_456239123",
+        "push": "-NvHLAearEJTUCSLvbtZ",
+        "state": "Великобритания Франция США ",
+        "time": "12042024054741",
+        "title": "Ворон",
+        "trailer": "https://vk.com/video-23712274_456242203",
+        "year": "2024"
+      },
+      "-NvHP5y8xQuxbLdi59HZ": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Ближайшее будущее. Недавно овдовевший детектив полиции Уильям живет с андроидом по имени Мередит. Пока он пытается раскрыть преступную схему торговли андроидами на черном рынке, Мередит начинает вести себя как его покойная жена. Ее преследуют ложные воспоминания о прошлой жизни, которые заставляют андроида сомневаться в собственной реальности.",
+        "genre": "Криминальный Боевик Научная фантастика ",
+        "imdb": "4.9",
+        "img": "https://i.imgur.com/nyqiywy.jpeg",
+        "link": "https://vk.com/video-14785431_456257503",
+        "push": "-NvHP5y8xQuxbLdi59HZ",
+        "state": "США ",
+        "time": "12042024060450",
+        "title": "Как жена",
+        "trailer": "https://vk.com/video-36455846_456250065",
+        "year": "2022"
       }
     },
     "HIND": {
@@ -257,6 +287,21 @@
         "title": "Запретная территория",
         "trailer": "https://vk.com/video-222128468_456240603",
         "year": "2013"
+      },
+      "-NvHMYLuNYuhsG73adUV": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Золото снова появляется после исчезновения в течение нескольких месяцев. Его машина сломалась в отдаленном районе. В доме он встречает необычных людей. Проснувшись в своей машине, он задается вопросом, был ли это сон или реальность.",
+        "genre": "Драма Романтика ",
+        "imdb": "5.0",
+        "img": "https://i.imgur.com/7xidbQv.jpeg",
+        "link": "https://vk.com/video-127319332_456239531",
+        "push": "-NvHMYLuNYuhsG73adUV",
+        "state": "Филиппины",
+        "time": "12042024055340",
+        "title": "Олень",
+        "trailer": "https://vk.com/video-127319332_456239531",
+        "year": "2024"
       }
     },
     "QORQINCHLI": {
@@ -349,6 +394,21 @@
         "title": "Омут",
         "trailer": "https://ok.ru/video/4613979966054",
         "year": "2022"
+      },
+      "-NvHGxvKDhcAid78MBHB": {
+        "age": 18,
+        "child": "KINO",
+        "description": "После того, как город на Аляске на месяц погрузился во тьму, на него нападает кровожадная банда вампиров.",
+        "genre": "Боевик Триллер Ужастик ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/4EbVxE1.jpeg",
+        "link": "https://vk.com/video-34165614_456240906",
+        "push": "-NvHGxvKDhcAid78MBHB",
+        "state": "США Новая Зеландия ",
+        "time": "12042024052916",
+        "title": "30 Дней ночи",
+        "trailer": "https://vk.com/video-36455846_456242244",
+        "year": "2007"
       }
     }
   },
@@ -472,6 +532,22 @@
     "-NvD4JQrls2IOj_kKkpR": {
       "id": "-NvD4JQN8U9KHO5yMSX2",
       "img": "https://i.imgur.com/YKzPdzn.jpeg"
+    },
+    "-NvHGxvwkPnnHYMbnCgr": {
+      "id": "-NvHGxvKDhcAid78MBHB",
+      "img": "https://i.imgur.com/4EbVxE1.jpeg"
+    },
+    "-NvHLAfM37Lcc-635NAW": {
+      "id": "-NvHLAearEJTUCSLvbtZ",
+      "img": "https://i.imgur.com/EJ3Y2eL.jpeg"
+    },
+    "-NvHMYMNh0ticL8Jgana": {
+      "id": "-NvHMYLuNYuhsG73adUV",
+      "img": "https://i.imgur.com/7xidbQv.jpeg"
+    },
+    "-NvHP5yqGa__SsGJtTe8": {
+      "id": "-NvHP5y8xQuxbLdi59HZ",
+      "img": "https://i.imgur.com/nyqiywy.jpeg"
     }
   },
   "NOTIFICATION": {
