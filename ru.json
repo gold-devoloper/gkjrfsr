@@ -548,6 +548,10 @@
     "-NvHP5yqGa__SsGJtTe8": {
       "id": "-NvHP5y8xQuxbLdi59HZ",
       "img": "https://i.imgur.com/nyqiywy.jpeg"
+    },
+    "-NvMyqRocnbUa3HInAur": {
+      "id": "-NvMyqRLKqRV1qni04EK",
+      "img": "https://i.imgur.com/IflVNL9.jpeg"
     }
   },
   "NOTIFICATION": {
@@ -705,6 +709,21 @@
       "title": "Сверхъестественное",
       "trailer": "https://ok.ru/video/12427660015",
       "year": "2005"
+    },
+    "-NvMyqRLKqRV1qni04EK": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Однажды главному герою Чжан Чуланю сообщают, что кто-то похитил тело его дедушки из могилы. Отправляясь на кладбище, где произошло это странное событие, юноша сталкивается с новыми происшествиями: выясняет, что у него есть сестра, а еще узнает, что зомби существуют и он, оказывается, умеет с ними сражаться…\n\nС того момента жизнь Чуланя кардинально меняется, ведь теперь на каждом шагу его поджидает мир сверхъестественного!",
+      "genre": "Боевик Приключение Драма ",
+      "id": "IAMNOBODY",
+      "imdb": "7.6",
+      "img": "https://i.imgur.com/IflVNL9.jpeg",
+      "push": "-NvMyqRLKqRV1qni04EK",
+      "state": "Китай ",
+      "time": "13042024080328",
+      "title": "Под властью нелюдей",
+      "trailer": "https://ok.ru/video/6703439284799",
+      "year": "2023"
     }
   },
   "SERIALKOREA": {
@@ -1114,6 +1133,197 @@
         "link": "https://vk.com/video-224905498_456239389",
         "part": 15,
         "title": "Хало"
+      }
+    },
+    "IAMNOBODY": {
+      "-NvMz17e_xdc4nwguYO7": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242403",
+        "part": 1,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMz44XjQQtHK6khTYG": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242424",
+        "part": 2,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMz6ohBzwHTeb-J9RX": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242462",
+        "part": 3,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzAzpPqhXZh4rpTYZ": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242489",
+        "part": 4,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzEO-v7muqsogxp38": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242521",
+        "part": 5,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzHSx-wIRAwprPi3n": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242529",
+        "part": 6,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzKMJ_01TmmM08AJD": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242555",
+        "part": 7,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzMzTo22uU85adJpU": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242556",
+        "part": 8,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzPeBodCVcDSv-ouc": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242621",
+        "part": 9,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzSLcLVeUh1SGsNbA": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242634",
+        "part": 10,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzUrJg80TUujBgnHn": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242722",
+        "part": 11,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzXQv04bKw7oRAeR5": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242733",
+        "part": 12,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMz_1rjv3vlkzee1g8": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242763",
+        "part": 13,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzbXmZOITbPaIXBLz": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242830",
+        "part": 14,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzeK4SQc672i9cXAj": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242893",
+        "part": 15,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzgosbzPsL9fan0sq": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456242878",
+        "part": 16,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzlVhtAk26PNjmVhW": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243029",
+        "part": 17,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzo4bRjETwu8XYB_3": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243030",
+        "part": 18,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzqaukg_b8rQBSL0M": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243086",
+        "part": 19,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMztWRURkr4wb3RrIq": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243214",
+        "part": 20,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzwSaVJIBSKS41BlR": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243258",
+        "part": 21,
+        "title": "Под властью нелюдей"
+      },
+      "-NvMzyvMPGRHZ_oyPQWR": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243399",
+        "part": 22,
+        "title": "Под властью нелюдей"
+      },
+      "-NvN-0PVOsJMB7VcGHoY": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243406",
+        "part": 23,
+        "title": "Под властью нелюдей"
+      },
+      "-NvN-2oNBqPGwYa_QS0P": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243457",
+        "part": 24,
+        "title": "Под властью нелюдей"
+      },
+      "-NvN-5J0YJPfiY-uOHDC": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243505",
+        "part": 25,
+        "title": "Под властью нелюдей"
+      },
+      "-NvN-83tgWgTdN1d7RBv": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243616",
+        "part": 26,
+        "title": "Под властью нелюдей"
+      },
+      "-NvN-AfqJry9rXHWBCaO": {
+        "id": "IAMNOBODY",
+        "img": "https://i.imgur.com/IflVNL9.jpeg",
+        "link": "https://vk.com/video-51712074_456243645",
+        "part": 27,
+        "title": "Под властью нелюдей"
       }
     },
     "NATSIYAZ": {
