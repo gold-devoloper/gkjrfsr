@@ -1929,6 +1929,21 @@
         "title": "Qonli uy",
         "trailer": "https://ok.ru/video/6770257693278",
         "year": "2019"
+      },
+      "-NvMCj1eipHtK3LvcbwN": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Qisqa muddatli xotirani yo'qotgan bemor o'z sevgilisining o'limi uchun qasos olish uchun qotillik bilan shug'ullanadi.",
+        "genre": "Jangari Drama ",
+        "imdb": "7.3",
+        "img": "https://i.imgur.com/6Wwnvy3.jpeg",
+        "link": "https://ok.ru/video/6775149365854",
+        "push": "-NvMCj1eipHtK3LvcbwN",
+        "state": "Kanada Hindiston ",
+        "time": "13042024042853",
+        "title": "Qasos / Gajini",
+        "trailer": "https://ok.ru/video/242910431874",
+        "year": "2007"
       }
     },
     "JANGARI": {
@@ -3131,6 +3146,21 @@
         "title": "Josus qo'shnilar",
         "trailer": "https://ok.ru/video/14434111796",
         "year": "2016"
+      },
+      "-NvMA5ikiQQxAH-m0Q6l": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Film Xan sulolasining hukmronligi davrida qadimiy Xitoyda bo'lib o'tadi. Rim qo'mondoni Lusiya o'z askarlari lejyoni bilan Xitoy hududida. Shu bilan birga, G'arbiy hududni himoya qilish bo'limi qo'mondoni, Xo An, dushmanlarining harakati natijasida qulga aylanadi. Bu ikki askar g'arbdagi cho'lda, epik jang boshlanib ketadigan joyda uchrashishga loyiq edi. Biroq, ular bir-biriga qarshi kurashishlari mumkin emas, balki Xitoyning suvereniteti uchun ochko'z imperator Tiberiusga qarshi",
+        "genre": "Jangari Drama Fantastika ",
+        "imdb": "5.9",
+        "img": "https://i.imgur.com/ePKo5Af.jpeg",
+        "link": "https://ok.ru/video/6779717225054",
+        "push": "-NvMA5ikiQQxAH-m0Q6l",
+        "state": "Xitoy Gonkong ",
+        "time": "13042024041723",
+        "title": "Ajdar qilichi",
+        "trailer": "https://ok.ru/video/1024847448816",
+        "year": "2015"
       }
     },
     "KOMEDIYA": {
@@ -4292,6 +4322,21 @@
         "title": "Zilzila",
         "trailer": "https://ok.ru/video/6761093728862",
         "year": "2010"
+      },
+      "-NvMBOyyVRvJ6JFpjjWC": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Salina shahzodasi, benuqson halollikdagi olijanob aristokrat, 1860-yillardagi Sitsiliyadagi notinch ijtimoiy qo'zg'olonlar sharoitida o'z oilasi va sinfini saqlab qolishga harakat qiladi.",
+        "genre": "Drama Tarixiy ",
+        "imdb": "7.9",
+        "img": "https://i.imgur.com/l5n7qj8.jpeg",
+        "link": "https://ok.ru/video/6777697274462",
+        "push": "-NvMBOyyVRvJ6JFpjjWC",
+        "state": "Fransiya ",
+        "time": "13042024042304",
+        "title": "Leopard",
+        "trailer": "https://ok.ru/video/7255255812637",
+        "year": "1963"
       }
     },
     "QORQINCHLI": {
@@ -5045,6 +5090,18 @@
     "-NvHwDLubf3Qdeqkj-Ji": {
       "id": "-NvHwDKvDVUWR_oTsawB",
       "img": "https://i.imgur.com/hJvFN3b.jpeg"
+    },
+    "-NvMA5jJiw1c-m-ky1W6": {
+      "id": "-NvMA5ikiQQxAH-m0Q6l",
+      "img": "https://i.imgur.com/ePKo5Af.jpeg"
+    },
+    "-NvMBOzP9l5JG1EVrzQO": {
+      "id": "-NvMBOyyVRvJ6JFpjjWC",
+      "img": "https://i.imgur.com/l5n7qj8.jpeg"
+    },
+    "-NvMCj26ZBaK_ZXXudQw": {
+      "id": "-NvMCj1eipHtK3LvcbwN",
+      "img": "https://i.imgur.com/6Wwnvy3.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -5996,6 +6053,12 @@
       "img": "soon",
       "time": "10042024063024",
       "title": "🌙 Ramazon Hayit ayyomingiz muborak bo’lsin! \n\nBarchangizga eng ulug' kunlardan biri \"Ramazon Hayit bayrami\" muborak bo'lsin."
+    },
+    "-NvLZVK8OUvgRj3UNIyE": {
+      "desc": "Film ko'rsatmasa, qayta yukalnsa ko'rish uchun Qidiruvga usha film nomini yozing. Tomoshani davom ettirish oldingi eski tafsilotlarni saqlab qoladi va film ko'rsatmasligi mumkin. Qidiruvga 2ta harf yozing chiqib keladi. Yangi Filmlar joylangandan keyin 5 daqiqada ilovada paydo bo'ladi xabar usha film joylanish paytida keladi.",
+      "img": "soon",
+      "time": "13042024012844",
+      "title": "Film ko'rsatmasa, qayta yukalnsa ko'rish uchun Qidiruvga usha film nomini yozing. Tomoshani davom ettirish oldingi eski tafsilotlarni saqlab qoladi va film ko'rsatmasligi mumkin. Qidiruvga 2ta harf yozing chiqib keladi. Yangi Filmlar joylangandan keyin 5 daqiqada ilovada paydo bo'ladi xabar usha film joylanish paytida keladi."
     }
   },
   "SERIAL": {
