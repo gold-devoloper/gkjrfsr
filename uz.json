@@ -3161,6 +3161,21 @@
         "title": "Ajdar qilichi",
         "trailer": "https://ok.ru/video/1024847448816",
         "year": "2015"
+      },
+      "-NvT5mjrPUaKpqkVZfl3": {
+        "age": 16,
+        "child": "KINO",
+        "description": "AQSh qurol ishlab chiqaruvchisi o'zining 4 ta qotil robotini SEA Osiyodagi Oltin uchburchakda geroin ishlab chiqaruvchilarda sinovdan o'tkazmoqda. O'z-o'zidan ketmoqda.",
+        "genre": "Jangari Triller Ilmiy-fantastik ",
+        "imdb": "5.4",
+        "img": "https://i.imgur.com/295J7AU.jpeg",
+        "link": "https://ok.ru/video/6784953420382",
+        "push": "-NvT5mjrPUaKpqkVZfl3",
+        "state": "AQSH ",
+        "time": "15042024123553",
+        "title": "Odam yaratgan maxluqlar",
+        "trailer": "https://ok.ru/video/6784953420382",
+        "year": "2020"
       }
     },
     "KOMEDIYA": {
@@ -3900,6 +3915,21 @@
         "title": "Shermurodni izlab",
         "trailer": "https://ok.ru/video/6747278871134",
         "year": "2006"
+      },
+      "-NvT7M6c70FWlrI4eL7h": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Ularning kemasi vayron bo'lgach, Villi ota-onasidan ajralib qoladi. U yovvoyi va o'rganilmagan sayyoraga qo'nadi va omon qolish roboti Bakning yordami bilan u oxirigacha ushlab turishiga to'g'ri keladi ...",
+        "genre": "Sarguzashtlar Komediya Animatsiya ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/krLsDif.jpeg",
+        "link": "https://ok.ru/video/6784953551454",
+        "push": "-NvT7M6c70FWlrI4eL7h",
+        "state": "Fransiya ",
+        "time": "15042024124245",
+        "title": "O'zga sayyoralik maugli",
+        "trailer": "https://ok.ru/video/7413346470486",
+        "year": "2019"
       }
     },
     "OTHER": {
@@ -5102,6 +5132,14 @@
     "-NvMCj26ZBaK_ZXXudQw": {
       "id": "-NvMCj1eipHtK3LvcbwN",
       "img": "https://i.imgur.com/6Wwnvy3.jpeg"
+    },
+    "-NvT5mkbbMambGfwOA9T": {
+      "id": "-NvT5mjrPUaKpqkVZfl3",
+      "img": "https://i.imgur.com/295J7AU.jpeg"
+    },
+    "-NvT7M7ILbeXBUAyeJhY": {
+      "id": "-NvT7M6c70FWlrI4eL7h",
+      "img": "https://i.imgur.com/krLsDif.jpeg"
     }
   },
   "MULTISERIAL": {
