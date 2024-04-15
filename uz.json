@@ -34,6 +34,16 @@
       "id": "OTHER",
       "img": "https://i.imgur.com/DQtYnf5.jpg",
       "title": "Xar-xil"
+    },
+    "-NvWqUhqKwjqFlHwToEH": {
+      "id": "ANIME",
+      "img": "https://i.imgur.com/zGYP17o.jpeg",
+      "title": "Anime"
+    },
+    "-NvWrWcxeJ71bUm0L-ir": {
+      "id": "KONSERT",
+      "img": "https://i.imgur.com/WY2JVlm.jpeg",
+      "title": "Konsertlar"
     }
   },
   "CATEGORYX": {
@@ -3191,6 +3201,21 @@
         "title": "Odam yaratgan maxluqlar",
         "trailer": "https://ok.ru/video/6784953420382",
         "year": "2020"
+      },
+      "-NvXd4GySaIFrmGdyKiF": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Sobiq UFC jangchisi Dalton Florida Keysdagi yo'l uyida boshlovchi bo'lib ishga kirdi, faqat bu jannat hamma narsa emasligini bilib oldi.",
+        "genre": "Jangari Triller ",
+        "imdb": "6.2",
+        "img": "https://i.imgur.com/oCkmBk8.jpeg",
+        "link": "https://vk.com/video-186124728_456248906",
+        "push": "-NvXd4GySaIFrmGdyKiF",
+        "state": "AQSH ",
+        "time": "15042024094411",
+        "title": "Yo'ldagi uy",
+        "trailer": "https://vk.com/video-134204425_456239510",
+        "year": "2024"
       }
     },
     "KOMEDIYA": {
@@ -5159,6 +5184,10 @@
     "-NvW-IUaqWFB3LpSE6XH": {
       "id": "-NvW-ITvyUTLBk8RsAqJ",
       "img": "https://i.imgur.com/TlDW7YE.jpeg"
+    },
+    "-NvXd4HRyLX6rBalu15P": {
+      "id": "-NvXd4GySaIFrmGdyKiF",
+      "img": "https://i.imgur.com/oCkmBk8.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -6116,6 +6145,12 @@
       "img": "soon",
       "time": "13042024012844",
       "title": "Film ko'rsatmasa, qayta yukalnsa ko'rish uchun Qidiruvga usha film nomini yozing. Tomoshani davom ettirish oldingi eski tafsilotlarni saqlab qoladi va film ko'rsatmasligi mumkin. Qidiruvga 2ta harf yozing chiqib keladi. Yangi Filmlar joylangandan keyin 5 daqiqada ilovada paydo bo'ladi xabar usha film joylanish paytida keladi."
+    },
+    "-NvX_wAaITXq6yNSGElq": {
+      "desc": "6 kun oldin play marketga yangilash yuborilgan hali yetib bormadi. ilovaga ancha narsalar qo'shilyapti keyingi yangilanishlard Animelar ham ko'rina boshlaydi ingliz hind turk bazalarga ham kino yuboriladi. Ai yordamida Film dublyaj qilinyapti hozircha bu test yaxshi chiqsa tasavvur qilmagan filmlaringizni bepulga ko'rasiz.  Yangiliklar shulardan iborat edi. sizlar bilan Palonchi pistonchiyev bo'ldi.",
+      "img": "soon",
+      "time": "15042024093027",
+      "title": "6 kun oldin play marketga yangilash yuborilgan hali yetib bormadi. ilovaga ancha narsalar qo'shilyapti keyingi yangilanishlard Animelar ham ko'rina boshlaydi ingliz hind turk bazalarga ham kino yuboriladi. Ai yordamida Film dublyaj qilinyapti hozircha bu test yaxshi chiqsa tasavvur qilmagan filmlaringizni bepulga ko'rasiz.  Yangiliklar shulardan iborat edi. sizlar bilan Palonchi pistonchiyev bo'ldi."
     }
   },
   "SERIAL": {
