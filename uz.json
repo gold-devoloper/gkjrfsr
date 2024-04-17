@@ -3134,7 +3134,7 @@
         "genre": "Jangari Triller ",
         "imdb": "6.4",
         "img": "https://i.imgur.com/ly5IfBZ.jpeg",
-        "link": "https://vk.com/video-225182992_456239139",
+        "link": "https://vk.com/video-225182992_456239154",
         "push": "-NvHAdH58JpbY6ad2kCW",
         "state": "AQSH Buyuk Britaniya ",
         "time": "12042024050139",
@@ -4407,6 +4407,21 @@
         "title": "Leopard",
         "trailer": "https://ok.ru/video/7255255812637",
         "year": "1963"
+      },
+      "-NvhS41Q4ZliHcc5Reqb": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Kongress yordamchisi o'ldirilganda, Vashingtondagi jurnalist uning sobiq kollejdagi do'sti vakil bilan bog'liq ishni tergov qilishni boshlaydi.",
+        "genre": "Kriminal Drama ",
+        "imdb": "7.1",
+        "img": "https://i.imgur.com/fgmZuVT.jpeg",
+        "link": "https://ok.ru/video/6792200915550",
+        "push": "-NvhS41Q4ZliHcc5Reqb",
+        "state": "AQSH Buyuk Britaniya Fransiya ",
+        "time": "18042024120740",
+        "title": "Katta o'yin",
+        "trailer": "https://ok.ru/video/6792200915550",
+        "year": "2009"
       }
     },
     "QORQINCHLI": {
@@ -5188,6 +5203,10 @@
     "-NvXd4HRyLX6rBalu15P": {
       "id": "-NvXd4GySaIFrmGdyKiF",
       "img": "https://i.imgur.com/oCkmBk8.jpeg"
+    },
+    "-NvhS42MO1myxBt8Cmfc": {
+      "id": "-NvhS41Q4ZliHcc5Reqb",
+      "img": "https://i.imgur.com/fgmZuVT.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -6157,6 +6176,18 @@
       "img": "soon",
       "time": "16042024100542",
       "title": "Hammaga yangilanish yetib bordi yuklab olish oson bo'ldi. endigi yangilanish  da Animelar fa boshqa bazadagi kamchiliklar tuzatiladi oxirgi yuborilgan filmlar katalogi ochiladi yangi qo'shilgan filmlar 1kun davomida new pechati bilan turadi. tez kunlarda  bitadi."
+    },
+    "-NvhAwo2UdagQSjeMjnJ": {
+      "desc": "Yangisidan kutganlar bormi uxlashga shoshilmang endi boradi yangilaridan tayyorlab qo'ydik.",
+      "img": "soon",
+      "time": "17042024105250",
+      "title": "Yangisidan kutganlar bormi uxlashga shoshilmang endi boradi yangilaridan tayyorlab qo'ydik."
+    },
+    "-NvhLwt9yfxrALr3-5xY": {
+      "desc": "Anime katalogi ochilgan lekin hali joylanmagan ilovadagi nosozliklar tuzatilmoqda va bir qancha yangi narsalar qo'shilyapti yana bir yangilanishdan keyin Animelar ham ishlashni boshlaydi talablarga binoan qo'shilmoqda ",
+      "img": "soon",
+      "time": "17042024114054",
+      "title": "Anime katalogi ochilgan lekin hali joylanmagan ilovadagi nosozliklar tuzatilmoqda va bir qancha yangi narsalar qo'shilyapti yana bir yangilanishdan keyin Animelar ham ishlashni boshlaydi talablarga binoan qo'shilmoqda "
     }
   },
   "SERIAL": {
