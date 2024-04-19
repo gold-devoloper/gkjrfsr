@@ -5245,6 +5245,10 @@
     "-NvlwEzpQ41voyqtGkni": {
       "id": "-NvlwEzIzKDhIsArxOTr",
       "img": "https://i.imgur.com/5NfQ2LE.jpeg"
+    },
+    "-NvrlvMxrWNkbiIxsxTK": {
+      "id": "-NvrlvMI-Q6e_kDk0cGR",
+      "img": "https://i.imgur.com/Y01dmlB.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -6226,6 +6230,18 @@
       "img": "soon",
       "time": "17042024114054",
       "title": "Anime katalogi ochilgan lekin hali joylanmagan ilovadagi nosozliklar tuzatilmoqda va bir qancha yangi narsalar qo'shilyapti yana bir yangilanishdan keyin Animelar ham ishlashni boshlaydi talablarga binoan qo'shilmoqda "
+    },
+    "-NvmIINivIg2_XXQIAXs": {
+      "desc": "Kinolar kam joylanyaptimi. Buni sababi bor ilovani takomilashtiryapmiz Ai bilan ishlayapmiz kamchiliklarni tuzatyapmiz yangi funksiyalar qo'shyapmiz. ChatGPT bizga filmlarni dublyaj qilib beradigan qilishi uchun harakatdamiz dublyajorlarga ish qomedi 😂 Loyha uzoq vaqt oladi lekin juda katta ish bajaradi",
+      "img": "soon",
+      "time": "18042024104302",
+      "title": "Kinolar kam joylanyaptimi. Buni sababi bor ilovani takomilashtiryapmiz Ai bilan ishlayapmiz kamchiliklarni tuzatyapmiz yangi funksiyalar qo'shyapmiz. ChatGPT bizga filmlarni dublyaj qilib beradigan qilishi uchun harakatdamiz dublyajorlarga ish qomedi 😂 Loyha uzoq vaqt oladi lekin juda katta ish bajaradi"
+    },
+    "-NvqyU6ztTgZj-ZImbL6": {
+      "desc": "Ilovadagi ishlar tugadi xatoliklar tuzatildi bir nechta funksiyalar qo'shildi Endi faqat kino serial Anime joylimiz. Yangilash tez kunda yetib boradi.",
+      "img": "soon",
+      "time": "19042024083022",
+      "title": "Ilovadagi ishlar tugadi xatoliklar tuzatildi bir nechta funksiyalar qo'shildi Endi faqat kino serial Anime joylimiz. Yangilash tez kunda yetib boradi."
     }
   },
   "SERIAL": {
@@ -21053,6 +21069,21 @@
       "title": "Vido Maktubi",
       "trailer": "https://ok.ru/video/6353614801471",
       "year": "2023"
+    },
+    "-NvrlvMI-Q6e_kDk0cGR": {
+      "age": 16,
+      "child": "SERIALTURKIYAX",
+      "description": "Jasur otasining o'limi uchun qasos olish rejasi bilan otasining qishlog'iga qaytadi. U rejalashtirmagan yagona narsa - bu javob beradigan odamning qizi Suxan ... ",
+      "genre": "Drama Romantika Kriminal ",
+      "id": "JASURVAGOZAL",
+      "imdb": "7.7",
+      "img": "https://i.imgur.com/Y01dmlB.jpeg",
+      "push": "-NvrlvMI-Q6e_kDk0cGR",
+      "state": "Turkiya ",
+      "time": "20042024121456",
+      "title": "Jasur va  Go'zal",
+      "trailer": "https://vk.com/video-186124728_456248909",
+      "year": "2016"
     }
   },
   "SERIALTURKIYAX": {
@@ -26980,6 +27011,71 @@
         "link": "https://files.uzmovi.club/film8/ishqtar/Ishqning%20tarifi%2039-qism.mp4",
         "part": 39,
         "title": "Ishqning tarifi"
+      }
+    },
+    "JASURVAGOZAL": {
+      "-NvrlzoeuzbvHYtKqgv1": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248909",
+        "part": 1,
+        "title": "Jasur va  Go'zal"
+      },
+      "-Nvrm4Cl-uut7qsbPQlE": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248910",
+        "part": 2,
+        "title": "Jasur va  Go'zal"
+      },
+      "-Nvrm8Mtl2pMAlLvI9M1": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248911",
+        "part": 3,
+        "title": "Jasur va  Go'zal"
+      },
+      "-NvrmC32iyBMj4VWC8QJ": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248912",
+        "part": 4,
+        "title": "Jasur va  Go'zal"
+      },
+      "-NvrmG1svUEzdnyTtZWO": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248913",
+        "part": 5,
+        "title": "Jasur va  Go'zal"
+      },
+      "-NvrmKoHiws0AaIW6EJg": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248914",
+        "part": 6,
+        "title": "Jasur va  Go'zal"
+      },
+      "-NvrmOGG7T2xfb9ftAD6": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248915",
+        "part": 7,
+        "title": "Jasur va  Go'zal"
+      },
+      "-NvrmT0Ap8J4APIhVyPK": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248916",
+        "part": 8,
+        "title": "Jasur va  Go'zal"
+      },
+      "-NvrmWXCfeUd2bXJIEM6": {
+        "id": "JASURVAGOZAL",
+        "img": "https://i.imgur.com/Y01dmlB.jpeg",
+        "link": "https://vk.com/video-186124728_456248917",
+        "part": 9,
+        "title": "Jasur va  Go'zal"
       }
     },
     "MAHKUMTR": {
