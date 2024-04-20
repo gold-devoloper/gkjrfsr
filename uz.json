@@ -3306,6 +3306,21 @@
         "title": "Ruscha reyd",
         "trailer": "https://ok.ru/video/2077719923397",
         "year": "2020"
+      },
+      "-Nvw0DqlEXkaBHGW7rEF": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Kelajakda qutb muzliklari erib ketgan va Yer deyarli butunlay suv ostida qolgan, mutatsiyaga uchragan dengizchi ochlik bilan kurashadi va \"chekuvchilar\" ga qarshi kurashadi va bir ayolga va yosh yigitga istaksiz yordam beradi ... ",
+        "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/9iq3SlV.jpeg",
+        "link": "https://ok.ru/video/89614715591",
+        "push": "-Nvw0DqlEXkaBHGW7rEF",
+        "state": "AQSH ",
+        "time": "20042024080017",
+        "title": "Suv dunyosi",
+        "trailer": "https://ok.ru/video/89614715591",
+        "year": "1995"
       }
     },
     "KOMEDIYA": {
@@ -4527,6 +4542,21 @@
         "title": "Bir ko'rishdagi muhabbat",
         "trailer": "https://ok.ru/video/7150482885163",
         "year": "2023"
+      },
+      "-NvvxnLneFPOSlioPu4O": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Ikki farzandli oila oila boshlig'ining tug'ilgan qishlog'iga dam olish uchun keladi. Kechki ovqatdan so'ng, bolalar uxlab yotganda, kattalar yolg'iz qolganda, xotin eriga homiladorligini va bola uniki emasligini aytadi.",
+        "genre": "Drama Romantika ",
+        "imdb": "7.5",
+        "img": "https://i.imgur.com/Vnh1cdS.jpeg",
+        "link": "https://ok.ru/video/6800010644062",
+        "push": "-NvvxnLneFPOSlioPu4O",
+        "state": "Rossiya ",
+        "time": "20042024074518",
+        "title": "Surgun",
+        "trailer": "https://ok.ru/video/4061377726987",
+        "year": "2007"
       }
     },
     "QORQINCHLI": {
@@ -5344,6 +5374,14 @@
     "-Nvvi4ptckSmfB0X6Qjw": {
       "id": "-Nvvi4pQQ0Qo5oRC0Zbw",
       "img": "https://i.imgur.com/m3KtWuk.jpeg"
+    },
+    "-NvvxnMSXyOownDw3Mwm": {
+      "id": "-NvvxnLneFPOSlioPu4O",
+      "img": "https://i.imgur.com/Vnh1cdS.jpeg"
+    },
+    "-Nvw0DrCcxvI63fIDXZ7": {
+      "id": "-Nvw0DqlEXkaBHGW7rEF",
+      "img": "https://i.imgur.com/9iq3SlV.jpeg"
     }
   },
   "MULTISERIAL": {
