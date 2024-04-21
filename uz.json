@@ -47,6 +47,23 @@
     }
   },
   "CATEGORYX": {
+    "ANIME": {
+      "-Nw00UCiv8uvHYOHG2oH": {
+        "age": 13,
+        "child": "KINO",
+        "description": "Mitsuha Miyamizu oddiy qiz, viloyatlardagi hayotdan charchagan. Uning otasi, shahar meri, saylov kampaniyasini olib bormoqda va oilaviy sinto ziyoratgohida u qadimiy marosimlarni omma oldida bajarishi kerak. Va u tor viloyat dunyosidan katta shaharga ko'chib o'tishni orzu qiladi. Taki Tachibana me'morchilikni yaxshi ko'radigan o'rta maktab o'quvchisi bo'lib, Tokiodagi hayotini ta'minlash uchun yarim kunlik ishlashga majbur. Katta shaharning sur'atidan charchagan Tachibana tog'larda qayerdadir betashvish hayotni orzu qiladi. Bir kuni qahramonlar ular o'rtasida g'alati va tushunarsiz bog'liqlik borligini bilib olishadi. Tushlarida ular tanalarini o'zgartiradilar va bir-birlarining hayotini o'tkazadilar. Ammo bir kun kelib, bu qobiliyat qanday paydo bo'lsa, xuddi to'satdan yo'qoladi. Taki har qanday holatda ham Mitsuhani topishga qaror qiladi , lekin ular haqiqiy hayotda bir-birlarini taniy oladilarmi?",
+        "genre": "Drama Animatsiya Fantastika ",
+        "imdb": "8.4",
+        "img": "https://i.imgur.com/HG3FyTW.jpeg",
+        "link": "https://ok.ru/video/903103908391",
+        "push": "-Nw00UCiv8uvHYOHG2oH",
+        "state": "Yaponiya",
+        "time": "21042024071930",
+        "title": "Seni isming",
+        "trailer": "https://vk.com/video-79914935_456239632",
+        "year": "2016"
+      }
+    },
     "FANTASTIK": {
       "-NcmOVYtZ9M3l_D9GwsS": {
         "age": 12,
@@ -2059,6 +2076,21 @@
         "title": "Sarbjit",
         "trailer": "https://ok.ru/video/87047015042",
         "year": "2016"
+      },
+      "-Nw-fVWcLzZOUm10ElNW": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ikki vahshiyona bir-biridan farq qiladigan ayol bilan bo'lgan munosabatlari orqali, hayotdan ko'ra kattaroq shaxsga ega bo'lgan bakalavr o'z maqsadini aniqlashi kerak.",
+        "genre": "Komediya Drama Romantika ",
+        "imdb": "5.2",
+        "img": "https://i.imgur.com/dpzZ8GX.jpeg",
+        "link": "https://ok.ru/video/1633930447444",
+        "push": "-Nw-fVWcLzZOUm10ElNW",
+        "state": "Hindiston ",
+        "time": "21042024054328",
+        "title": "Pakana oshiq",
+        "trailer": "https://vk.com/video-146282671_456239321",
+        "year": "2018"
       }
     },
     "JANGARI": {
@@ -5477,6 +5509,14 @@
     "-Nw-LBFeXAyCnfAaeBGf": {
       "id": "-Nw-LBFBH-qynh-y3x_g",
       "img": "https://i.imgur.com/W6NVhzY.jpeg"
+    },
+    "-Nw-fVX-NNU_shxJLFJX": {
+      "id": "-Nw-fVWcLzZOUm10ElNW",
+      "img": "https://i.imgur.com/dpzZ8GX.jpeg"
+    },
+    "-Nw00UD_pEnILZwPAQVB": {
+      "id": "-Nw00UCiv8uvHYOHG2oH",
+      "img": "https://i.imgur.com/HG3FyTW.jpeg"
     }
   },
   "MULTISERIAL": {
