@@ -409,6 +409,21 @@
         "title": "30 Дней ночи",
         "trailer": "https://vk.com/video-36455846_456242244",
         "year": "2007"
+      },
+      "-Nvzt60DHkXjZEQ_9hRm": {
+        "age": 18,
+        "child": "KINO",
+        "description": "В центре истории фильма «Кроваво-красное небо» находится Надя, занимающаяся воспитанием своего десятилетнего сына. В ближайшее время они собираются вылететь из Германии в Нью-Йорк, но доступны только ночные рейсы. Не видя в этом ничего страшного и планируя отоспаться после бессонной ночи позже, Надя и её ребёнок решают приобрести билеты на ближайший вылет.",
+        "genre": "Боевик Драма Ужастик ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/OyYVRxn.jpeg",
+        "link": "https://vk.com/video-94705031_456242356",
+        "push": "-Nvzt60DHkXjZEQ_9hRm",
+        "state": "США Германия ",
+        "time": "21042024020317",
+        "title": "кроваво-красное небо",
+        "trailer": "https://vk.com/video-83474103_456245245",
+        "year": "2021"
       }
     }
   },
@@ -552,6 +567,10 @@
     "-NvMyqRocnbUa3HInAur": {
       "id": "-NvMyqRLKqRV1qni04EK",
       "img": "https://i.imgur.com/IflVNL9.jpeg"
+    },
+    "-Nvzt60pBsrYuFl_f4Xd": {
+      "id": "-Nvzt60DHkXjZEQ_9hRm",
+      "img": "https://i.imgur.com/OyYVRxn.jpeg"
     }
   },
   "NOTIFICATION": {
