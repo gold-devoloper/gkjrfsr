@@ -3398,6 +3398,21 @@
         "title": "Suv dunyosi",
         "trailer": "https://ok.ru/video/89614715591",
         "year": "1995"
+      },
+      "-Nw0q3wk10jCLySmxcEL": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ansi qal'asini qamal qilish va Yang Man-chun va uning Goguryeo qo'shinlari himoya qilish uchun Tang sulolasining 500 000 bosqinchilariga qarshi kurashgan sakson sakkiz kunlik epik jang haqida tarixiy film ...",
+        "genre": "Jangari Drama Tarixiy ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/D8arvm2.jpeg",
+        "link": "https://vk.com/video-186124728_456249023",
+        "push": "-Nw0q3wk10jCLySmxcEL",
+        "state": "Janubiy Koreya ",
+        "time": "21042024110916",
+        "title": "Ansi qalasi",
+        "trailer": "https://vk.com/video-47480397_456240815",
+        "year": "2018"
       }
     },
     "KOMEDIYA": {
@@ -5517,6 +5532,10 @@
     "-Nw00UD_pEnILZwPAQVB": {
       "id": "-Nw00UCiv8uvHYOHG2oH",
       "img": "https://i.imgur.com/HG3FyTW.jpeg"
+    },
+    "-Nw0q3xB1jxwVGSOiZYn": {
+      "id": "-Nw0q3wk10jCLySmxcEL",
+      "img": "https://i.imgur.com/D8arvm2.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -6510,6 +6529,12 @@
       "img": "soon",
       "time": "19042024083022",
       "title": "Ilovadagi ishlar tugadi xatoliklar tuzatildi bir nechta funksiyalar qo'shildi Endi faqat kino serial Anime joylimiz. Yangilash tez kunda yetib boradi."
+    },
+    "-Nw01Bbr9ap2fCXijDxF": {
+      "desc": "Ilovaga 1-Anime joylandi 7kundan so'ng Anime seriallar ham paydo bo'ladi yangilashdan so'ng.",
+      "img": "soon",
+      "time": "21042024072236",
+      "title": "Ilovaga 1-Anime joylandi 7kundan so'ng Anime seriallar ham paydo bo'ladi yangilashdan so'ng."
     }
   },
   "SERIAL": {
