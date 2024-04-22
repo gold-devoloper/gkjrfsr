@@ -5536,6 +5536,14 @@
     "-Nw0q3xB1jxwVGSOiZYn": {
       "id": "-Nw0q3wk10jCLySmxcEL",
       "img": "https://i.imgur.com/D8arvm2.jpeg"
+    },
+    "-Nw3DU_6R7iL1kfaAHTF": {
+      "id": "-Nw3DUZQwRWuNe7rXwyx",
+      "img": "https://i.imgur.com/hB23IqT.jpeg"
+    },
+    "-Nw3HXdSXFs0suzRbIDR": {
+      "id": "-Nw3HXd1HV2VYeqm7PnF",
+      "img": "https://i.imgur.com/hB23IqT.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -5628,6 +5636,21 @@
       "title": "Agarda",
       "trailer": "https://ok.ru/video/3134655302189",
       "year": "2021"
+    },
+    "-Nw3HXd1HV2VYeqm7PnF": {
+      "age": 12,
+      "child": "MULTISERIALX",
+      "description": "Jangchi Ajdarho  jsngchisi Po va uning do'stlarining keyingi sarguzashtlari.",
+      "genre": "Animatsiya Sarguzashtlar Jangari ",
+      "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+      "imdb": "7.0",
+      "img": "https://i.imgur.com/hB23IqT.jpeg",
+      "push": "-Nw3HXd1HV2VYeqm7PnF",
+      "state": "AQSH Meksika ",
+      "time": "22042024103252",
+      "title": "Kung Fu Panda: Ajoyib afsonalar",
+      "trailer": "https://ok.ru/video/354377797161",
+      "year": "2011"
     }
   },
   "MULTISERIALX": {
@@ -6174,6 +6197,57 @@
         "link": "https://ok.ru/video/6071991667263",
         "part": 18,
         "title": "Kung fu Panda: Taqdir panjalari"
+      }
+    },
+    "KUNGFUPANDAAJOYIBAFSONALAR": {
+      "-Nw3KlkXjhA9eE8gZ4dI": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239149",
+        "part": 1,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw3Kp1APRTjLKEaEae6": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239151",
+        "part": 2,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw3KvUau4p1YgLyWyxE": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239162",
+        "part": 3,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw3L30l5U6e0M_dNChv": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239171",
+        "part": 4,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw3L6bdaQzi9RDeFAWc": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239172",
+        "part": 5,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw3L9pBeO4wdqfviqNu": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239174",
+        "part": 6,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw3LHy_BqNu8NxOGGX1": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239176",
+        "part": 7,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
       }
     },
     "MENGRUTMAN": {
