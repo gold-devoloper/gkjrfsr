@@ -4724,6 +4724,21 @@
         "title": "Ovchi va o'lja",
         "trailer": "https://ok.ru/video/2771966626544",
         "year": "2021"
+      },
+      "-NwBArJRnEF_llGeIqx9": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Istanbul ombori xodimi Mehmet kasal bo'lib qoldi, ammo u kichkina bolani qanotiga oldi va qiyin bolaligini eslashga majbur.",
+        "genre": "Drama ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/O9hOEbf.jpeg",
+        "link": "https://ok.ru/video/6809133189726",
+        "push": "-NwBArJRnEF_llGeIqx9",
+        "state": "Turkiya ",
+        "time": "23042024112040",
+        "title": "Kimsasiz ali",
+        "trailer": "https://vk.com/video-184070913_456285933",
+        "year": "2021"
       }
     },
     "QORQINCHLI": {
@@ -5605,6 +5620,10 @@
     "-NwAO0LMCFB7X-2yqiny": {
       "id": "-NwAO0KrzPeZICHsejgX",
       "img": "https://i.imgur.com/L7GpWPu.jpeg"
+    },
+    "-NwBArKP3x1b-Zyh8CCf": {
+      "id": "-NwBArJRnEF_llGeIqx9",
+      "img": "https://i.imgur.com/O9hOEbf.jpeg"
     }
   },
   "MULTISERIAL": {
