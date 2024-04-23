@@ -4679,6 +4679,21 @@
         "title": "Surgun",
         "trailer": "https://ok.ru/video/4061377726987",
         "year": "2007"
+      },
+      "-Nw90tU0I4y5hP5-CKFj": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Yovvoyi tabiatga sayr qilish sirli otuvchidan qochib ketayotgan besh do'st uchun omon qolish uchun umidsiz taklifga aylanadi.",
+        "genre": "Sarguzashtlar Drama Triller ",
+        "imdb": "7.3",
+        "img": "https://i.imgur.com/a4pskae.jpeg",
+        "link": "https://ok.ru/video/6805472086622",
+        "push": "-Nw90tU0I4y5hP5-CKFj",
+        "state": "Germaniya ",
+        "time": "23042024011753",
+        "title": "Ovchi va o'lja",
+        "trailer": "https://ok.ru/video/2771966626544",
+        "year": "2021"
       }
     },
     "QORQINCHLI": {
@@ -5548,6 +5563,10 @@
     "-Nw5hTB9d9n3ZKrz09W3": {
       "id": "-Nw5hTAikHG6oz0Z7Ywh",
       "img": "https://i.imgur.com/XV5UsUf.jpeg"
+    },
+    "-Nw90tUTbTkdxR_QYGZw": {
+      "id": "-Nw90tU0I4y5hP5-CKFj",
+      "img": "https://i.imgur.com/a4pskae.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -6342,6 +6361,34 @@
         "img": "https://i.imgur.com/hB23IqT.jpeg",
         "link": "https://vk.com/video-225182992_456239196",
         "part": 20,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw8yGFGzfWQtp7KqBkJ": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239200",
+        "part": 21,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw8yKLlVSa5hPM-vFgG": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239201",
+        "part": 22,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw8yNudTHUIQI1n9N0u": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239202",
+        "part": 23,
+        "title": "Kung Fu Panda: Ajoyib afsonalar"
+      },
+      "-Nw8yRzaWNoTmU91K4Ym": {
+        "id": "KUNGFUPANDAAJOYIBAFSONALAR",
+        "img": "https://i.imgur.com/hB23IqT.jpeg",
+        "link": "https://vk.com/video-225182992_456239203",
+        "part": 24,
         "title": "Kung Fu Panda: Ajoyib afsonalar"
       }
     },
