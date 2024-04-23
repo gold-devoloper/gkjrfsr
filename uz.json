@@ -3428,6 +3428,21 @@
         "title": "Komandir",
         "trailer": "https://ok.ru/video/7061958625836",
         "year": "2024"
+      },
+      "-NwAO0KrzPeZICHsejgX": {
+        "age": 16,
+        "child": "KINO",
+        "description": "\"Olov va qilich bilan\" (Ogniem i mieczem yoki Olov va qilich bilan) filmining syujeti Polsha-Litva Hamdo'stligi olov hukmronligi ostida bo'lgan XVII asrning boshlarini tasvirlaydi. Ikki kishi, pravoslav ruhoniysi Bogdan Xmelnitskiy va polkovnikning o'g'lini o'limga qamchilagan Chaplinskiy ismli janob mustaqil ravishda o'zaro nizo qo'zg'atdilar. Bogdan Xmelnitskiy Chaplinskiyning bunday beparvo, nodon xatti-harakatidan qulog'i yo'ligacha g'azablanadi. Xafa bo'lgan Xmelnitskiy butun Zaporojye Sichni ko'tarishga va tezda urushga yuborishga qaror qiladi. U zodagon Xon Tugan bey boshchiligidagi Qrim tatarlarini yordamga chaqiradi. Xmelnitskiy ulardan uni ag'darishda, hokimiyat jilovini tortib olishda va qirol Vladislav askarlarini mag'lub etishda yordam berishlarini so'raydi. Bundan biroz oldin, polshalik szlachtych Yan Skshetuski, Bogdanning hayotini saqlab qoladi va u kelajakdagi dushmani bo'lishini bilmagan. Bir necha kundan so'ng, Yan Bohun ismli kazak boshlig'i bilan unashtirilganligini bilmagan holda, go'zal polshalik Elena bilan uchrashadi. Skshetuski Bohunni Elenani xotiniga olishdan qaytarishni xohlab, Sichga boradi. Yo'lda Bogdanning otryadi egallab olinadi va u qo'lga olinadi. O'shanda Xmelnitskiy kazaklarni qo'zg'olonga ko'targan edi...",
+        "genre": "Jangari Tarixiy Sarguzashtlar ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/L7GpWPu.jpeg",
+        "link": "https://ok.ru/video/6805598636638",
+        "push": "-NwAO0KrzPeZICHsejgX",
+        "state": "Polsha",
+        "time": "23042024073832",
+        "title": "Urush olovi",
+        "trailer": "https://ok.ru/video/6805598636638",
+        "year": "1999"
       }
     },
     "KOMEDIYA": {
@@ -5586,6 +5601,10 @@
     "-Nw9TRuQBRsh-pclwsWP": {
       "id": "-Nw9TRtukdL7365K-bv0",
       "img": "https://i.imgur.com/kcGcjwt.jpeg"
+    },
+    "-NwAO0LMCFB7X-2yqiny": {
+      "id": "-NwAO0KrzPeZICHsejgX",
+      "img": "https://i.imgur.com/L7GpWPu.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -6770,6 +6789,12 @@
       "img": "soon",
       "time": "21042024072236",
       "title": "Ilovaga 1-Anime joylandi 7kundan so'ng Anime seriallar ham paydo bo'ladi yangilashdan so'ng."
+    },
+    "-Nw9hRcJc5gs_cdOGKlt": {
+      "desc": "Ayrim qurilmalarda Reklama chiqishida nosozlik aniqlandi ilova sozlamalari orqali Reklamani oldindan chiqadigan qilib olishingiz mumkin.  oraliq vaqti 30 | 10 daqiqa bo'lib chiqyapti.",
+      "img": "soon",
+      "time": "23042024042809",
+      "title": "Ayrim qurilmalarda Reklama chiqishida nosozlik aniqlandi ilova sozlamalari orqali Reklamani oldindan chiqadigan qilib olishingiz mumkin.  oraliq vaqti 30 | 10 daqiqa bo'lib chiqyapti."
     }
   },
   "SERIAL": {
