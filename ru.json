@@ -590,6 +590,38 @@
     "-NwBDKQDcOY_zzt87BWg": {
       "id": "-NwBDKPmTivFz_gHF5SN",
       "img": "https://i.imgur.com/NMjirTR.jpeg"
+    },
+    "-NwEVJwN5ia-njp6jYxS": {
+      "id": "-NwEVJvwTPmt8KqpgayM",
+      "img": "https://i.imgur.com/O9r4QGl.jpeg"
+    }
+  },
+  "MULTISERIAL": {
+    "-NwEVJvwTPmt8KqpgayM": {
+      "age": 7,
+      "child": "MULTISERIALX",
+      "description": "Приключения жителей Зверополиса",
+      "genre": "Анимация Приключение ",
+      "id": "ZVEROPOLIS",
+      "imdb": "6.8",
+      "img": "https://i.imgur.com/O9r4QGl.jpeg",
+      "push": "-NwEVJvwTPmt8KqpgayM",
+      "state": "США ",
+      "time": "24042024024856",
+      "title": "Зверополис+",
+      "trailer": "https://vk.com/video-93178909_456240745",
+      "year": "2022"
+    }
+  },
+  "MULTISERIALX": {
+    "ZVEROPOLIS": {
+      "-NwEVVpix3QtD8kDt6Ug": {
+        "id": "ZVEROPOLIS",
+        "img": "https://i.imgur.com/O9r4QGl.jpeg",
+        "link": "https://vk.com/video-218359460_456241258",
+        "part": 1,
+        "title": "Зверополис+"
+      }
     }
   },
   "NOTIFICATION": {
