@@ -1024,6 +1024,36 @@
         "title": "Lyusi",
         "trailer": "https://vk.com/video-67429811_456251241",
         "year": "2014"
+      },
+      "-NwDokbaUvht1JHQXSwr": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Qirollik va malika muhabbati uchun kurashayotgan yosh fermer Jek ikki dunyo o'rtasida darvozani ochganda, odamlar va gigantlar irqi o'rtasidagi qadimiy urush yana boshlanadi.",
+        "genre": "Jangari Sarguzashtlar Fantastika ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/OrFmjGH.jpeg",
+        "link": "https://vk.com/video-225182992_456239206",
+        "push": "-NwDokbaUvht1JHQXSwr",
+        "state": "AQSH ",
+        "time": "24042024113835",
+        "title": "Gigantlarni bo'ysundirgan jek",
+        "trailer": "https://vk.com/video-36455846_456241222",
+        "year": "2013"
+      },
+      "-NwEqX0IUJNQqcUPslSh": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Syujetda sehr va afsonaviy hayvonlar ko'zni ham, ongni ham hayratga soladigan hayoliy hayoliy dunyo haqida hikoya qilinadi. Yo'lda jangchi og'ir sinovlarga duch keladi, aql bovar qilmaydigan janglarga guvoh bo'ladi va qizil rangdagi sirli qotillarga duch keladi. Uning har bir bosqichi hal qiluvchi, ammo ehtiyotkor bo'lishi kerak, chunki uning harakatlari haqiqatdan tashqari javob topadi va parallel olamdagi odamlar taqdirini abadiy o'zgartiradi",
+        "genre": "Jangari Sarguzashtlar Fantastika ",
+        "imdb": "6.2",
+        "img": "https://i.imgur.com/gCKqH7h.jpeg",
+        "link": "https://ok.ru/video/6315112794718",
+        "push": "-NwEqX0IUJNQqcUPslSh",
+        "state": "Xitoy ",
+        "time": "24042024042556",
+        "title": "Assasin olamlar jangi",
+        "trailer": "https://vk.com/video83216907_456239537",
+        "year": "2021"
       }
     },
     "HIND": {
@@ -5662,6 +5692,14 @@
     "-NwDCyACMj9DZR1skfGo": {
       "id": "-NwDCy9RhYrwvmvYP8F7",
       "img": "https://i.imgur.com/jOUJc1z.jpeg"
+    },
+    "-NwDokcLCAbVUNb5ttkm": {
+      "id": "-NwDokbaUvht1JHQXSwr",
+      "img": "https://i.imgur.com/OrFmjGH.jpeg"
+    },
+    "-NwEqX0cyygCqo0yxBTc": {
+      "id": "-NwEqX0IUJNQqcUPslSh",
+      "img": "https://i.imgur.com/gCKqH7h.jpeg"
     }
   },
   "MULTISERIAL": {
