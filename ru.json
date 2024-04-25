@@ -1,4 +1,39 @@
 {
+  "ANIMES": {
+    "-NwKOfv9q1tPNbXjSgv-": {
+      "age": 16,
+      "child": "ANIMESX",
+      "description": "Когда терпение Нагисы заканчивается и она убегает, Наоя и все остальные начинают погоню, чтобы поймать ее.",
+      "genre": "Анимация Комедия Романтика ",
+      "id": "MOIDRVUSHKI",
+      "imdb": "8.0",
+      "img": "https://i.imgur.com/koDLaii.jpeg",
+      "push": "-NwKOfv9q1tPNbXjSgv-",
+      "state": "Япония",
+      "time": "25042024061738",
+      "title": "Мои девушки",
+      "trailer": "https://vk.com/video73545084_456245296",
+      "year": "2021"
+    }
+  },
+  "ANIMESX": {
+    "MOIDRVUSHKI": {
+      "-NwKSJ_l9mjlsyZbH2i-": {
+        "id": "MOIDRVUSHKI",
+        "img": "https://i.imgur.com/koDLaii.jpeg",
+        "link": "https://vk.com/video-205333784_456240467",
+        "part": 1,
+        "title": "Мои девушки"
+      },
+      "-NwKSS6VSfuliTk8Xnze": {
+        "id": "MOIDRVUSHKI",
+        "img": "https://i.imgur.com/koDLaii.jpeg",
+        "link": "https://vk.com/video-195384183_456240908",
+        "part": 2,
+        "title": "Мои девушки"
+      }
+    }
+  },
   "CATEGORY": {
     "-NcjP0OxLMebzgK9Rzmn": {
       "id": "JANGARI",
@@ -97,6 +132,21 @@
         "title": "Как жена",
         "trailer": "https://vk.com/video-36455846_456250065",
         "year": "2022"
+      },
+      "-NwF2N-sTtAREvdajK9H": {
+        "age": 16,
+        "child": "KINO",
+        "description": "В этой захватывающей истории, уходящей корнями в глубину времен, раскрывается мир, где судьбы смертных и бессмертных тесно переплетаются. Династия Шан давно управляет миром смертных, требуя от местных правителей посылать своих сыновей на службу в качестве знака подчинения. В ходе подавления восстания в одной из провинций младший принц Инь Шоу случайно пробуждает древнего демона-лису, скрытого в теле несчастной дочери мятежного князя. Это событие запускает череду катастрофических событий. Демон-лиса, вселяясь в тело девушки, начинает воплощать темные желания принца, что приводит к гибели императора и его старшего сына. В результате Инь Шоу становится новым правителем, но его власть омрачена Великим проклятием, которое навлекает на мир смертных неописуемые беды. В ответ на нарастающий хаос, боги легендарной горы Куньлунь решают вмешаться, отправляя на помощь смертным могущественный артефакт — Список бессмертных. Этот артефакт обладает силой, способной изменить ход событий и восстановить равновесие между мирами. На поиски Списка отправляются трое героев: Цзян Цзыя, вместе с Нэчжи и Эрланом. Их путешествие полно опасностей, магии и битв, в которых переплетаются судьбы людей и богов. Каждый из героев будет сталкиваться с личными испытаниями и открытиями, и их совместные усилия будут ключом к спасению мира от разрушения. Сериал обещает быть насыщенным эпическими сражениями, глубокими духовными поисками и захватывающими поворотами сюжета, в котором древняя мифология оживает в современном повествовании. Источник: https://ikinogo.biz/2121-trilogija-o-bogah-carstvo-bur.html",
+        "genre": "Боевик Фантастика ",
+        "imdb": "6.7",
+        "img": "https://i.imgur.com/GgCJHBT.jpeg",
+        "link": "https://vk.com/video-84143224_456239272",
+        "push": "-NwF2N-sTtAREvdajK9H",
+        "state": "Китай ",
+        "time": "24042024052203",
+        "title": "Царство бурь",
+        "trailer": "https://vk.com/video-36455846_456251573",
+        "year": "2023"
       }
     },
     "HIND": {
@@ -317,6 +367,36 @@
         "title": "Олень",
         "trailer": "https://vk.com/video-127319332_456239531",
         "year": "2024"
+      },
+      "-NwKKPMHF-K9SraSYoI0": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Жена прибегает к сексуальным домогательствам со своим мужем, чтобы спасти их брак, но когда ее план дает обратный эффект, она разрабатывает злой план.",
+        "genre": "Драма ",
+        "imdb": "4.4",
+        "img": "https://i.imgur.com/jR88ILi.jpeg",
+        "link": "https://vk.com/video-191586208_456239986",
+        "push": "-NwKKPMHF-K9SraSYoI0",
+        "state": "Филиппины",
+        "time": "25042024055858",
+        "title": "Девчачья Пятница",
+        "trailer": "https://vk.com/video-191586208_456239986",
+        "year": "2022"
+      },
+      "-NwKMT9e_K7NvlX9X3sN": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Автор, чей брак находится под угрозой, встречает своего литературного кумира, соседа. Вскоре у него начинается роман с дочерью своего кумира. Но когда их тайна раскрыта, открывается еще больше... ",
+        "genre": "Романтика Триллер ",
+        "imdb": "5.1",
+        "img": "https://i.imgur.com/hZ3uLkF.jpeg",
+        "link": "https://vk.com/video-217809974_456239190",
+        "push": "-NwKMT9e_K7NvlX9X3sN",
+        "state": "Филиппины",
+        "time": "25042024060758",
+        "title": "За пределами небес",
+        "trailer": "https://vk.com/video-217809974_456239190",
+        "year": "2022"
       }
     },
     "QORQINCHLI": {
@@ -594,6 +674,26 @@
     "-NwEVJwN5ia-njp6jYxS": {
       "id": "-NwEVJvwTPmt8KqpgayM",
       "img": "https://i.imgur.com/O9r4QGl.jpeg"
+    },
+    "-NwF2N0JE_LlyUBjuklw": {
+      "id": "-NwF2N-sTtAREvdajK9H",
+      "img": "https://i.imgur.com/GgCJHBT.jpeg"
+    },
+    "-NwKGvzsd1NUl_VarBDE": {
+      "id": "-NwKGvzRcFxC2ituFTTu",
+      "img": "https://i.imgur.com/zHqwUSs.jpeg"
+    },
+    "-NwKKPMpY9FJD1bAe2L3": {
+      "id": "-NwKKPMHF-K9SraSYoI0",
+      "img": "https://i.imgur.com/jR88ILi.jpeg"
+    },
+    "-NwKMTA7dOzTn7lfqtJw": {
+      "id": "-NwKMT9e_K7NvlX9X3sN",
+      "img": "https://i.imgur.com/hZ3uLkF.jpeg"
+    },
+    "-NwKOfvao8ytechz5zVh": {
+      "id": "-NwKOfv9q1tPNbXjSgv-",
+      "img": "https://i.imgur.com/koDLaii.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -794,6 +894,21 @@
       "title": "Под властью нелюдей",
       "trailer": "https://ok.ru/video/6703439284799",
       "year": "2023"
+    },
+    "-NwKGvzRcFxC2ituFTTu": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "После зомби-апокалипсиса женщина Роуз вместе с небольшой группой выживших отправляется на поиски дочери. Им предстоит приспособиться к жизни в новом мире и ежедневно принимать непростые решения.",
+      "genre": "Боевик Драма Ужастик ",
+      "id": "BLACKSUMMER",
+      "imdb": "6.6",
+      "img": "https://i.imgur.com/zHqwUSs.jpeg",
+      "push": "-NwKGvzRcFxC2ituFTTu",
+      "state": "Канада ",
+      "time": "25042024054347",
+      "title": "Чёрное лето",
+      "trailer": "https://vk.com/video-204165032_456239633",
+      "year": "2019"
     }
   },
   "SERIALKOREA": {
@@ -1080,6 +1195,22 @@
         "link": "https://vk.com/video-224830088_456239029",
         "part": 1,
         "title": "Аватар: Легенда об Аанге"
+      }
+    },
+    "BLACKSUMMER": {
+      "-NwKH0GkY3zUBBP91Lv_": {
+        "id": "BLACKSUMMER",
+        "img": "https://i.imgur.com/zHqwUSs.jpeg",
+        "link": "https://vk.com/video-84143224_456239668",
+        "part": 1,
+        "title": "Чёрное лето"
+      },
+      "-NwKH4jsJhjrmE8bXFGQ": {
+        "id": "BLACKSUMMER",
+        "img": "https://i.imgur.com/zHqwUSs.jpeg",
+        "link": "https://vk.com/video-95521435_456245259",
+        "part": 2,
+        "title": "Чёрное лето"
       }
     },
     "DAYBER": {
