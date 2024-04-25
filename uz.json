@@ -4287,6 +4287,21 @@
         "title": "O'zga sayyoralik maugli",
         "trailer": "https://ok.ru/video/7413346470486",
         "year": "2019"
+      },
+      "-NwIxU-u1_MIXCXCW-z_": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Po Tinchlik vodiysining Ruhiy Rahbari bo'lish uchun tanlanganidan so'ng, u yangi Ajdaho jangchisini topishi va o'rgatishi kerak, yovuz sehrgar esa barcha asosiy yovuzlarni qaytachaqirishni rejalashtirmoqda ...",
+        "genre": "Animatsiya Jangari Sarguzashtlar ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/3pygf7L.jpeg",
+        "link": "https://vk.com/video-225182992_456239209",
+        "push": "-NwIxU-u1_MIXCXCW-z_",
+        "state": "AQSH ",
+        "time": "25042024113448",
+        "title": "Kung Fu Panda 4",
+        "trailer": "https://vk.com/video-32370614_456270357",
+        "year": "2024"
       }
     },
     "OTHER": {
@@ -5700,6 +5715,10 @@
     "-NwEqX0cyygCqo0yxBTc": {
       "id": "-NwEqX0IUJNQqcUPslSh",
       "img": "https://i.imgur.com/gCKqH7h.jpeg"
+    },
+    "-NwIxU0TryWAoEmXXzHU": {
+      "id": "-NwIxU-u1_MIXCXCW-z_",
+      "img": "https://i.imgur.com/3pygf7L.jpeg"
     }
   },
   "MULTISERIAL": {
