@@ -1084,6 +1084,21 @@
         "title": "Kelajak sayyorasi",
         "trailer": "https://ok.ru/video/1546456631",
         "year": "2015"
+      },
+      "-NwQXou7_CmHGvBGsALb": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Muzey kuratori 2000 yillik fil suyagidan yasalgan munajjimlar haqidagi planshetni oladi, u insoniyatni yo'q qilish salohiyatiga ega ekanligini bilmaydi.",
+        "genre": "Jangari Ilmiy-fantastik ",
+        "imdb": "3.3",
+        "img": "https://i.imgur.com/3yDXCNB.jpeg",
+        "link": "https://ok.ru/video/6815530289758",
+        "push": "-NwQXou7_CmHGvBGsALb",
+        "state": "Kanada ",
+        "time": "26042024105518",
+        "title": "Burj: Apokalipsis xabarchilari",
+        "trailer": "https://ok.ru/video/28210825981",
+        "year": "2014"
       }
     },
     "HIND": {
@@ -5757,6 +5772,10 @@
     "-NwOiXLn0JEc3Vs55fMC": {
       "id": "-NwOiXLJFwoGo0mc1ikx",
       "img": "https://i.imgur.com/4nvalFO.jpeg"
+    },
+    "-NwQXoud7lBOwYQuLo86": {
+      "id": "-NwQXou7_CmHGvBGsALb",
+      "img": "https://i.imgur.com/3yDXCNB.jpeg"
     }
   },
   "MULTISERIAL": {
