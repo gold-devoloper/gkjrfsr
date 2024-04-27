@@ -1099,6 +1099,21 @@
         "title": "Burj: Apokalipsis xabarchilari",
         "trailer": "https://ok.ru/video/28210825981",
         "year": "2014"
+      },
+      "-NwUF4vPDqgqHyuDBvxh": {
+        "age": 6,
+        "child": "KINO",
+        "description": "Jeykob (Asa Batterfild) vaqt bo'ylab cho'zilgan sirning izlarini topgach, Miss Peregrinning o'ziga xos bolalar uyini topadi. Ammo xavf-xatar u bilan tanishgandan keyin chuqurlashadi ...",
+        "genre": "Sarguzashtlar Drama Oilaviy ",
+        "imdb": "6.7",
+        "img": "https://i.imgur.com/qzK83eT.jpeg",
+        "link": "https://vk.com/video-186124728_456248346",
+        "push": "-NwUF4vPDqgqHyuDBvxh",
+        "state": "AQSH Kanada Belgiya Buyuk Britaniya ",
+        "time": "27042024041156",
+        "title": "Noyob qobilyatli bolalar uyi",
+        "trailer": "https://vk.com/video-186124728_456248346",
+        "year": "2016"
       }
     },
     "HIND": {
@@ -5814,6 +5829,10 @@
     "-NwThhdHY7G6eivLFqs8": {
       "id": "-NwThhcop1UGfEYS4r2l",
       "img": "https://i.imgur.com/c2fgT2D.jpeg"
+    },
+    "-NwUF4vqQfqrnS-zf4VB": {
+      "id": "-NwUF4vPDqgqHyuDBvxh",
+      "img": "https://i.imgur.com/qzK83eT.jpeg"
     }
   },
   "MULTISERIAL": {
