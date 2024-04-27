@@ -755,6 +755,10 @@
     "-NwT_d_lmtaJtvNPD9cn": {
       "id": "-NwT_dZoQI4zFkgg2hgL",
       "img": "https://i.imgur.com/yQH5Ar8.jpeg"
+    },
+    "-NwVDI9cl48QlnyQlPWD": {
+      "id": "-NwVDI8hS6onQuK5ghcp",
+      "img": "https://i.imgur.com/kcFSCAE.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -991,6 +995,21 @@
       "title": "Благословенная девушка",
       "trailer": "https://vk.com/video-5698404_456240434",
       "year": "2021"
+    },
+    "-NwVDI8hS6onQuK5ghcp": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "По легенде возле Бристольской бухты когда-то жили русалки. Однажды здесь появляется таинственная зеленоглазая девушка. Кому-то встреча с ней принесёт смерть, а для кого-то она приоткроет старые тайны безобидного, на первый взгляд, провинциального города.",
+      "genre": "Драма Фантастика Ужастик Боевик ",
+      "id": "SIRENAIMDB",
+      "imdb": "7.0",
+      "img": "https://i.imgur.com/kcFSCAE.jpeg",
+      "push": "-NwVDI8hS6onQuK5ghcp",
+      "state": "США ",
+      "time": "27042024084343",
+      "title": "Сирена",
+      "trailer": "https://vk.com/video-53921002_456240397",
+      "year": "2018"
     }
   },
   "SERIALKOREA": {
@@ -2222,6 +2241,29 @@
         "link": "https://vk.com/video-221125343_456243977",
         "part": 46,
         "title": "Штамм"
+      }
+    },
+    "SIRENAIMDB": {
+      "-NwVE7XWcSVvnYSbEmzt": {
+        "id": "SIRENAIMDB",
+        "img": "https://i.imgur.com/kcFSCAE.jpeg",
+        "link": "https://vk.com/video-201644007_456239984",
+        "part": 1,
+        "title": "Сирена"
+      },
+      "-NwVECiX1pdFmx2t5fZH": {
+        "id": "SIRENAIMDB",
+        "img": "https://i.imgur.com/kcFSCAE.jpeg",
+        "link": "https://vk.com/video-201644007_456239983",
+        "part": 2,
+        "title": "Сирена"
+      },
+      "-NwVEIA83wHC7HDd9e7e": {
+        "id": "SIRENAIMDB",
+        "img": "https://i.imgur.com/kcFSCAE.jpeg",
+        "link": "https://vk.com/video-201644007_456239982",
+        "part": 3,
+        "title": "Сирена"
       }
     },
     "SUPERKUCHLAR": {
