@@ -4347,6 +4347,21 @@
         "title": "Kung Fu Panda 4",
         "trailer": "https://vk.com/video-32370614_456270357",
         "year": "2024"
+      },
+      "-NwTA23ukDI4Gm9vax1-": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Hayotda o'z yo'lini yaratishga qaror qilgan malika Merida o'z shohligiga betartiblik olib keladigan odatga qarshi chiqadi. Bitta istak amalga oshsa, Merida o'zining jasorati va kamondan otish mahoratiga tayanishi kerak ...",
+        "genre": "Animatsiya Sarguzashtlar Komediya ",
+        "imdb": "7.1",
+        "img": "https://i.imgur.com/yVhDdtg.jpeg",
+        "link": "https://ok.ru/video/2295167650342",
+        "push": "-NwTA23ukDI4Gm9vax1-",
+        "state": "AQSH Yaponiya",
+        "time": "27042024111016",
+        "title": "Sheryurak qiz",
+        "trailer": "https://ok.ru/video/29666708206",
+        "year": "2012"
       }
     },
     "OTHER": {
@@ -5776,6 +5791,10 @@
     "-NwQXoud7lBOwYQuLo86": {
       "id": "-NwQXou7_CmHGvBGsALb",
       "img": "https://i.imgur.com/3yDXCNB.jpeg"
+    },
+    "-NwTA24wMRq9YWQAo9Cd": {
+      "id": "-NwTA23ukDI4Gm9vax1-",
+      "img": "https://i.imgur.com/yVhDdtg.jpeg"
     }
   },
   "MULTISERIAL": {
