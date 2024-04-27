@@ -534,6 +534,21 @@
         "title": "кроваво-красное небо",
         "trailer": "https://vk.com/video-83474103_456245245",
         "year": "2021"
+      },
+      "-NwTIcYiC0rvtxa-gOXa": {
+        "age": 16,
+        "child": "KINO",
+        "description": "На улицах центра Лос-Анджелеса женщина и мальчик сражаются, чтобы защитить что-то очень ценное и чрезвычайно опасное.",
+        "genre": "Научная фантастика Боевик ",
+        "imdb": "7.1",
+        "img": "https://i.imgur.com/QR9jEvn.jpeg",
+        "link": "https://vk.com/video-184070913_456284404",
+        "push": "-NwTIcYiC0rvtxa-gOXa",
+        "state": "США ",
+        "time": "27042024114749",
+        "title": "Мальчик",
+        "trailer": "https://vk.com/video-184070913_456284404",
+        "year": "2018"
       }
     }
   },
@@ -717,6 +732,10 @@
     "-NwPh0EffCkMpLxf1oho": {
       "id": "-NwPh0EDWoIakeiwhH2s",
       "img": "https://i.imgur.com/UgOPZnM.jpeg"
+    },
+    "-NwTIcZDqmP_lUop__pj": {
+      "id": "-NwTIcYiC0rvtxa-gOXa",
+      "img": "https://i.imgur.com/QR9jEvn.jpeg"
     }
   },
   "MULTISERIAL": {
