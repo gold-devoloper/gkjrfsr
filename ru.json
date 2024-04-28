@@ -778,6 +778,14 @@
     "-NwZYQLvJj5rGD7cmz1e": {
       "id": "-NwZYQL6qSfTBNIhF6J0",
       "img": "https://i.imgur.com/04kiPk5.jpeg"
+    },
+    "-NwZlb8BUq9_WwJ1owqh": {
+      "id": "-NwZlb7bK2tW1rlp9JWy",
+      "img": "https://i.imgur.com/8NLXo0V.jpeg"
+    },
+    "-NwZw20jIjqa3fJqEyS_": {
+      "id": "-NwZw20BtdC5C_UnCJsQ",
+      "img": "https://i.imgur.com/SfHyxH8.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -1029,6 +1037,36 @@
       "title": "Сирена",
       "trailer": "https://vk.com/video-53921002_456240397",
       "year": "2018"
+    },
+    "-NwZlb7bK2tW1rlp9JWy": {
+      "age": 12,
+      "child": "SERIALX",
+      "description": "Драма о том, что происходит, когда опасное печенье ручной работы, исполняющее мечту, пожирает элитную среднюю школу.",
+      "genre": "Драма Криминальный ",
+      "id": "SALOMPECHENIE",
+      "imdb": "6.8",
+      "img": "https://i.imgur.com/8NLXo0V.jpeg",
+      "push": "-NwZlb7bK2tW1rlp9JWy",
+      "state": "Южная Корея ",
+      "time": "28042024055629",
+      "title": "Привет, печенька",
+      "trailer": "https://ok.ru/video/6609945365047",
+      "year": "2023"
+    },
+    "-NwZw20BtdC5C_UnCJsQ": {
+      "age": 12,
+      "child": "SERIALX",
+      "description": "Ехидна Наклз обучает заместителя Уэйда Уиппла приемам воина-ехидны.",
+      "genre": "Боевик Комедия Приключение ",
+      "id": "NAKLZIMD ",
+      "imdb": "6.6",
+      "img": "https://i.imgur.com/SfHyxH8.jpeg",
+      "push": "-NwZw20BtdC5C_UnCJsQ",
+      "state": "США ",
+      "time": "28042024064204",
+      "title": "Наклз",
+      "trailer": "https://vk.com/video-32370614_456270486",
+      "year": "2024"
     }
   },
   "SERIALKOREA": {
@@ -1929,6 +1967,15 @@
         "title": "Благословенная девушка"
       }
     },
+    "NAKLZIMD ": {
+      "-NwZx4Jm-Lcn_weK67AC": {
+        "id": "NAKLZIMD ",
+        "img": "https://i.imgur.com/SfHyxH8.jpeg",
+        "link": "https://vk.com/video-131099725_456243431",
+        "part": 1,
+        "title": "Наклз"
+      }
+    },
     "NATSIYAZ": {
       "-NsHfWkvXCmiQ-uKkmso": {
         "id": "NATSIYAZ",
@@ -1936,6 +1983,113 @@
         "link": "https://vk.com/video-108470971_171286254",
         "part": 1,
         "title": "Нация  Z"
+      }
+    },
+    "SALOMPECHENIE": {
+      "-NwZlmQGOYyjrN3A2OLc": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240491",
+        "part": 1,
+        "title": "Привет, печенька"
+      },
+      "-NwZlpqSaMrSg-AlHeq3": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240627",
+        "part": 2,
+        "title": "Привет, печенька"
+      },
+      "-NwZlstQlWiwL1JWWGf1": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240629",
+        "part": 3,
+        "title": "Привет, печенька"
+      },
+      "-NwZlvnHjBz3eT2RyKWY": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240630",
+        "part": 4,
+        "title": "Привет, печенька"
+      },
+      "-NwZlyRjKYY4Cd-AitFX": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240655",
+        "part": 5,
+        "title": "Привет, печенька"
+      },
+      "-NwZm1N1-kkBDoKSSEbv": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240656",
+        "part": 6,
+        "title": "Привет, печенька"
+      },
+      "-NwZm41t5WmZFDS7uws-": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240739",
+        "part": 7,
+        "title": "Привет, печенька"
+      },
+      "-NwZm77XL13UHrSXI40g": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240740",
+        "part": 8,
+        "title": "Привет, печенька"
+      },
+      "-NwZm9kuyJ0ns029wtDX": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240741",
+        "part": 9,
+        "title": "Привет, печенька"
+      },
+      "-NwZmCZNeZXXukalwF0c": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240742",
+        "part": 10,
+        "title": "Привет, печенька"
+      },
+      "-NwZmFJM7DK-BbXAKWDV": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240743",
+        "part": 11,
+        "title": "Привет, печенька"
+      },
+      "-NwZmI4uPkXHZ4iKx6UN": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240744",
+        "part": 12,
+        "title": "Привет, печенька"
+      },
+      "-NwZmKa_MbwimcDNtGOg": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240745",
+        "part": 13,
+        "title": "Привет, печенька"
+      },
+      "-NwZmNL0Z-an8xYDsdMc": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240746",
+        "part": 14,
+        "title": "Привет, печенька"
+      },
+      "-NwZmPuD2oMjjqDHyyGX": {
+        "id": "SALOMPECHENIE",
+        "img": "https://i.imgur.com/8NLXo0V.jpeg",
+        "link": "https://vk.com/video-217783423_456240747",
+        "part": 15,
+        "title": "Привет, печенька"
       }
     },
     "SHTAMMRUS": {
