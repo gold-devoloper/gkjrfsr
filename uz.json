@@ -3608,6 +3608,21 @@
         "title": "Qahramon",
         "trailer": "https://ok.ru/video/6826917300830",
         "year": "2019"
+      },
+      "-NwkAiob79cV7Hylm3Rk": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Xitmen bo'lish qiziqarli va oson. Ayniqsa, onasidan buyurtma asosida o'ldirish qobiliyatini meros qilib olgan Momo Havo uchun. Ammo qiz o'z xo'jayiniga qarshi borishi kerak bo'lsa, u butun bezorilar armiyasining nishoniga aylanadi. Yaxshiyamki, onam va uning sobiq sheriklari xayrixohlarni \"chang kokteyli\" imzosi bilan davolashda yordam berishga tayyor.",
+        "genre": "Jangari Kriminal Triller ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/1fKY0F1.jpeg",
+        "link": "https://ok.ru/video/6826917431902",
+        "push": "-NwkAiob79cV7Hylm3Rk",
+        "state": "Germaniya Fransiya AQSH ",
+        "time": "30042024110625",
+        "title": "Poroxli kokteyl",
+        "trailer": "https://vk.com/video-94236555_456242453",
+        "year": "2021"
       }
     },
     "KOMEDIYA": {
@@ -5924,6 +5939,10 @@
     "-NwifGk9bfs9i6GHVx3m": {
       "id": "-NwifGjCPbkqLlDAvUiY",
       "img": "https://i.imgur.com/FBRjGHl.jpeg"
+    },
+    "-NwkAiphE4VpU2RI8JAF": {
+      "id": "-NwkAiob79cV7Hylm3Rk",
+      "img": "https://i.imgur.com/1fKY0F1.jpeg"
     }
   },
   "MULTISERIAL": {
