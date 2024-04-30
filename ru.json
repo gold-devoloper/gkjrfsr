@@ -258,6 +258,21 @@
         "title": "Хочу как ты",
         "trailer": "https://vk.com/video-70028484_456239127",
         "year": "2011"
+      },
+      "-NwiXFumcdLmGYJ8vs1L": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Четверо мальчиков-подростков заключают договор, что потеряют девственность к выпускному вечеру.",
+        "genre": "Комедия ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/uyxSbHS.jpeg",
+        "link": "https://vk.com/video-176266440_456239901",
+        "push": "-NwiXFumcdLmGYJ8vs1L",
+        "state": "Великобритания ",
+        "time": "30042024032539",
+        "title": "Америкианскии пирог",
+        "trailer": "https://vk.com/video-176266440_456239900",
+        "year": "1999"
       }
     },
     "MULTFILM": {
@@ -594,6 +609,21 @@
         "title": "восстание зловещих мертвецов",
         "trailer": "https://vk.com/video-25688912_456239690",
         "year": "2023"
+      },
+      "-NwiZaM1NhPiPmi8v14_": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Клещи в этом незатейливом «ужастике» произносятся с ударением на последнем слоге. Энцефалитные клещи, например. Не теряя времени зря на обдумывание сюжета, достоверность, вырисовывание персонажей и прочую ерунду, авторы сразу берут быка за клеща. Здесь эти противные, кровожадные насекомые вырастают до гигантских размеров и начинают жрать все подряд, размножаясь со страшной скоростью.",
+        "genre": "Ужастик Научная фантастика ",
+        "imdb": "5.5",
+        "img": "https://i.imgur.com/UOWedF5.jpeg",
+        "link": "https://vk.com/video-183973739_456240763",
+        "push": "-NwiZaM1NhPiPmi8v14_",
+        "state": "Великобритания ",
+        "time": "30042024033552",
+        "title": "Клеши",
+        "trailer": "https://vk.com/video-33916482_456239494",
+        "year": "1993"
       }
     }
   },
@@ -805,6 +835,18 @@
     "-NwhmGaY6hWNzBtZqYAk": {
       "id": "-NwhmG_ruqCv29-h4KFA",
       "img": "https://i.imgur.com/NpYWsiw.jpeg"
+    },
+    "-NwiMSxdJsMtJQsoEIz7": {
+      "id": "-NwiMSx6ku8s9oe7WJzd",
+      "img": "https://i.imgur.com/rRKYZJ2.jpeg"
+    },
+    "-NwiXFvOfwgj6eoi4_uA": {
+      "id": "-NwiXFumcdLmGYJ8vs1L",
+      "img": "https://i.imgur.com/uyxSbHS.jpeg"
+    },
+    "-NwiZaMXuQ2JMzbRrVC3": {
+      "id": "-NwiZaM1NhPiPmi8v14_",
+      "img": "https://i.imgur.com/UOWedF5.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -1086,6 +1128,21 @@
       "title": "Наклз",
       "trailer": "https://vk.com/video-32370614_456270486",
       "year": "2024"
+    },
+    "-NwiMSx6ku8s9oe7WJzd": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Cтеснительный и необщительный подросток-девственник Отис живёт с мамой, которая работает секс-терапевтом. Объединившись с одноклассницей Мэйв, Отис проводит сеансы терапии для своих сверстников, чтобы помочь им разобраться с неловкими и запутанными ситуациями.",
+      "genre": "Драма Комедия Романтика ",
+      "id": "SEKSEDUCATION",
+      "imdb": "8.7",
+      "img": "https://i.imgur.com/rRKYZJ2.jpeg",
+      "push": "-NwiMSx6ku8s9oe7WJzd",
+      "state": "Великобритания ",
+      "time": "30042024023828",
+      "title": "Сексуальное просвещение",
+      "trailer": "https://vk.com/video-145404816_456244215",
+      "year": "2019"
     }
   },
   "SERIALKOREA": {
@@ -2109,6 +2166,29 @@
         "link": "https://vk.com/video-217783423_456240747",
         "part": 15,
         "title": "Привет, печенька"
+      }
+    },
+    "SEKSEDUCATION": {
+      "-NwiRF8OxrhmQEWr-aZ7": {
+        "id": "SEKSEDUCATION",
+        "img": "https://i.imgur.com/rRKYZJ2.jpeg",
+        "link": "https://vk.com/video-174080699_456239161",
+        "part": 1,
+        "title": "Сексуальное просвещение"
+      },
+      "-NwiRJ8TpVosKdtZZ_Dv": {
+        "id": "SEKSEDUCATION",
+        "img": "https://i.imgur.com/rRKYZJ2.jpeg",
+        "link": "https://vk.com/video-174080699_456239158",
+        "part": 2,
+        "title": "Сексуальное просвещение"
+      },
+      "-NwiROYBOq1_ivtBXUXD": {
+        "id": "SEKSEDUCATION",
+        "img": "https://i.imgur.com/rRKYZJ2.jpeg",
+        "link": "https://vk.com/video-131099725_456241998",
+        "part": 3,
+        "title": "Сексуальное просвещение"
       }
     },
     "SHTAMMRUS": {
