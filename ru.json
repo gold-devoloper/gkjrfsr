@@ -684,6 +684,21 @@
         "title": "Клеши",
         "trailer": "https://vk.com/video-33916482_456239494",
         "year": "1993"
+      },
+      "-NwmapPAibnWrCf8ci2t": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Семья терроризируется рождественским демоном Джеком Фростом и должна узнать темные тайны своей семьи, которые объясняют, почему они прокляты. В это Рождество Джек не остановится ни перед чем, чтобы добиться своего...",
+        "genre": "Ужастик ",
+        "imdb": "3.0",
+        "img": "https://i.imgur.com/vOnTjF4.jpeg",
+        "link": "https://vk.com/video-32395960_456239880",
+        "push": "-NwmapPAibnWrCf8ci2t",
+        "state": "Великобритания ",
+        "time": "01052024102405",
+        "title": "Проклятие Джека Фроста",
+        "trailer": "https://vk.com/video-29154202_456241610",
+        "year": "2022"
       }
     }
   },
@@ -923,6 +938,18 @@
     "-NwmWvwTjtC9zeqiVJvh": {
       "id": "-NwmWvw7-Ybx-dV-jauo",
       "img": "https://i.imgur.com/UpJO3ac.jpeg"
+    },
+    "-NwmapPl5U3Dgnq4FY4-": {
+      "id": "-NwmapPAibnWrCf8ci2t",
+      "img": "https://i.imgur.com/vOnTjF4.jpeg"
+    },
+    "-NwmcAc7FUL8k_iXJhBM": {
+      "id": "-NwmcAbTuH1vnfEh9Wt8",
+      "img": "https://i.imgur.com/zQK1CYI.jpeg"
+    },
+    "-NwmjtnVQoVNkcKvRMTe": {
+      "id": "-Nwmjtn8kMlhGB3nKIvk",
+      "img": "https://i.imgur.com/IwkyJfq.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -1219,6 +1246,36 @@
       "title": "Сексуальное просвещение",
       "trailer": "https://vk.com/video-145404816_456244215",
       "year": "2019"
+    },
+    "-NwmcAbTuH1vnfEh9Wt8": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "В далёком будущем человеческая раса полностью лишилась зрения. Чтобы выжить, людям пришлось найти новый способ сосуществовать, строить и добывать пищу. Всё меняется, когда в семье бесстрашного воина Бабы Восса рождаются зрячие близнецы. Их появление рискует нарушить хрупкий баланс нового мира и ввергнуть успокоившуюся цивилизацию в хаос.",
+      "genre": "Боевик Драма Научная фантастика ",
+      "id": "SEEEIMDBSER",
+      "imdb": "7.6",
+      "img": "https://i.imgur.com/zQK1CYI.jpeg",
+      "push": "-NwmcAbTuH1vnfEh9Wt8",
+      "state": "США ",
+      "time": "01052024102958",
+      "title": "Видеть",
+      "trailer": "https://ok.ru/video/1417367128602",
+      "year": "2019"
+    },
+    "-Nwmjtn8kMlhGB3nKIvk": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Семья Тавара, последний клан шиноби. Семья отказалась от своих корней после инцидента в прошлом, но теперь семье предстоит пережить величайший кризис в истории Японии, который угрожает... ",
+      "genre": "Боевик Драма Триллер ",
+      "id": "DOMNINDZYA",
+      "imdb": "7.2",
+      "img": "https://i.imgur.com/IwkyJfq.jpeg",
+      "push": "-Nwmjtn8kMlhGB3nKIvk",
+      "state": "Япония",
+      "time": "01052024110342",
+      "title": "Дом ниндзя",
+      "trailer": "https://ok.ru/video/6581127416418",
+      "year": "2024"
     }
   },
   "SERIALKOREA": {
@@ -1537,6 +1594,15 @@
         "link": "https://ok.ru/video/7542028503758",
         "part": 2,
         "title": "ДАЙВЕР"
+      }
+    },
+    "DOMNINDZYA": {
+      "-NwmkAwHje2I9_7PN78J": {
+        "id": "DOMNINDZYA",
+        "img": "https://i.imgur.com/IwkyJfq.jpeg",
+        "link": "https://vk.com/video-131099725_456243312",
+        "part": 1,
+        "title": "Дом ниндзя"
       }
     },
     "HALORU": {
@@ -2242,6 +2308,29 @@
         "link": "https://vk.com/video-217783423_456240747",
         "part": 15,
         "title": "Привет, печенька"
+      }
+    },
+    "SEEEIMDBSER": {
+      "-NwmdSNFkjl6VNSDgwC9": {
+        "id": "SEEEIMDBSER",
+        "img": "https://i.imgur.com/zQK1CYI.jpeg",
+        "link": "https://vk.com/video-212932698_456242576",
+        "part": 1,
+        "title": "Видеть"
+      },
+      "-NwmdtYOnXbhwrduq2FL": {
+        "id": "SEEEIMDBSER",
+        "img": "https://i.imgur.com/zQK1CYI.jpeg",
+        "link": "https://vk.com/video-212932698_456242573",
+        "part": 2,
+        "title": "Видеть"
+      },
+      "-Nwmdyy2G8IthSWHuyu3": {
+        "id": "SEEEIMDBSER",
+        "img": "https://i.imgur.com/zQK1CYI.jpeg",
+        "link": "https://vk.com/video-212932698_456242575",
+        "part": 3,
+        "title": "Видеть"
       }
     },
     "SEKSEDUCATION": {
