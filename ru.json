@@ -365,6 +365,21 @@
         "title": "Арк",
         "trailer": "https://vk.com/video-84143224_456239635",
         "year": "2024"
+      },
+      "-NwsbbM01Lxse0f60YSV": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Анна, Эльза, Кристоф, его верный олень Свен и никогда не унывающий снеговик Олаф должны будут покинуть уютное королевство Эренделл и отправиться ещё дальше на север, в путешествие, которое приведет их к истокам древних легенд и поможет раскрыть тайны, касающиеся прошлого их родной страны.",
+        "genre": "Анимация Комедия Приключение ",
+        "imdb": "6.8",
+        "img": "https://i.imgur.com/J2tHcnz.jpeg",
+        "link": "https://vk.com/video-220018529_456242354",
+        "push": "-NwsbbM01Lxse0f60YSV",
+        "state": "США Япония",
+        "time": "02052024022513",
+        "title": "холодная сердце 2",
+        "trailer": "https://vk.com/video-38629337_456247889",
+        "year": "2019"
       }
     },
     "OTHER": {
@@ -973,6 +988,10 @@
     "-Nwre8GPYC4FPFniPIDd": {
       "id": "-Nwre8FtgQhOtIUGpzai",
       "img": "https://i.imgur.com/nZLLmeo.jpeg"
+    },
+    "-NwsbbMYzFDDIGwQ5ZSK": {
+      "id": "-NwsbbM01Lxse0f60YSV",
+      "img": "https://i.imgur.com/J2tHcnz.jpeg"
     }
   },
   "MULTISERIAL": {
