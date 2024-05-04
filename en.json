@@ -3,157 +3,55 @@
     "-NcjP0OxLMebzgK9Rzmn": {
       "id": "JANGARI",
       "img": "https://i.pinimg.com/564x/ba/72/4a/ba724ad951e978b20f471b5f1f1021b2.jpg",
-      "title": "Боевики"
+      "title": "Action movies"
     },
     "-NcjPMYh_oiLRIgwXOY0": {
       "id": "MULTFILM",
       "img": "https://i.pinimg.com/564x/4e/8f/31/4e8f31644369654e66d7468839e53d62.jpg",
-      "title": "Мультфильмы"
+      "title": "Cartoons"
     },
     "-NcjVt37PXSB-DHtk5Ec": {
       "id": "FANTASTIK",
       "img": "https://i.pinimg.com/564x/71/d0/16/71d0163e78add5d7391d165de78aabaa.jpg",
-      "title": "Фантастические фильмы"
+      "title": "Fantastic movies"
     },
     "-NcjWrnFU08IVJ5605BH": {
       "id": "KOMEDIYA",
       "img": "https://i.pinimg.com/564x/4d/93/57/4d93578e210cbb3db0a0f62a66266699.jpg",
-      "title": "Комедии"
+      "title": "Comedy movies"
     },
     "-NcjWzvUqnA3KIWWkp9h": {
       "id": "HIND",
       "img": "https://i.pinimg.com/564x/b2/56/d0/b256d0b9414c1d7ee725bd1da197bda2.jpg",
-      "title": "Для фильмов на хинди"
+      "title": "For hindi movies"
     },
     "-NcjX7vQnVAQGVVZ4fJv": {
       "id": "QORQINCHLI",
       "img": "https://topkinolar.com/uploads/posts/2023-03/1679789955-1692769565.webp",
-      "title": "Фильмы ужасов"
+      "title": "Horror movies"
     },
     "-NcjtffuKn5hTupnMiun": {
       "id": "OTHER",
       "img": "https://i.imgur.com/DQtYnf5.jpg",
-      "title": "Различный"
+      "title": "Various"
     }
   },
   "CATEGORYX": {
-    "FANTASTIK": {
-      "-NrENs3LT53X3P8ya_AD": {
-        "age": 16,
-        "child": "KINO",
-        "description": "После того, как удар метеорита положил начало новому ледниковому периоду, группа выживших пытается найти устройство, которое могло бы дать человечеству новую надежду.",
-        "genre": "Боевик Приключение ",
-        "imdb": "3.3",
-        "img": "https://i.imgur.com/mVNr73S.jpeg",
-        "link": "https://ok.ru/video/227930540707",
-        "push": "-NrENs3LT53X3P8ya_AD",
-        "state": "США Германия ",
-        "time": "22022024105702",
-        "title": "ПОСЛЕ АПОКАЛИПСИСА",
-        "trailer": "https://ok.ru/video/227930540707",
-        "year": "2004"
-      }
-    },
-    "HIND": {
-      "-NrEJKEcuAqJK2ulRwES": {
-        "age": 16,
-        "child": "KINO",
-        "description": "Свами и Ананд, которые выглядят совершенно одинаково, происходят из разных слоев общества. В сложных обстоятельствах Пранави, молодая и красивая девушка, влюбляется в них обоих. Как Свами и Ана...",
-        "genre": "Боевик Комедия ",
-        "imdb": "6.3",
-        "img": "https://i.imgur.com/GDfvno3.jpeg",
-        "link": "https://ok.ru/video/4644754426569",
-        "push": "-NrEJKEcuAqJK2ulRwES",
-        "state": "Индия ",
-        "time": "22022024103711",
-        "title": "Большой Взрыв",
-        "trailer": "https://ok.ru/video/3031824206574",
-        "year": "2022"
-      }
-    },
-    "JANGARI": {
-      "-NrEFUOKDlMIgAW6vQHD": {
-        "age": 16,
-        "child": "KINO",
-        "description": "Владелец ранчо на границе с Аризоной становится маловероятным защитником мексиканского мальчика, отчаянно спасающегося от убийц картеля, преследовавших его в США.",
-        "genre": "Боевик Драма ",
-        "imdb": "5.7",
-        "img": "https://i.imgur.com/8XrwT7e.jpeg",
-        "link": "https://ok.ru/video/4543902321259",
-        "push": "-NrEFUOKDlMIgAW6vQHD",
-        "state": "США ",
-        "time": "22022024102024",
-        "title": "Заступник",
-        "trailer": "https://ok.ru/video/2479120059053",
-        "year": "2021"
-      }
-    },
-    "KOMEDIYA": {
-      "-NrEPWlZdk4_sLwE1c4z": {
-        "age": 12,
-        "child": "KINO",
-        "description": "Эгоцентричный бабник оказывается в затруднительном положении, когда в его правую руку вселяется дух ненавидящей его молодой женщины.",
-        "genre": "Комедия Драма ",
-        "imdb": "4.4",
-        "img": "https://i.imgur.com/mckLriu.jpeg",
-        "link": "https://ok.ru/video/7452912781873",
-        "push": "-NrEPWlZdk4_sLwE1c4z",
-        "state": "Россия ",
-        "time": "22022024110415",
-        "title": "Одной левой",
-        "trailer": "https://ok.ru/video/7232619798",
-        "year": "2015"
-      }
-    },
     "MULTFILM": {
-      "-NrEGxG-9kvOOQwezUFU": {
-        "age": 12,
+      "-Nx2fPnwdkuaVudheQvf": {
+        "age": 0,
         "child": "KINO",
-        "description": "В мире роботов молодой изобретатель-идеалист отправляется в большой город, чтобы присоединиться к компании своего вдохновителя, но обнаруживает, что выступает против ее зловещего нового руководства.",
-        "genre": "Комедия Приключение ",
+        "description": "Okay, this is an entry in the \"Aesop's Sound Fables\" and is a version of the little-black-duck and the wolf-in-sheep's clothing fables about the sibling duck who was shunned because of his c... ",
+        "genre": "Animation Comedy ",
         "imdb": "6.4",
-        "img": "https://i.imgur.com/hu1KBVn.jpeg",
-        "link": "https://ok.ru/video/361850800839",
-        "push": "-NrEGxG-9kvOOQwezUFU",
-        "state": "США ",
-        "time": "22022024102648",
-        "title": "Роботы ",
-        "trailer": "https://ok.ru/video/7279107836439",
-        "year": "2005"
-      }
-    },
-    "OTHER": {
-      "-NrER8hvu0Mqg4U23Djc": {
-        "age": 12,
-        "child": "KINO",
-        "description": "Томбируо — проблемный молодой человек, уродливый, послушный и обремененный силами, которые не подчиняются его воле. Трагическая смерть его отца заставляет Томбируо мстить и наказывать тех, кто пострадал... ",
-        "genre": "Приключение Драма ",
-        "imdb": "5.7",
-        "img": "https://i.imgur.com/bsBQXGb.jpeg",
-        "link": "https://ok.ru/video/557056526947",
-        "push": "-NrER8hvu0Mqg4U23Djc",
-        "state": "Малайзия",
-        "time": "22022024111121",
-        "title": "Томбируо",
-        "trailer": "https://ok.ru/video/1077054147277",
-        "year": "2017"
-      }
-    },
-    "QORQINCHLI": {
-      "-NrED4xpwSV7N2iETarl": {
-        "age": 18,
-        "child": "KINO",
-        "description": "После того, как молодая пара берет к себе двух своих племянниц, они подозревают, что к их семье вселился сверхъестественный дух по имени Мама.",
-        "genre": "Фантастика Ужастик ",
-        "imdb": "6.2",
-        "img": "https://i.imgur.com/xUjK45u.jpeg",
-        "link": "https://ok.ru/video/33394133749",
-        "push": "-NrED4xpwSV7N2iETarl",
-        "state": "Канада Мексиканский ",
-        "time": "22022024100955",
-        "title": "Мама",
-        "trailer": "https://ok.ru/video/6789959256630",
-        "year": "2013"
+        "img": "https://i.imgur.com/zYmXV7e.jpeg",
+        "link": "https://vk.com/video-225182992_456239232",
+        "push": "-Nx2fPnwdkuaVudheQvf",
+        "state": "USA ",
+        "time": "04052024055739",
+        "title": "The Black Duck",
+        "trailer": "https://vk.com/video-225182992_456239232",
+        "year": "1929"
       }
     }
   },
@@ -162,43 +60,43 @@
       "img": "https://i.imgur.com/I582YOt.jpg",
       "push": "-Nj6UEhE_jHgC30VAYZ7",
       "time": "13112023120218",
-      "title": "США"
+      "title": "USA"
     },
     "-Nj6UIYixZuoWduQDpCU": {
       "img": "https://i.imgur.com/qGx0dhx.jpg",
       "push": "-Nj6UIYixZuoWduQDpCU",
       "time": "13112023120234",
-      "title": "Индия"
+      "title": "Hindiston"
     },
     "-Nj6UMaxyCGwicUrV5cv": {
       "img": "https://i.imgur.com/Ytcy3us.jpg",
       "push": "-Nj6UMaxyCGwicUrV5cv",
       "time": "13112023120250",
-      "title": "Япония"
+      "title": "Japan"
     },
     "-Nj6UgzYE3thTeQR1B3Q": {
       "img": "https://i.imgur.com/zdO1pEz.jpg",
       "push": "-Nj6UgzYE3thTeQR1B3Q",
       "time": "13112023120418",
-      "title": "Турция"
+      "title": "Turkey"
     },
     "-Nj6UzkpIe0kkrSruWp0": {
       "img": "https://i.imgur.com/7U0qSxI.jpg",
       "push": "-Nj6UzkpIe0kkrSruWp0",
       "time": "13112023120535",
-      "title": "Корея"
+      "title": "Korea"
     },
     "-Nj6VRTgbDxKDYrIoF3T": {
       "img": "https://i.imgur.com/nb3NjwD.jpg",
       "push": "-Nj6VRTgbDxKDYrIoF3T",
       "time": "13112023120732",
-      "title": "Китай"
+      "title": "China"
     },
     "-Nj6ViYBniBZd_RQ45Xe": {
       "img": "https://i.imgur.com/2vt7L6o.jpg",
       "push": "-Nj6ViYBniBZd_RQ45Xe",
       "time": "13112023120846",
-      "title": "Россия"
+      "title": "Russia"
     }
   },
   "IMAGESLIDER": {
@@ -225,6 +123,14 @@
     "-NcgGvuQwhm6DTf_0HNi": {
       "id": "SOON",
       "img": "https://i.imgur.com/i9xergq.jpg"
+    },
+    "-Nx2fPoM1T7wt7aJqGm3": {
+      "id": "-Nx2fPnwdkuaVudheQvf",
+      "img": "https://i.imgur.com/zYmXV7e.jpeg"
+    },
+    "-Nx2igBO3UcnuO-5gB-m": {
+      "id": "-Nx2igAvnpyhRQ1LpSoX",
+      "img": "https://i.imgur.com/vIapKYj.jpeg"
     }
   },
   "NOTIFICATION": {
@@ -236,20 +142,31 @@
     }
   },
   "SERIAL": {
-    "-NrEq7sWxfRlNdGuZED5": {
+    "-Nx2igAvnpyhRQ1LpSoX": {
       "age": 16,
       "child": "SERIALX",
-      "description": "Шурик, более известный в дайвинг-среде как «Черный македонец», уже много лет занимается дайвингом за границей, куда попал подростком после гибели отца в бандитском шоу... ",
-      "genre": "Приключение ",
-      "id": "DAYBER",
-      "imdb": "0",
-      "img": "https://i.imgur.com/frzLuvu.jpeg",
-      "push": "-NrEq7sWxfRlNdGuZED5",
-      "state": "Россия ",
-      "time": "22022024010453",
-      "title": "ДАЙВЕР",
-      "trailer": "https://ok.ru/video/3879513623124",
-      "year": "2022"
+      "description": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
+      "genre": "Comedy Horror ",
+      "id": "TREMORS1990",
+      "imdb": "7.2",
+      "img": "https://i.imgur.com/vIapKYj.jpeg",
+      "push": "-Nx2igAvnpyhRQ1LpSoX",
+      "state": "USA ",
+      "time": "04052024061157",
+      "title": "Tremors",
+      "trailer": "https://ok.ru/video/367642545716",
+      "year": "2003"
+    }
+  },
+  "SERIALX": {
+    "TREMORS1990": {
+      "-Nx2jkHKKX72E1NI5qtS": {
+        "id": "TREMORS1990",
+        "img": "https://i.imgur.com/vIapKYj.jpeg",
+        "link": "https://ok.ru/video/2931293555238",
+        "part": 1,
+        "title": "Tremors"
+      }
     }
   },
   "TV": {
