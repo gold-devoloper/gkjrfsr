@@ -3683,6 +3683,21 @@
         "title": "Red 2",
         "trailer": "https://ok.ru/video/419016674991",
         "year": "2013"
+      },
+      "-Nx3CUgSSE_zq8tSLn3u": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Hozir Xarold tibbiyotda haqiqiy yutuq qilishni rejalashtirgan farmatsevtika kompaniyasida ishlaydi. Olimlar maxsus marixuana tabletkalari uchun formulani ixtiro qildilar, bu esa tashkilotga jiddiy daromad keltirishi mumkin. Bosh qahramonga formulani ishlab chiqarish joylashgan Meksikaga yetkazib berish ishonib topshirilgan. Ammo Garold bundan keyin boshliqlar kompaniyani foyda bilan sotishni rejalashtirayotganini bilib oladi. Voqea joyiga yetib kelgan nigeriyalik muhojir rahbariyatdan katta miqdorda to'lovni olib tashlash uchun o'z o'g'irlashini soxtalashtirishga qaror qiladi. Ammo u hali ham mahalliy jinoyatchilar tomonidan ov qilinayotganini bilmaydi, ular tajribali dori ishlab chiqarish texnologiyasini o'zlashtirmoqchi.",
+        "genre": "Jangari Komediya Kriminal ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/d697sYO.jpeg",
+        "link": "https://ok.ru/video/6850658634334",
+        "push": "-Nx3CUgSSE_zq8tSLn3u",
+        "state": "AQSH Avstriya Meksika ",
+        "time": "04052024082632",
+        "title": "Xavfli biznes / Gringo gazetasi Meksika",
+        "trailer": "https://ok.ru/video/399482424059",
+        "year": "2018"
       }
     },
     "KOMEDIYA": {
@@ -5084,6 +5099,21 @@
         "title": "Oydagi odam",
         "trailer": "https://ok.ru/video/727066612081",
         "year": "2018"
+      },
+      "-Nx3B6yc7lIctOtiil6J": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ko'p yillar davomida bir-birlari bilan muloqot qilmagan opa-singillar Zarin va Zara atrofida voqealar rivoj topadi. Ularning otasi kasallikdan so‘ng nogironlar aravachasiga o‘tirgach, oiladagi barcha ishlar Zarinning zimmasiga tushadi. Ko'p o'tmay Zara Karachidan Londonga qochib, Angliyadan Pokistonga qaytadi, lekin opa-singillar o'rtasidagi ziddiyat kuchayadi, chunki ular o'zlarining eski shikoyatlarini unutishlariga to'sqinlik qiladigan o'tmishdagi sirlarga yana bir bor duch kelishga majbur bo'lishadi. Biroz vaqt o‘tgach, ular oila kelajagi uchun tinchlik o‘rnatishi kerakligini tushunib yetadi va buning uchun yagona yo‘l muammoning manbasini hal qilishdir...",
+        "genre": "Drama Romantika ",
+        "imdb": "7.6",
+        "img": "https://i.imgur.com/Cn6MSuA.jpeg",
+        "link": "https://ok.ru/video/6850658699870",
+        "push": "-Nx3B6yc7lIctOtiil6J",
+        "state": "Buyuk Britaniya  Pokiston",
+        "time": "04052024082033",
+        "title": "To'rt",
+        "trailer": "https://ok.ru/video/6850658699870",
+        "year": "2018"
       }
     },
     "QORQINCHLI": {
@@ -6095,6 +6125,14 @@
     "-Nx2_8GUu6ELVpOM8Yt2": {
       "id": "-Nx2_8Fk8PAyT-FcGouG",
       "img": "https://i.imgur.com/mQ1nD0L.jpeg"
+    },
+    "-Nx3B6zFLk0YUFc_Rxxr": {
+      "id": "-Nx3B6yc7lIctOtiil6J",
+      "img": "https://i.imgur.com/Cn6MSuA.jpeg"
+    },
+    "-Nx3CUh7JFVp2BLsIm6z": {
+      "id": "-Nx3CUgSSE_zq8tSLn3u",
+      "img": "https://i.imgur.com/d697sYO.jpeg"
     }
   },
   "MULTISERIAL": {
