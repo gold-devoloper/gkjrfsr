@@ -3698,6 +3698,21 @@
         "title": "Xavfli biznes / Gringo gazetasi Meksika",
         "trailer": "https://ok.ru/video/399482424059",
         "year": "2018"
+      },
+      "-Nx6bbHmDdwy1Cs1ridC": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Hayotdan charchagan kaskadyor Kolt istaksiz ravishda o'z kasbiga qaytib, sobiq sevgilisi Jodiga o'zining birinchi filmi - ko'p million dollarlik byudjetga ega blokbasterni suratga olishda yordam beradi. Vaziyat etakchi aktyorning yo'qolishi bilan murakkablashdi.",
+        "genre": "Jangari Komediya Drama ",
+        "imdb": "7.3",
+        "img": "https://i.imgur.com/irScPep.jpeg",
+        "link": "https://ok.ru/video/8015923055171",
+        "push": "-Nx6bbHmDdwy1Cs1ridC",
+        "state": "AQSH Avstriya Kanada ",
+        "time": "05052024121931",
+        "title": "Kaskadyorlar",
+        "trailer": "https://vk.com/video-113076019_456250156",
+        "year": "2034"
       }
     },
     "KOMEDIYA": {
@@ -6152,6 +6167,10 @@
     "-Nx6NFYaDQlq_EA_6SFj": {
       "id": "-Nx6NFXkv-9wAepT_vcx",
       "img": "https://i.imgur.com/Yvz9coP.jpeg"
+    },
+    "-Nx6bbINfpcN23JtN_OE": {
+      "id": "-Nx6bbHmDdwy1Cs1ridC",
+      "img": "https://i.imgur.com/irScPep.jpeg"
     }
   },
   "MULTISERIAL": {
