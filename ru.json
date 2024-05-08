@@ -413,6 +413,21 @@
         "title": "Машина",
         "trailer": "https://vk.com/video-91086344_456239754",
         "year": "2023"
+      },
+      "-NxNrVxCXrtyHcWRY2nc": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Трудоголичка Элли возвращается в родной провинциальный городок, где встречает первую любовь — Шона, к которому у нее вновь появляются чувства. Правда, мужчина помолвлен, а его будущая невеста сильно напоминает Элли молодую себя: беспечную, оптимистичную и открытую новым возможностям.",
+        "genre": "Комедия Романтика ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/3vdwQZe.jpeg",
+        "link": "https://vk.com/video-95619595_456253510",
+        "push": "-NxNrVxCXrtyHcWRY2nc",
+        "state": "США ",
+        "time": "08052024084139",
+        "title": "Кто-то, кого я знал",
+        "trailer": "https://vk.com/video-40191159_456259445",
+        "year": "2023"
       }
     },
     "MULTFILM": {
@@ -1225,6 +1240,10 @@
     "-Nx0mI8m_uHZyBkdmSf-": {
       "id": "-Nx0mI7rpd0F2Eb6t5T6",
       "img": "https://i.imgur.com/L5Rp1sP.jpeg"
+    },
+    "-NxNrVxujDp2SPNjBsVP": {
+      "id": "-NxNrVxCXrtyHcWRY2nc",
+      "img": "https://i.imgur.com/3vdwQZe.jpeg"
     }
   },
   "MULTISERIAL": {
