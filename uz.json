@@ -3713,6 +3713,21 @@
         "title": "Kaskadyorlar",
         "trailer": "https://vk.com/video-113076019_456250156",
         "year": "2034"
+      },
+      "-NxSolczIxDezyRQ2G1T": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Mashina portlashi oqibatida prezidentlikka nomzodni o'ldirganlikda yolg'on ayblangan yetkazib beruvchi o'z hayotini saqlab qolishga majbur bo'ladi.",
+        "genre": "Jangari Kriminal Drama ",
+        "imdb": "5.9",
+        "img": "https://i.imgur.com/7lRwYci.jpeg",
+        "link": "https://ok.ru/video/6859818863198",
+        "push": "-NxSolczIxDezyRQ2G1T",
+        "state": "Janubiy Koreya ",
+        "time": "09052024074747",
+        "title": "Oltin uyqu",
+        "trailer": "https://vk.com/video-64354864_456240540",
+        "year": "2018"
       }
     },
     "KOMEDIYA": {
@@ -4344,6 +4359,21 @@
         "time": "04052024053015",
         "title": "Xarlan Trombining sirli o'limi 1 / Sirli o'lim izidan 1 / Qindan chiqqan pichoq 1",
         "trailer": "https://ok.ru/video/2043044956915",
+        "year": "2019"
+      },
+      "-NxSq9SijWHu943SORPJ": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Fred Bartel - Happy Few modali Parij aloqa agentligining xarizmatik boshlig'i. Qizg'in soliq tekshiruvidan so'ng, ma'muriyat uni o'z kompaniyasini La Courneuvega ko'chirishga majbur qiladi ...",
+        "genre": "Komediya ",
+        "imdb": "5.9",
+        "img": "https://i.imgur.com/7QAV55Y.jpeg",
+        "link": "https://ok.ru/video/6859840293470",
+        "push": "-NxSq9SijWHu943SORPJ",
+        "state": "Fransiya Belgiya ",
+        "time": "09052024075350",
+        "title": "Xotirjamlik",
+        "trailer": "https://ok.ru/video/6859840293470",
         "year": "2019"
       }
     },
@@ -6171,6 +6201,14 @@
     "-Nx6bbINfpcN23JtN_OE": {
       "id": "-Nx6bbHmDdwy1Cs1ridC",
       "img": "https://i.imgur.com/irScPep.jpeg"
+    },
+    "-NxSoldYA1AECBhWlHzI": {
+      "id": "-NxSolczIxDezyRQ2G1T",
+      "img": "https://i.imgur.com/7lRwYci.jpeg"
+    },
+    "-NxSq9Tbs_Dty1WmOts4": {
+      "id": "-NxSq9SijWHu943SORPJ",
+      "img": "https://i.imgur.com/7QAV55Y.jpeg"
     }
   },
   "MULTISERIAL": {
