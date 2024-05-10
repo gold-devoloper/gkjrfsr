@@ -4420,6 +4420,21 @@
         "title": "Yalangayoq mahbubam",
         "trailer": "https://ok.ru/video/28104854222",
         "year": "2014"
+      },
+      "-NxYgOKocQAKPvjC-T9Z": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Uoll-Stritdagi eng boy kompaniyani boshqaruvchi muvaffaqiyatli menejer Luis Wintropning hayoti uning xo'jayinlari, Dyuk birodarlar, g'ayritabiiy bahslarga duch kelganidan keyin keskin o'zgarib turadi. Birodarlardan biri kompaniyani hech kim boshqarishi mumkin, hatto eng taniqli va o'qimagan prohodimets.\n\nBir dollar qo'yib, birodarlar o'zlarining tajribalari uchun Wintrop o'rniga kompaniyani boshqarishni taklif qiladigan ko'cha aldovchisi Billy Ray Valentinni topishadi. Eksantrik juftlik Dyukov va prohodimets va katta tadbirkorni almashtirib, ular tasavvur qilishdan ko'ra ko'proq xavf-xatarga duchor bo'lishlarini shubha qilmaydi.",
+        "genre": "Komediya ",
+        "imdb": "7.5",
+        "img": "https://i.imgur.com/36CPVqd.jpeg",
+        "link": "https://ok.ru/video/1412576512711",
+        "push": "-NxYgOKocQAKPvjC-T9Z",
+        "state": "AQSH ",
+        "time": "10052024110853",
+        "title": "G'aroyib garov / O'yindan o't chiqdi",
+        "trailer": "https://ok.ru/video/1614078020100",
+        "year": "1983"
       }
     },
     "MULTFILM": {
@@ -6266,6 +6281,10 @@
     "-NxXxr-Sd2LqkCTHF-eU": {
       "id": "-NxXxqzmO4oTYKI86VAo",
       "img": "https://i.imgur.com/fixjUeV.jpeg"
+    },
+    "-NxYgOLcuWBZU4GL3sEX": {
+      "id": "-NxYgOKocQAKPvjC-T9Z",
+      "img": "https://i.imgur.com/36CPVqd.jpeg"
     }
   },
   "MULTISERIAL": {
