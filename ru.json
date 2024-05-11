@@ -717,6 +717,51 @@
         "title": "Наложница",
         "trailer": "https://vk.com/video-113071474_456269694",
         "year": "2012"
+      },
+      "-Nxbuy672Ex-_CrQQwq6": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ян Дара растет в доме, лишенном любви, но богатом похотью. Вскоре он принимает греховный образ жизни своего отчима Кхун Луанга, который женился на его матери после того, как ее изнасиловали.",
+        "genre": "Драма Романтика ",
+        "imdb": "6.0",
+        "img": "https://i.imgur.com/zUndm3Z.jpeg",
+        "link": "https://vk.com/video-64354864_456244566",
+        "push": "-Nxbuy672Ex-_CrQQwq6",
+        "state": "Таиланд",
+        "time": "11052024065103",
+        "title": "Месть Ян Дары",
+        "trailer": "https://ok.ru/video/2367535581803",
+        "year": "2001"
+      },
+      "-Nxbw5b4kagvK_vAjlf8": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Действие происходит в 1930-х годах. История Яна, мальчика, который растет в доме, которым управляет его садистский и развратный отец Луанг Виснан. История повествует о проблемах роста Яна, чья мать умерла...",
+        "genre": "Драма Романтика ",
+        "imdb": "5.6",
+        "img": "https://i.imgur.com/MN5shnI.jpeg",
+        "link": "https://vk.com/video-64354864_456244559",
+        "push": "-Nxbw5b4kagvK_vAjlf8",
+        "state": "Таиланд",
+        "time": "11052024065600",
+        "title": "Ян Дара: Начало",
+        "trailer": "https://vk.com/video-36523445_456239681",
+        "year": "2012"
+      },
+      "-Nxby6ZJSPVYqMCXJ62A": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ян Дара возвращается в Бангкок, чтобы отомстить человеку, превратившему его жизнь в ад. Огонь мести поглощает его так сильно, что он становится человеком, которого ненавидел всю свою жизнь... ",
+        "genre": "Драма ",
+        "imdb": "5.5",
+        "img": "https://i.imgur.com/NsNzUy3.jpeg",
+        "link": "https://vk.com/video-64354864_456244565",
+        "push": "-Nxby6ZJSPVYqMCXJ62A",
+        "state": "Таиланд",
+        "time": "11052024070448",
+        "title": "Ян Дара: Финал",
+        "trailer": "https://vk.com/video-220787057_456334919",
+        "year": "2013"
       }
     },
     "QORQINCHLI": {
@@ -1263,6 +1308,22 @@
     "-Nxbaa6KmDlGfzqEc-T7": {
       "id": "-Nxbaa5RMNMN0YBK8DBN",
       "img": "https://i.imgur.com/h3F1jcA.jpeg"
+    },
+    "-Nxbrmr2gdLRCYRdxSb3": {
+      "id": "-NxbrmqNYGw-NSHgmiNO",
+      "img": "https://i.imgur.com/EQmJT3H.jpeg"
+    },
+    "-Nxbuy6fk2wniarFXfdI": {
+      "id": "-Nxbuy672Ex-_CrQQwq6",
+      "img": "https://i.imgur.com/zUndm3Z.jpeg"
+    },
+    "-Nxbw5bh6LKmtx3lZSzC": {
+      "id": "-Nxbw5b4kagvK_vAjlf8",
+      "img": "https://i.imgur.com/MN5shnI.jpeg"
+    },
+    "-Nxby6_-0g3aYHN3px8F": {
+      "id": "-Nxby6ZJSPVYqMCXJ62A",
+      "img": "https://i.imgur.com/NsNzUy3.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -1610,6 +1671,21 @@
       "title": "Принцесса и оборотень",
       "trailer": "https://ok.ru/video/6755290581567",
       "year": "2023"
+    },
+    "-NxbrmqNYGw-NSHgmiNO": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Невзрачная школьная учительница из глубинки влюбляется в развитого не по годам ученика, что приводит к катастрофическим последствиям.",
+      "genre": "Драма ",
+      "id": "ATEACHER",
+      "imdb": "6.9",
+      "img": "https://i.imgur.com/EQmJT3H.jpeg",
+      "push": "-NxbrmqNYGw-NSHgmiNO",
+      "state": "США ",
+      "time": "11052024063710",
+      "title": "Учитeльницa",
+      "trailer": "https://vk.com/video-75838488_456243946",
+      "year": "2020"
     }
   },
   "SERIALKOREA": {
@@ -1889,6 +1965,15 @@
     }
   },
   "SERIALX": {
+    "ATEACHER": {
+      "-Nxbs8uagKD8H3n0-Uh0": {
+        "id": "ATEACHER",
+        "img": "https://i.imgur.com/EQmJT3H.jpeg",
+        "link": "https://vk.com/video-138636759_456248777",
+        "part": 1,
+        "title": "Учитeльницa"
+      }
+    },
     "AVATARANGRU": {
       "-NruKrB1WmNJ5DbCcpgH": {
         "id": "AVATARANGRU",
