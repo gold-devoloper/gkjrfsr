@@ -3788,6 +3788,36 @@
         "title": "Urush va tinchlik",
         "trailer": "https://vk.com/video-219538289_456240380",
         "year": "1965"
+      },
+      "-NxbKZGkAH-6o1J-Ybn6": {
+        "age": 12,
+        "child": "KINO",
+        "description": "1930-yillarda Shimoliy Xitoydagi jang sanʼati maktabining keksa asoschisi Gong Yutyan oʻzining takabbur shogirdi Ma Sanni tayinlab, munosib voris izlaydi va janubdan oʻz voris izlay boshlaydi. Jang san'atining eng yaxshi ustalari o'z mahoratlarini namoyish qilish uchun duelda kurashadilar, ammo kamtarin Ip Man g'olib bo'lib chiqadi, ammo ustaning qizi Gong Er turnir natijasidan norozi bo'lib, uni noloyiq deb biladi. Muvaffaqiyatdan foydalanishga Ikkinchi Xitoy-Yaponiya urushining kutilmagan boshlanishi to'sqinlik qiladi, Ip Man va uning oilasi Gonkongga ko'chib o'tishga majbur bo'ladi, u erda yashash uchun qiyin kurash boshlanadi.",
+        "genre": "Jangari Biografiya Drama ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/ZR5A8cD.jpeg",
+        "link": "https://ok.ru/video/6861983844958",
+        "push": "-NxbKZGkAH-6o1J-Ybn6",
+        "state": "Xitoy Gonkong ",
+        "time": "11052024040738",
+        "title": "Ulug' ustoz",
+        "trailer": "https://ok.ru/video/6861983844958",
+        "year": "2013"
+      },
+      "-NxbMGbTWfhH_wUQojmM": {
+        "age": 16,
+        "child": "KINO",
+        "description": "1598 yil 16 dekabrda Noryang bo'g'ozidagi dengiz jangi hikoyasi, Imjin urushining so'nggi jangi. Admiral Yi Sun Sin boshchiligidagi 150 ta kemadan iborat Koreya floti yapon bosqinchilarining 500 ta kemasiga qarshi turadi.",
+        "genre": "Jangari Biografiya Tarixiy ",
+        "imdb": "6.4",
+        "img": "https://i.imgur.com/65qFiSM.jpeg",
+        "link": "https://ok.ru/video/6872296655454",
+        "push": "-NxbMGbTWfhH_wUQojmM",
+        "state": "Janubiy Koreya ",
+        "time": "11052024041506",
+        "title": "Noryang jangi / Noryang bo'g'ozidagi urush",
+        "trailer": "https://vk.com/video-176675269_456252145",
+        "year": "2023"
       }
     },
     "KOMEDIYA": {
@@ -6323,6 +6353,14 @@
     "-NxbC9uUp3nSwZOeEVfp": {
       "id": "-NxbC9u1iNgKZNMgUvTe",
       "img": "https://i.imgur.com/2fcOS1R.jpeg"
+    },
+    "-NxbKZHo4mFEXl7fNMS8": {
+      "id": "-NxbKZGkAH-6o1J-Ybn6",
+      "img": "https://i.imgur.com/ZR5A8cD.jpeg"
+    },
+    "-NxbMGc3CPTp0HYkzfOq": {
+      "id": "-NxbMGbTWfhH_wUQojmM",
+      "img": "https://i.imgur.com/65qFiSM.jpeg"
     }
   },
   "MULTISERIAL": {
