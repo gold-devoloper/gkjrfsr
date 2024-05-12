@@ -3818,6 +3818,36 @@
         "title": "Noryang jangi / Noryang bo'g'ozidagi urush",
         "trailer": "https://vk.com/video-176675269_456252145",
         "year": "2023"
+      },
+      "-NxhJFdYAuqISZe0ORmA": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Urush dramasi 1941 yil iyun oyida Sovet Ittifoqiga fashistlar bostirib kirishi paytida Sovet qo'shinlari to'qqiz kun davomida chegara istehkomini ushlab turishgan.",
+        "genre": "Urush Jangari Tarixiy Drama ",
+        "imdb": "7.4",
+        "img": "https://i.imgur.com/as4ajvN.jpeg",
+        "link": "https://ok.ru/video/6876386888286",
+        "push": "-NxhJFdYAuqISZe0ORmA",
+        "state": "Rossiya Belarus",
+        "time": "12052024075938",
+        "title": "Brest qalasi",
+        "trailer": "https://ok.ru/video/6876386888286",
+        "year": "2010"
+      },
+      "-NxhMVtQbqOAnLBGZvtP": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Xitoy Xalq Respublikasi tashkil topganligining oltmish yilligiga bag'ishlangan epik tarixiy drama. Film Mao Zedong boshchiligidagi kommunistlar Chiang Kay-Shek millatchilariga qarshi demokratik koalitsion hukumat tuzish uchun muvaffaqiyatsiz urinishdan so'ng kurashgan 1945-1949 yillardagi voqealarga bag'ishlangan. 1948 yilda hanuzgacha muhim maslahat organi bo'lgan xalq siyosiy maslahat kengashining yig'ilishi qanday o'tkazilganligini ko'ramiz.",
+        "genre": "Jangari Drama Tarixiy Romantika ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/PwxkwaY.jpeg",
+        "link": "https://ok.ru/video/6876415986270",
+        "push": "-NxhMVtQbqOAnLBGZvtP",
+        "state": "Xitoy ",
+        "time": "12052024081351",
+        "title": "Dovon",
+        "trailer": "https://vk.com/video-213744_171446966",
+        "year": "2014"
       }
     },
     "KOMEDIYA": {
@@ -6361,6 +6391,14 @@
     "-NxbMGc3CPTp0HYkzfOq": {
       "id": "-NxbMGbTWfhH_wUQojmM",
       "img": "https://i.imgur.com/65qFiSM.jpeg"
+    },
+    "-NxhJFeKabSvytEgj8ZE": {
+      "id": "-NxhJFdYAuqISZe0ORmA",
+      "img": "https://i.imgur.com/as4ajvN.jpeg"
+    },
+    "-NxhMVtwqBc4gYHpjhxD": {
+      "id": "-NxhMVtQbqOAnLBGZvtP",
+      "img": "https://i.imgur.com/PwxkwaY.jpeg"
     }
   },
   "MULTISERIAL": {
