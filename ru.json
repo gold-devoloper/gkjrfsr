@@ -1324,6 +1324,10 @@
     "-Nxby6_-0g3aYHN3px8F": {
       "id": "-Nxby6ZJSPVYqMCXJ62A",
       "img": "https://i.imgur.com/NsNzUy3.jpeg"
+    },
+    "-Nxk3aHXKklG7KnBIw0y": {
+      "id": "-Nxk3aHAy7fUyyoNSxEX",
+      "img": "https://i.imgur.com/UMndgjL.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -1686,6 +1690,21 @@
       "title": "Учитeльницa",
       "trailer": "https://vk.com/video-75838488_456243946",
       "year": "2020"
+    },
+    "-Nxk3aHAy7fUyyoNSxEX": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Зомби-эпидемия захлестнула планету. Шериф Рик Граймс путешествует с семьей и небольшой группой выживших в поисках безопасного места. Но постоянный страх смерти каждый день приносит тяжелые потери, заставляя товарищей по несчастью чувствовать глубины человеческой жестокости. Рик пытается спасти близких и понимает, что всепоглощающий страх людей может быть опаснее ходячих мертвецов.",
+      "genre": "Драма Ужастик Триллер ",
+      "id": "THEWALKINGDEAD",
+      "imdb": "8.1",
+      "img": "https://i.imgur.com/UMndgjL.jpeg",
+      "push": "-Nxk3aHAy7fUyyoNSxEX",
+      "state": "США ",
+      "time": "13052024085004",
+      "title": "Ходячие мертвецы",
+      "trailer": "https://vk.com/video-5175163_456247788",
+      "year": "2010"
     }
   },
   "SERIALKOREA": {
@@ -3455,6 +3474,85 @@
         "link": "https://vk.com/video-224905498_456239057",
         "part": 2,
         "title": "Сёгун"
+      }
+    },
+    "THEWALKINGDEAD": {
+      "-Nxk5clBdQXM1qyjHqi9": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239383",
+        "part": 1,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk5qh6wx29RL0uEDxo": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239388",
+        "part": 2,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk60m8oja84_BczODa": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239427",
+        "part": 3,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk68UpL75SBle1cb2e": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239443",
+        "part": 4,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk6FYW3tjaAHzfDRds": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239466",
+        "part": 5,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk6a1oHnL72fekE58Q": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239485",
+        "part": 6,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk6k2LFBvwPyV7O198": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239497",
+        "part": 7,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk705iEOhQAEgi0KAK": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239510",
+        "part": 8,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk7dgNDfBnqiWyRfDD": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239525",
+        "part": 9,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk7kOCllrcfuvJtuoX": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239538",
+        "part": 10,
+        "title": "Ходячие мертвецы"
+      },
+      "-Nxk7qJk9nleVMOiBnPd": {
+        "id": "THEWALKINGDEAD",
+        "img": "https://i.imgur.com/UMndgjL.jpeg",
+        "link": "https://vk.com/video-194175662_456239551",
+        "part": 11,
+        "title": "Ходячие мертвецы"
       }
     }
   },
