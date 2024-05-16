@@ -1174,6 +1174,21 @@
         "title": "Unsurlar hukmdori 2",
         "trailer": "https://ok.ru/video/6861955271262",
         "year": "2009"
+      },
+      "-NxznMJGB3u6PP-6tDVw": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Tusk, Munk va Aleks o'zlarining kichik Mulberry Vuds shaharchasi orqali yangi magistral qurilayotgani sababli yo'llarini ajratishga majbur bo'lgan eng yaxshi do'stlardir. Ko'chib o'tishdan bir necha kun oldin o'smirlar uyali telefonlarida g'alati signallarni qabul qila boshlaydilar va manba topishga qaror qilishadi. O'g'il bolalarning izlanishlari ularni cho'lning o'rtasida joylashgan tashlandiq fermaga olib boradi, u erda ular \"Echo\" laqabini olgan kichkina kibernetik o'zga sayyoralik o'z kemasiga halokatli qo'ndi. Boshqa maktab do'sti Emma bilan birgalikda bolalar o'zga sayyoralikni qanday qilib uyga olib kelishni aniqlaydilar.",
+        "genre": "Sarguzashtlar Oilaviy Ilmiy-fantastik ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/BeK9ooN.jpeg",
+        "link": "https://ok.ru/video/6881253132894",
+        "push": "-NxznMJGB3u6PP-6tDVw",
+        "state": "AQSH ",
+        "time": "16052024100842",
+        "title": "Samo sadosi / G'aroyib tovushlar / Tashqi aks-sado",
+        "trailer": "https://vk.com/video-53757893_171118076",
+        "year": "2014"
       }
     },
     "HIND": {
@@ -4600,6 +4615,21 @@
         "title": "G'aroyib enaga",
         "trailer": "https://ok.ru/video/2568447855109",
         "year": "2005"
+      },
+      "-Nxzpd-lzM-nElaGQXAi": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Gonkonglik adolatli hissiyotga ega bo'lgan politsiyachi Fellon Chu o'zining kelini bilan to'yda fotosessiyaga boradigan kuni bank qaroqchilarini qo'lga olishga qaror qildi va shu bilan politsiya idorasini yo'q qildi va xo'jayini biroz ezdi. Natijada, u kelinning navbatini oldi va tergovchi tomonidan kelin tomonidan ishdan bo'shatildi, keyin u ashyoviy dalillar bo'limidagi qo'riqchilar oldiga bordi, biroz tushkunlikka tushdi va muammolarini tortib olishga kirishdi. Olti oy o'tgach, bizning qahramonimiz muammolarning echimini topdi, ammo og'irlik sezilarli darajada oshdi. Ushbu ayanchli manzarani ko'rib, sobiq sherik Juga oddiy vazifani - mahbusni Yaponiyaga olib borishni va shu bilan birga uni bo'shatishni topshiradi. Ammo qo'nganidan keyin darhol huquqbuzar qochib ketadi va bizning politsiyachimiz o'zining barcha g'ayrioddiy qobiliyatlari va qobiliyatlarini ishga solishga majbur bo'ladi, siz bilganingizdek, ularni engib bo'lmaydi.",
+        "genre": "Jangari Komediya ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/7qhl9ky.jpeg",
+        "link": "https://ok.ru/video/6884641737310",
+        "push": "-Nxzpd-lzM-nElaGQXAi",
+        "state": "Gonkong ",
+        "time": "16052024101839",
+        "title": "Baqaloq ajdar / Do'mboq ajdar",
+        "trailer": "https://vk.com/video-124416357_456241831",
+        "year": "2020"
       }
     },
     "MULTFILM": {
@@ -6498,6 +6528,14 @@
     "-NxqzBYAMTSegtJtjwfQ": {
       "id": "-NxqzBXaKhYTsSgSmJuq",
       "img": "https://i.imgur.com/vGXk1fN.jpeg"
+    },
+    "-NxznMJkejdzmcU7n5QA": {
+      "id": "-NxznMJGB3u6PP-6tDVw",
+      "img": "https://i.imgur.com/BeK9ooN.jpeg"
+    },
+    "-Nxzpd0__sZce5W2tYNJ": {
+      "id": "-Nxzpd-lzM-nElaGQXAi",
+      "img": "https://i.imgur.com/7qhl9ky.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -7694,6 +7732,12 @@
       "img": "soon",
       "time": "03052024111339",
       "title": "Rus bazaga endi kirishingiz mumkin."
+    },
+    "-NxwJbkCUqeiyI9xGXkY": {
+      "desc": "Rus bazaga yangi filmlar joylandi",
+      "img": "soon",
+      "time": "15052024055531",
+      "title": "Rus bazaga yangi filmlar joylandi"
     }
   },
   "SERIAL": {
