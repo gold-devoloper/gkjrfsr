@@ -1,4 +1,109 @@
 {
+  "ANIMES": {
+    "-Ny0e_YfdOPhSqfGwUKx": {
+      "age": 16,
+      "child": "ANIMESX",
+      "description": "Bu ishni shunchaki o‘yin-kulgi uchun qiladigan va bir musht bilan dushmanlarini mag‘lub eta oladigan qahramon Sayamaning hikoyasi.",
+      "genre": "Animatsiya Jangari Komediya ",
+      "id": "BIRZARBLIODAM",
+      "imdb": "8.7",
+      "img": "https://i.imgur.com/YsGP3G2.jpeg",
+      "push": "-Ny0e_YfdOPhSqfGwUKx",
+      "state": "Yaponiya",
+      "time": "16052024064936",
+      "title": "Bir zarbli odam",
+      "trailer": "https://ok.ru/video/882147592743",
+      "year": "2015"
+    }
+  },
+  "ANIMESX": {
+    "BIRZARBLIODAM": {
+      "-Ny0f182wL1yOrBU2P8S": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/882099948071",
+        "part": 1,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0f4arHkT5TLKvYPqN": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/882178198055",
+        "part": 2,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0f8KzTQyLhU1x_LnE": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/883761416743",
+        "part": 3,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fBpTIyHM4GM8lSqT": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/883952192039",
+        "part": 4,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fF-Dwu9IcHF-0P7s": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/884053051943",
+        "part": 5,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fIFPLjzSO43i3vQI": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/884385319463",
+        "part": 6,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fLj2Fx_w3CjzG-eC": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/884506495527",
+        "part": 7,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fPPDb1vRclyrQlvN": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/884849510951",
+        "part": 8,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fSU0xJ2jKRAQRXYf": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/885038975527",
+        "part": 9,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fVlQgz_geYcuMYjE": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/885125745191",
+        "part": 10,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fZ8_P_GHb-JCJ9po": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/886861269543",
+        "part": 11,
+        "title": "Bir zarbli odam"
+      },
+      "-Ny0fbQ78nL4SgXhdv5j": {
+        "id": "BIRZARBLIODAM",
+        "img": "https://i.imgur.com/YsGP3G2.jpeg",
+        "link": "https://ok.ru/video/886913436199",
+        "part": 12,
+        "title": "Bir zarbli odam"
+      }
+    }
+  },
   "CATEGORY": {
     "-NcjP0OxLMebzgK9Rzmn": {
       "id": "JANGARI",
@@ -1189,6 +1294,21 @@
         "title": "Samo sadosi / G'aroyib tovushlar / Tashqi aks-sado",
         "trailer": "https://vk.com/video-53757893_171118076",
         "year": "2014"
+      },
+      "-Ny0-mDE4_pEw12YZkvD": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Qachonki, yolg'onchi rejim Indoneziyaning oziq-ovqat ta'minotiga hokimiyat uchun da'vogarlik qilganda, sobiq dengiz piyodasi dushmanlarcha bosib olishni tugatish uchun sobiq o'rtoqlar jamoasini yig'adi.",
+        "genre": "Jangari Drama Ilmiy-fantastik ",
+        "imdb": "5.4",
+        "img": "https://i.imgur.com/i7IKdvs.jpeg",
+        "link": "https://ok.ru/video/6884575677022",
+        "push": "-Ny0-mDE4_pEw12YZkvD",
+        "state": "AQSH Indoneziya",
+        "time": "16052024034657",
+        "title": "Fokstrot guruhi",
+        "trailer": "https://ok.ru/video/1544998095600",
+        "year": "2019"
       }
     },
     "HIND": {
@@ -2285,6 +2405,21 @@
         "time": "13052024101244",
         "title": "Orzular shahri / Bangalurdagi kunlar",
         "trailer": "https://ok.ru/video/5463541195",
+        "year": "2014"
+      },
+      "-Ny-y39XfWCOXgYkB_qT": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Pijay, begonadir, Rajostan sahrosida yer yuzida inson tabiati va hayotini o'rganish uchun yerga tushdi. Ammo sayyoramiz uni juda qo'pol tarzda qarshi oldi - masofadan boshqarish uni o'g'irlab ketishdi, u bilan u kosmik kemasi bilan aloqa qildi. Endi u masofadan boshqarishni topishi kerak, ammo shu vaqtgacha u Yer yuzida o'z yo'lida omon qolishi kerak. PiKay hech kim so'ramagan savollarni so'raydi. Uning bolalikning qiziqishi fojiali oqibatlarga olib keladi. Ko'p asrlardan beri paydo bo'lgan odamlar PiKei ning begunoh ko'zlari bilan unga qarashlari bilan o'zlarining dunyosini qadrlashadi.",
+        "genre": "Drama Komediya Ilmiy-fantastik ",
+        "imdb": "8.1",
+        "img": "https://i.imgur.com/WIi3PIx.jpeg",
+        "link": "https://ok.ru/video/354069778726",
+        "push": "-Ny-y39XfWCOXgYkB_qT",
+        "state": "Hindiston ",
+        "time": "16052024033504",
+        "title": "Pikey",
+        "trailer": "https://ok.ru/video/5978352323119",
         "year": "2014"
       }
     },
@@ -6536,6 +6671,18 @@
     "-Nxzpd0__sZce5W2tYNJ": {
       "id": "-Nxzpd-lzM-nElaGQXAi",
       "img": "https://i.imgur.com/7qhl9ky.jpeg"
+    },
+    "-Ny-y3A8QrikWEQ4qG8b": {
+      "id": "-Ny-y39XfWCOXgYkB_qT",
+      "img": "https://i.imgur.com/WIi3PIx.jpeg"
+    },
+    "-Ny0-mDi8_5UD2RHs33p": {
+      "id": "-Ny0-mDE4_pEw12YZkvD",
+      "img": "https://i.imgur.com/i7IKdvs.jpeg"
+    },
+    "-Ny0e_Z567PTWTO2pJlL": {
+      "id": "-Ny0e_YfdOPhSqfGwUKx",
+      "img": "https://i.imgur.com/YsGP3G2.jpeg"
     }
   },
   "MULTISERIAL": {
