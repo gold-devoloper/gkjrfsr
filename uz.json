@@ -1309,6 +1309,21 @@
         "title": "Fokstrot guruhi",
         "trailer": "https://ok.ru/video/1544998095600",
         "year": "2019"
+      },
+      "-Ny3stYpnnsW6qmAmhmA": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Beshinchi sinf o'quvchisi Jess Aaronning birinchi sinf o'quvchisi Lesli Burk g'olib chiqqanidan so'ng, sinfdagi eng tez yuguruvchi bo'lish umidlari.\n\nJess va Lesli bir-biriga dushmanlik qilish uchun etarli sabablarga ega, ammo shunga qaramay ular o'rtasida do'stlik mavjud. Agar o'rmonda kashf etilgan sehrli qirollikda siz shoh va malika bo'lishingiz kerak bo'lsa, nima uchun do'stlar orttirmaysiz?",
+        "genre": "Drama Oilaviy Fantastika ",
+        "imdb": "7.2",
+        "img": "https://i.imgur.com/SE0E0lt.jpeg",
+        "link": "https://ok.ru/video/6884607068766",
+        "push": "-Ny3stYpnnsW6qmAmhmA",
+        "state": "AQSH ",
+        "time": "17052024095059",
+        "title": "Terabitiyaga sayohat",
+        "trailer": "https://ok.ru/video/2635223468727",
+        "year": "2007"
       }
     },
     "HIND": {
@@ -6683,6 +6698,10 @@
     "-Ny0e_Z567PTWTO2pJlL": {
       "id": "-Ny0e_YfdOPhSqfGwUKx",
       "img": "https://i.imgur.com/YsGP3G2.jpeg"
+    },
+    "-Ny3stZVqoBQmowsk1TC": {
+      "id": "-Ny3stYpnnsW6qmAmhmA",
+      "img": "https://i.imgur.com/SE0E0lt.jpeg"
     }
   },
   "MULTISERIAL": {
