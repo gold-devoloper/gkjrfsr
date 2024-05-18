@@ -167,6 +167,51 @@
         "title": "Seni isming",
         "trailer": "https://vk.com/video-79914935_456239632",
         "year": "2016"
+      },
+      "-Ny9eNzlVOgFXYJmBjAF": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Shoya Ishida ismli yigit kutilmaganda maktabda u sinfdoshi Shokoning hayotini faqat kar bo'lganligi sababli do'zaxga aylantirganini tushunadi. Va endi, kechikib bo'lsa ham, yigit tushundi - sizni tinglamaydigan odamga biron bir muhim narsani aytishni xohlasangiz, ovozni ishlatishingiz shart emas.",
+        "genre": "Drama Animatsiya ",
+        "imdb": "8.1",
+        "img": "https://i.imgur.com/pDUMYri.jpeg",
+        "link": "https://ok.ru/video/916440418855",
+        "push": "-Ny9eNzlVOgFXYJmBjAF",
+        "state": "Yaponiya",
+        "time": "18052024124519",
+        "title": "Ovoz shakli",
+        "trailer": "https://vk.com/video-192079329_456239352",
+        "year": "2016"
+      },
+      "-Ny9g6Gi5gWai5miBMx9": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Tokioda yomg'irli tongda 15 yoshli etikdo'zlikka intiluvchi Takao go'zal bog'da eskizlar chizish uchun darsni tashlab ketishga qaror qildi. Bu yerda u go‘zal, ammo sirli Yukari bilan uchrashadi...",
+        "genre": "Animatsiya Drama Romantika ",
+        "imdb": "7.4",
+        "img": "https://i.imgur.com/FKJqw80.jpeg",
+        "link": "https://ok.ru/video/918473607719",
+        "push": "-Ny9g6Gi5gWai5miBMx9",
+        "state": "Yaponiya",
+        "time": "18052024125251",
+        "title": "Nafis so'zlar bog'i",
+        "trailer": "https://vk.com/video-56121958_456239931",
+        "year": "2013"
+      },
+      "-Ny9hjRjpw7ymUSOpKFC": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Bir-biriga bog'langan uchta segmentda hikoya qilingan Takaki o'zining shafqatsiz qish, sovuq texnologiya va nihoyat, kattalar majburiyatlari va mas'uliyati nozik hayotni sinab ko'rish uchun birlashadigan hayoti haqida hikoya qiladi ... ",
+        "genre": "Drama Animatsiya Oilaviy ",
+        "imdb": "7.5",
+        "img": "https://i.imgur.com/6WHKyj2.jpeg",
+        "link": "https://ok.ru/video/986745342482",
+        "push": "-Ny9hjRjpw7ymUSOpKFC",
+        "state": "Yaponiya",
+        "time": "18052024125957",
+        "title": "Sekuntiga besh santimetr",
+        "trailer": "https://vk.com/video-204987174_456239118",
+        "year": "2007"
       }
     },
     "FANTASTIK": {
@@ -6801,6 +6846,18 @@
     "-Ny9UR40fi-TKhsjKMT7": {
       "id": "-Ny9UR3JuCRB0IS4b0rV",
       "img": "https://i.imgur.com/qf6RDHN.jpeg"
+    },
+    "-Ny9eO-JkSUcnlNHickh": {
+      "id": "-Ny9eNzlVOgFXYJmBjAF",
+      "img": "https://i.imgur.com/pDUMYri.jpeg"
+    },
+    "-Ny9g6H5poYZCDqhyAWb": {
+      "id": "-Ny9g6Gi5gWai5miBMx9",
+      "img": "https://i.imgur.com/FKJqw80.jpeg"
+    },
+    "-Ny9hjSKV-fCWQSMkEvR": {
+      "id": "-Ny9hjRjpw7ymUSOpKFC",
+      "img": "https://i.imgur.com/6WHKyj2.jpeg"
     }
   },
   "MULTISERIAL": {
