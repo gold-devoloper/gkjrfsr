@@ -5639,6 +5639,21 @@
         "title": "Agora",
         "trailer": "https://vk.com/video-37785226_456239718",
         "year": "2009"
+      },
+      "-Ny9UR3JuCRB0IS4b0rV": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Film 19-asr oxirida Italiyadagi dehqonlar hayoti haqida hikoya qiladi.",
+        "genre": "Drama Tarixiy ",
+        "imdb": "7.8",
+        "img": "https://i.imgur.com/qf6RDHN.jpeg",
+        "link": "https://ok.ru/video/4958318627351",
+        "push": "-Ny9UR3JuCRB0IS4b0rV",
+        "state": "Italiya",
+        "time": "18052024115728",
+        "title": "Kovush uchun kesilgan daraxt",
+        "trailer": "https://ok.ru/video/4958318627351",
+        "year": "1978"
       }
     },
     "QORQINCHLI": {
@@ -6782,6 +6797,10 @@
     "-Ny9J6lkSSPq1YQbURKA": {
       "id": "-Ny9J6l6N_HNr2ly0Uh0",
       "img": "https://i.imgur.com/j0IKiJq.jpeg"
+    },
+    "-Ny9UR40fi-TKhsjKMT7": {
+      "id": "-Ny9UR3JuCRB0IS4b0rV",
+      "img": "https://i.imgur.com/qf6RDHN.jpeg"
     }
   },
   "MULTISERIAL": {
