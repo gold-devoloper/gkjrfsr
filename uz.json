@@ -2496,6 +2496,21 @@
         "title": "Pikey",
         "trailer": "https://ok.ru/video/5978352323119",
         "year": "2014"
+      },
+      "-NyGDEorDSLCUMDW_VLq": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Imperator Akbar va qirolicha Jodha ko'p yillar davomida farzand uchun ibodat qilib, dunyoga Salim ismli o'g'il berishadi. Shahzoda Salim jasur jangchiga aylanadi. U anarkali raqqosani sevib qoladi, u dastlab ijtimoiy kelib chiqishi farqi tufayli undan ehtiyot bo'ladi, lekin u tez orada uning sevgisini qaytaradi. Imperator Akbar bundan xabar topgach, ota va o‘g‘il o‘rtasida kelishmovchilik paydo bo‘ladi...\n",
+        "genre": "Drama Romantika Urush ",
+        "imdb": "8.1",
+        "img": "https://i.imgur.com/W1YmyAX.jpeg",
+        "link": "https://ok.ru/video/7543191702039",
+        "push": "-NyGDEorDSLCUMDW_VLq",
+        "state": "Hindiston ",
+        "time": "19052024071942",
+        "title": "Buyuk sulola",
+        "trailer": "https://ok.ru/video/7543191702039",
+        "year": "1960"
       }
     },
     "JANGARI": {
@@ -5714,6 +5729,21 @@
         "title": "Kovush uchun kesilgan daraxt",
         "trailer": "https://ok.ru/video/4958318627351",
         "year": "1978"
+      },
+      "-NyGA6KBBpWCfwmnF4aO": {
+        "age": 6,
+        "child": "KINO",
+        "description": "Nadya ulg'ayib, figurali uchuvchi bo'ldi. U xuddi onasi orzu qilganidek, muz kubogini orzu qiladi. Gorin qizining sport karerasiga e'tiroz bildiradi - u uni har qanday qiyinchiliklardan himoya qiladi va uni tushunish mumkin: u juda ko'p narsani yo'qotdi. Yashirin mashg'ulotda Nadya moskvalik yosh va jasur xokkeychi bilan uchrashadi va ular o'rtasida birinchi muhabbat boshlanadi. Ota yigitning his-tuyg'ularining samimiyligiga ishonmaydi va er-xotinni ajratadi.\n\nAmmo to'siqlar faqat haqiqiy sevgini kuchaytiradi va siz sevganingizda, eng ajoyib yakun haqiqatga aylanishi mumkin.",
+        "genre": "Drama Romantika Sport ",
+        "imdb": "5.8",
+        "img": "https://i.imgur.com/scqHyYR.jpeg",
+        "link": "https://ok.ru/video/6893425068638",
+        "push": "-NyGA6KBBpWCfwmnF4aO",
+        "state": "Rossiya ",
+        "time": "19052024070601",
+        "title": "Muz 3",
+        "trailer": "https://ok.ru/video/7545785420366",
+        "year": "2024"
       }
     },
     "QORQINCHLI": {
@@ -6877,6 +6907,14 @@
     "-NyA9BpRFdFXuj9rx0hA": {
       "id": "-NyA9BotGbuXlPGsK-ps",
       "img": "https://i.imgur.com/8B5v4fh.jpeg"
+    },
+    "-NyGA6KjcCuOZK-6jnLX": {
+      "id": "-NyGA6KBBpWCfwmnF4aO",
+      "img": "https://i.imgur.com/scqHyYR.jpeg"
+    },
+    "-NyGDEpMI0iH_eECf3mP": {
+      "id": "-NyGDEorDSLCUMDW_VLq",
+      "img": "https://i.imgur.com/W1YmyAX.jpeg"
     }
   },
   "MULTISERIAL": {
