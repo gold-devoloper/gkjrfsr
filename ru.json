@@ -182,6 +182,21 @@
         "title": "Планета обезьян 4 новое царство",
         "trailer": "https://vk.com/video-136299763_456242086",
         "year": "2024"
+      },
+      "-NyElHkZfvW4gJBBDyp-": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Беа заводит знакомства с воображаемыми друзьями, которых бросили их хозяева.",
+        "genre": "Комедия Драма Анимация ",
+        "imdb": "6.8",
+        "img": "https://i.imgur.com/PMmHLvs.jpeg",
+        "link": "https://vk.com/video-95521435_456245290",
+        "push": "-NyElHkZfvW4gJBBDyp-",
+        "state": "США ",
+        "time": "19052024123335",
+        "title": "Воображаемые друзья",
+        "trailer": "https://vk.com/video-71103349_456239447",
+        "year": "2024"
       }
     },
     "HIND": {
@@ -1385,6 +1400,10 @@
     "-NyE85t3hm0StHs1USSx": {
       "id": "-NyE85srRUWcZaJ-H3ya",
       "img": "https://i.imgur.com/XJKSGXK.jpeg"
+    },
+    "-NyElHlCZkV9_9J2h0AR": {
+      "id": "-NyElHkZfvW4gJBBDyp-",
+      "img": "https://i.imgur.com/PMmHLvs.jpeg"
     }
   },
   "MULTISERIAL": {
