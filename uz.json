@@ -1384,6 +1384,21 @@
         "title": "Terabitiyaga sayohat",
         "trailer": "https://ok.ru/video/2635223468727",
         "year": "2007"
+      },
+      "-NyKmQ3FpwlPPXR6mhLj": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Bir odamning o'layotgan dunyoni qutqarish uchun kelajakka sayohati.",
+        "genre": "Ilmiy-fantastik ",
+        "imdb": "4.9",
+        "img": "https://i.imgur.com/LeSOeQq.jpeg",
+        "link": "https://ok.ru/video/6892567464542",
+        "push": "-NyKmQ3FpwlPPXR6mhLj",
+        "state": "Avstraliya",
+        "time": "20052024043614",
+        "title": "2067",
+        "trailer": "https://ok.ru/video/6577500523009",
+        "year": "2020"
       }
     },
     "HIND": {
@@ -6919,6 +6934,10 @@
     "-NyJr85lmPmM-RRAf8jn": {
       "id": "-NyJr85EchmN4h2VcnJn",
       "img": "https://i.imgur.com/KNUonl5.jpeg"
+    },
+    "-NyKmQ3sTO411E9qP3mk": {
+      "id": "-NyKmQ3FpwlPPXR6mhLj",
+      "img": "https://i.imgur.com/LeSOeQq.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -8127,6 +8146,12 @@
       "img": "soon",
       "time": "17052024060026",
       "title": "Ilovani yangilab olinglar reklmasini kamaytirdik. xatoliklarni tuzatdik. boshqa funksiyalar qo 'shdik."
+    },
+    "-NyKjEu2kvcc8BHTH_I8": {
+      "desc": "Девушка брата qayta joylandi",
+      "img": "soon",
+      "time": "20052024042222",
+      "title": "Девушка брата qayta joylandi"
     }
   },
   "SERIAL": {
