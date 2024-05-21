@@ -2526,6 +2526,21 @@
         "title": "Buyuk sulola",
         "trailer": "https://ok.ru/video/7543191702039",
         "year": "1960"
+      },
+      "-NyQ5odzeuOW1MOZN3Ps": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Bu Mumbayning xarobalaridan bir odamning ekstremal yer osti sport olamiga qilgan sayohati haqida.",
+        "genre": "Jangari Sport Triller ",
+        "imdb": "4.9",
+        "img": "https://i.imgur.com/HG9uR0r.jpeg",
+        "link": "https://ok.ru/video/6893416155742",
+        "push": "-NyQ5odzeuOW1MOZN3Ps",
+        "state": "Hindiston ",
+        "time": "21052024052328",
+        "title": "Telbalar",
+        "trailer": "https://ok.ru/video/6893416155742",
+        "year": "2024"
       }
     },
     "JANGARI": {
@@ -6938,6 +6953,10 @@
     "-NyKmQ3sTO411E9qP3mk": {
       "id": "-NyKmQ3FpwlPPXR6mhLj",
       "img": "https://i.imgur.com/LeSOeQq.jpeg"
+    },
+    "-NyQ5oeY3NBwUK11Gnnc": {
+      "id": "-NyQ5odzeuOW1MOZN3Ps",
+      "img": "https://i.imgur.com/HG9uR0r.jpeg"
     }
   },
   "MULTISERIAL": {
