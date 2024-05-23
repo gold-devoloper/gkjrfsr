@@ -4975,6 +4975,21 @@
         "title": "Kemadan tashqarida",
         "trailer": "https://ok.ru/video/7543190522391",
         "year": "2018"
+      },
+      "-Ny_S5lD56xXGc5mifVu": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Kambag'al oilada tug'ilgan Fanni boy ser Tomas amakisi, uning rafiqasi va to'rt farzandi bilan yashashga jo'natiladi va u erda jamiyat bilan to'g'ri tanishish uchun tarbiyalanadi.",
+        "genre": "Drama Komediya Romantika ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/xQO05Az.jpeg",
+        "link": "https://ok.ru/video/6904476731998",
+        "push": "-Ny_S5lD56xXGc5mifVu",
+        "state": "AQSH Buyuk Britaniya ",
+        "time": "23052024053701",
+        "title": "Mensfild park",
+        "trailer": "https://ok.ru/video/6904476731998",
+        "year": "1999"
       }
     },
     "MULTFILM": {
@@ -7014,6 +7029,10 @@
     "-Ny_2iw9u882pcj8snoe": {
       "id": "-Ny_2ivI2Ik4XOXIwbkX",
       "img": "https://i.imgur.com/1kbN4oQ.jpeg"
+    },
+    "-Ny_S5lsg_rML3c6mKqw": {
+      "id": "-Ny_S5lD56xXGc5mifVu",
+      "img": "https://i.imgur.com/xQO05Az.jpeg"
     }
   },
   "MULTISERIAL": {
