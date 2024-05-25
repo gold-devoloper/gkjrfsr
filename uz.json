@@ -7094,6 +7094,10 @@
     "-NyjLmmToeye-F3YACL3": {
       "id": "-NyjLmluC4vTb3xCBZbf",
       "img": "https://i.imgur.com/n7ua7Fr.jpeg"
+    },
+    "-Nyk9blj5bb6F2ig72jT": {
+      "id": "-Nyk9bl8_vQX9Zy2Ntnl",
+      "img": "https://i.imgur.com/zvVsn83.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -9210,6 +9214,21 @@
       "title": "Esmeralda",
       "trailer": "https://vk.com/video-220787057_456325304",
       "year": "1997"
+    },
+    "-Nyk9bl8_vQX9Zy2Ntnl": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Ser Artur Konan Doyl - dunyodagi eng mashhur detektiv Sherlok Xolmsning \"otasi\" mavzulariga asoslangan qisqa hikoyalar seriyasi Polsha-Britaniya hamkorligida suratga olingan. Har bir epizod bir sep...",
+      "genre": "Drama Detektiv ",
+      "id": "SHERLOKVADOKTRVATSON",
+      "imdb": "7.5",
+      "img": "https://i.imgur.com/zvVsn83.jpeg",
+      "push": "-Nyk9bl8_vQX9Zy2Ntnl",
+      "state": "AQSH Polsha",
+      "time": "25052024073205",
+      "title": "Sherlok Xolms va Doktor Vatson",
+      "trailer": "https://vk.com/video-186124728_456239935",
+      "year": "1980"
     }
   },
   "SERIALKOREA": {
@@ -46017,6 +46036,57 @@
         "link": "https://ok.ru/video/5359226522283",
         "part": 5,
         "title": "Senga oshiqman"
+      }
+    },
+    "SHERLOKVADOKTRVATSON": {
+      "-Nyk9kQYvE_0i_AXF1Ya": {
+        "id": "SHERLOKVADOKTRVATSON",
+        "img": "https://i.imgur.com/zvVsn83.jpeg",
+        "link": "https://vk.com/video-186124728_456239935",
+        "part": 1,
+        "title": "Sherlok Xolms va Doktor Vatson"
+      },
+      "-Nyk9nxThXBNSIZG9vRd": {
+        "id": "SHERLOKVADOKTRVATSON",
+        "img": "https://i.imgur.com/zvVsn83.jpeg",
+        "link": "https://vk.com/video-186124728_456239936",
+        "part": 2,
+        "title": "Sherlok Xolms va Doktor Vatson"
+      },
+      "-Nyk9s30GUVGkPDB_9sE": {
+        "id": "SHERLOKVADOKTRVATSON",
+        "img": "https://i.imgur.com/zvVsn83.jpeg",
+        "link": "https://vk.com/video-186124728_456239939",
+        "part": 3,
+        "title": "Sherlok Xolms va Doktor Vatson"
+      },
+      "-Nyk9v_QVRdPTIX0pux1": {
+        "id": "SHERLOKVADOKTRVATSON",
+        "img": "https://i.imgur.com/zvVsn83.jpeg",
+        "link": "https://vk.com/video-186124728_456239940",
+        "part": 4,
+        "title": "Sherlok Xolms va Doktor Vatson"
+      },
+      "-NykA-2ITXvO6VYWaMgA": {
+        "id": "SHERLOKVADOKTRVATSON",
+        "img": "https://i.imgur.com/zvVsn83.jpeg",
+        "link": "https://vk.com/video-186124728_456239938",
+        "part": 5,
+        "title": "Sherlok Xolms va Doktor Vatson"
+      },
+      "-NykA2pvpomwONgo4kAD": {
+        "id": "SHERLOKVADOKTRVATSON",
+        "img": "https://i.imgur.com/zvVsn83.jpeg",
+        "link": "https://vk.com/video-186124728_456239941",
+        "part": 6,
+        "title": "Sherlok Xolms va Doktor Vatson"
+      },
+      "-NykA6EJbWbLqUz8zK9j": {
+        "id": "SHERLOKVADOKTRVATSON",
+        "img": "https://i.imgur.com/zvVsn83.jpeg",
+        "link": "https://vk.com/video-186124728_456239943",
+        "part": 7,
+        "title": "Sherlok Xolms va Doktor Vatson"
       }
     },
     "SINBADMV": {
