@@ -197,6 +197,21 @@
         "title": "Воображаемые друзья",
         "trailer": "https://vk.com/video-71103349_456239447",
         "year": "2024"
+      },
+      "-NykL29-52zidxcR5If6": {
+        "age": 16,
+        "child": "KINO",
+        "description": "О молодости бесстрашной воительницы Фуриосы.",
+        "genre": "Боевик Приключение Научная фантастика ",
+        "imdb": "8.0",
+        "img": "https://i.imgur.com/R1tms2q.jpeg",
+        "link": "https://vk.com/video-84143224_456239719",
+        "push": "-NykL29-52zidxcR5If6",
+        "state": "Австрия США ",
+        "time": "25052024082201",
+        "title": "Фуриоса: Хроники Безумного Макса",
+        "trailer": "https://vk.com/video-133909446_456245042",
+        "year": "2024"
       }
     },
     "HIND": {
@@ -1511,6 +1526,10 @@
     "-Nyjbf4wRGEeLEaAPWC6": {
       "id": "-Nyjbf4UdfcN5xpNsTdW",
       "img": "https://i.imgur.com/MIFkHAk.jpeg"
+    },
+    "-NykL29_mcC8HxixkHFm": {
+      "id": "-NykL29-52zidxcR5If6",
+      "img": "https://i.imgur.com/R1tms2q.jpeg"
     }
   },
   "MULTISERIAL": {
