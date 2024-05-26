@@ -1530,6 +1530,10 @@
     "-NykL29_mcC8HxixkHFm": {
       "id": "-NykL29-52zidxcR5If6",
       "img": "https://i.imgur.com/R1tms2q.jpeg"
+    },
+    "-NypNsVBiK01JKUujzgS": {
+      "id": "-NypNsUWin48_VpyhmXy",
+      "img": "https://i.imgur.com/0LjVL2m.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -1952,6 +1956,21 @@
       "title": "Cалeм",
       "trailer": "https://vk.com/video-220787057_456297683",
       "year": "2014"
+    },
+    "-NypNsUWin48_VpyhmXy": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "В 1978 году жена наркоторговца Грисельда Бланко вместе с тремя сыновьями бежит из Медельина в Майами. Чтобы раздобыть денег, женщина пытается продать привезённый из Колумбии килограмм кокаина, знакомится с местными дилерами и, преодолевая презрение с их стороны, решает наладить свою сеть поставок и продажи наркотиков на доселе неразработанном рынке — белым обеспеченным людям.",
+      "genre": "Биография Криминальный Драма ",
+      "id": "GRISELDAXRU",
+      "imdb": "7.2",
+      "img": "https://i.imgur.com/0LjVL2m.jpeg",
+      "push": "-NypNsUWin48_VpyhmXy",
+      "state": "США ",
+      "time": "26052024075230",
+      "title": "Гpиceльдa",
+      "trailer": "https://vk.com/video-203792314_456242697",
+      "year": "2024"
     }
   },
   "SERIALKOREA": {
@@ -2288,6 +2307,15 @@
         "link": "https://vk.com/video-131099725_456243312",
         "part": 1,
         "title": "Дом ниндзя"
+      }
+    },
+    "GRISELDAXRU": {
+      "-NypO501H4JjrIngEyTk": {
+        "id": "GRISELDAXRU",
+        "img": "https://i.imgur.com/0LjVL2m.jpeg",
+        "link": "https://vk.com/video-95521435_456244832",
+        "part": 1,
+        "title": "Гpиceльдa"
       }
     },
     "HALORU": {

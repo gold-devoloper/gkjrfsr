@@ -2571,6 +2571,21 @@
         "title": "Telbalar",
         "trailer": "https://ok.ru/video/6893416155742",
         "year": "2024"
+      },
+      "-NypQewmO_4p4fYV8-Sj": {
+        "age": 16,
+        "child": "KINO",
+        "description": "O'tmishi bor qahramon, agar qizini sog'lig'i inqirozidan qutqarishi kerak bo'lsa va vaqt tugasa, u yer osti dunyosi bilan kesishishi kerak.",
+        "genre": "Jangari Kriminal Drama ",
+        "imdb": "5.0",
+        "img": "https://i.imgur.com/ItYJiAm.jpeg",
+        "link": "https://ok.ru/video/6911897242206",
+        "push": "-NypQewmO_4p4fYV8-Sj",
+        "state": "Hindiston ",
+        "time": "26052024080441",
+        "title": "Saindhav",
+        "trailer": "https://vk.com/video-121854569_456240508",
+        "year": "2023"
       }
     },
     "JANGARI": {
@@ -7102,6 +7117,14 @@
     "-NykEKSzwcD2yX2C2hCu": {
       "id": "-NykEKSXLuDm5l4JcPXO",
       "img": "https://i.imgur.com/zHvFCVX.jpeg"
+    },
+    "-NypQexMbVnLPrMIZiiv": {
+      "id": "-NypQewmO_4p4fYV8-Sj",
+      "img": "https://i.imgur.com/ItYJiAm.jpeg"
+    },
+    "-NypRz3tOQF0ORUj3SuI": {
+      "id": "-NypRz3Q1WATkNeFiCjv",
+      "img": "https://i.imgur.com/1oKKZgz.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -9248,6 +9271,21 @@
       "title": "Muhabbat tafti",
       "trailer": "https://vk.com/video-186124728_456244218",
       "year": "2011"
+    },
+    "-NypRz3Q1WATkNeFiCjv": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Mulder va Skalli hukumatga qarshi fitna uyushtirishi va Yerning begona kolonizatsiyasi haqidagi haqiqatni topishi kerak.",
+      "genre": "Drama Ilmiy-fantastik ",
+      "id": "MAXFIYHUJJATLAR",
+      "imdb": "7.0",
+      "img": "https://i.imgur.com/1oKKZgz.jpeg",
+      "push": "-NypRz3Q1WATkNeFiCjv",
+      "state": "AQSH ",
+      "time": "26052024081025",
+      "title": "maxfiy hujjatlar",
+      "trailer": "https://vk.com/video-22800546_171407941",
+      "year": "1998"
     }
   },
   "SERIALKOREA": {
@@ -43816,6 +43854,50 @@
         "link": "https://files.uzmovi.club/film9/mataxari/mataxari%2012-qism%202014%20hd%20%28uzmedia.tv%29.mp4",
         "part": 12,
         "title": "Mataxari"
+      }
+    },
+    "MAXFIYHUJJATLAR": {
+      "-NypS3zpKB-8PW8unOvY": {
+        "id": "MAXFIYHUJJATLAR",
+        "img": "https://i.imgur.com/1oKKZgz.jpeg",
+        "link": "https://ok.ru/video/6896933669470",
+        "part": 1,
+        "title": "maxfiy hujjatlar"
+      },
+      "-NypS7OGFjYe3Pu7ORqP": {
+        "id": "MAXFIYHUJJATLAR",
+        "img": "https://i.imgur.com/1oKKZgz.jpeg",
+        "link": "https://ok.ru/video/6896933735006",
+        "part": 2,
+        "title": "maxfiy hujjatlar"
+      },
+      "-NypSJ7DgyVTInn5IbLe": {
+        "id": "MAXFIYHUJJATLAR",
+        "img": "https://i.imgur.com/1oKKZgz.jpeg",
+        "link": "https://ok.ru/video/6896933603934",
+        "part": 3,
+        "title": "maxfiy hujjatlar"
+      },
+      "-NypSP6UWW0udfgffpkd": {
+        "id": "MAXFIYHUJJATLAR",
+        "img": "https://i.imgur.com/1oKKZgz.jpeg",
+        "link": "https://ok.ru/video/6911924636254",
+        "part": 4,
+        "title": "maxfiy hujjatlar"
+      },
+      "-NypSSb5EOIaTEJEG0-s": {
+        "id": "MAXFIYHUJJATLAR",
+        "img": "https://i.imgur.com/1oKKZgz.jpeg",
+        "link": "https://ok.ru/video/6911924570718",
+        "part": 5,
+        "title": "maxfiy hujjatlar"
+      },
+      "-NypSWJUFPXjoRy6cUzR": {
+        "id": "MAXFIYHUJJATLAR",
+        "img": "https://i.imgur.com/1oKKZgz.jpeg",
+        "link": "https://ok.ru/video/6911924505182",
+        "part": 6,
+        "title": "maxfiy hujjatlar"
       }
     },
     "MERLINU": {
