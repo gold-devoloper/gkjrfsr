@@ -1429,6 +1429,21 @@
         "title": "Koinotdagi yo'lovchilar",
         "trailer": "https://ok.ru/video/506874104358",
         "year": "2016"
+      },
+      "-Nz47HKglvBWW685tG4a": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Bir kishi avtohalokat sodir bo'lgan joyda, noma'lum jasadda, uning kimligi va bu erga qanday kelgani haqida zarracha tasavvurga ega emas. U o'zini topish uchun umidsiz harakat qiladi va uni bilishini da'vo qiladigan ayolni topadi. U sirga chuqurroq sho'ng'ilar ekan, u o'zidan keyin bo'lgan maxfiy tashkilot haqida bilib oladi.",
+        "genre": "Jangari Fantastika ",
+        "imdb": "6.2",
+        "img": "https://i.imgur.com/JhXm5vu.jpeg",
+        "link": "https://ok.ru/video/6919756319326",
+        "push": "-Nz47HKglvBWW685tG4a",
+        "state": "Janubiy Koreya ",
+        "time": "29052024091355",
+        "title": "O'zga tanada 12 soat",
+        "trailer": "https://vk.com/video-124416357_456241851",
+        "year": "2020"
       }
     },
     "HIND": {
@@ -7125,6 +7140,10 @@
     "-NypRz3tOQF0ORUj3SuI": {
       "id": "-NypRz3Q1WATkNeFiCjv",
       "img": "https://i.imgur.com/1oKKZgz.jpeg"
+    },
+    "-Nz47HLO4_rNvbdrIV2d": {
+      "id": "-Nz47HKglvBWW685tG4a",
+      "img": "https://i.imgur.com/JhXm5vu.jpeg"
     }
   },
   "MULTISERIAL": {
