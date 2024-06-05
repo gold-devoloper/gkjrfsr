@@ -4,7 +4,7 @@
       "age": 16,
       "child": "ANIMESX",
       "description": "Bu ishni shunchaki o‘yin-kulgi uchun qiladigan va bir musht bilan dushmanlarini mag‘lub eta oladigan qahramon Sayamaning hikoyasi.",
-      "genre": "Animatsiya Jangari Komediya",
+      "genre": "Animatsiya Jangari Komediya ",
       "id": "BIRZARBLIODAM",
       "imdb": "8.7",
       "img": "https://i.imgur.com/YsGP3G2.jpeg",
@@ -1444,6 +1444,21 @@
         "title": "O'zga tanada 12 soat",
         "trailer": "https://vk.com/video-124416357_456241851",
         "year": "2020"
+      },
+      "-NzbE4qSi96hKTqCDTBa": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Bir qarashda bosh qahramon - eng oddiy yigit. Biroq, aslida bu unday emas: Jon bosqinchilarning bosqinidan omon qolishga muvaffaq bo'lgan uzoq sayyoraning kam sonli aholisidan biridir. Endi yigit doimo harakatlanib, yashirinishga majbur, chunki uning dushmanlari uni qidirmoqda. Ammo kunlarning birida Ogayo shtatidagi kichik shaharchada u go'zal qizni uchratib qoladi, uni telbalarcha sevib qoladi. Jon hayotning ma'nosini topdi va endi hech qaerga borishni xohlamaydi. Yigit o'z dushmani bilan kurashishi kerak, eng muhimi, uning maqsadini bilib oladi.",
+        "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/E3MWrTy.jpeg",
+        "link": "https://ok.ru/video/398449052345",
+        "push": "-NzbE4qSi96hKTqCDTBa",
+        "state": "AQSH Hindiston ",
+        "time": "05062024121044",
+        "title": "Men to'rtinchiman ",
+        "trailer": "https://vk.com/video-53757893_171222470",
+        "year": "2011"
       }
     },
     "HIND": {
@@ -7163,6 +7178,10 @@
     "-NzEOEtOKcIziuYbsTTd": {
       "id": "-NzEOEskZ_FeCBh0MMjV",
       "img": "https://i.imgur.com/yzQduxi.jpeg"
+    },
+    "-NzbE4r174fvyMxhqB_6": {
+      "id": "-NzbE4qSi96hKTqCDTBa",
+      "img": "https://i.imgur.com/E3MWrTy.jpeg"
     }
   },
   "MULTISERIAL": {
