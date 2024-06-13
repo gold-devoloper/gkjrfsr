@@ -4358,6 +4358,21 @@
         "title": "Muzokarachi",
         "trailer": "https://vk.com/video-176675269_456249034",
         "year": "2023"
+      },
+      "-O-HRjwWJu_qJRrCF8oA": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Bu yozda dunyodagi eng sevimli Bad Boys o'zining ajoyib qo'shig'i va dahshatli komediyasi bilan qaytib keldi, ammo bu safar o'zgacha ko'rinish bilan: Mayamidagi eng zo'rlari endi yugurishda.",
+        "genre": "Jangari Sarguzashtlar Komediya ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/dSUeSuc.jpeg",
+        "link": "https://vk.com/video-225182992_456239237",
+        "push": "-O-HRjwWJu_qJRrCF8oA",
+        "state": "AQSH ",
+        "time": "13062024093405",
+        "title": "Uddaburon yigitlar 4",
+        "trailer": "https://vk.com/video-118008576_456242099",
+        "year": "2024"
       }
     },
     "KOMEDIYA": {
@@ -7205,6 +7220,10 @@
     "-O--DUeQBSr2qRILDQte": {
       "id": "-O--DUdwpMpgzdiUr208",
       "img": "https://i.imgur.com/WFvGNgX.jpeg"
+    },
+    "-O-HRjwuv12qRCQdY61b": {
+      "id": "-O-HRjwWJu_qJRrCF8oA",
+      "img": "https://i.imgur.com/dSUeSuc.jpeg"
     }
   },
   "MULTISERIAL": {
