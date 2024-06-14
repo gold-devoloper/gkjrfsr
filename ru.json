@@ -1595,6 +1595,10 @@
     "-O-HEO6QeWmBvKQKdJsx": {
       "id": "-O-HEO5rJsUya_kkUjRm",
       "img": "https://i.imgur.com/5QMU97n.jpeg"
+    },
+    "-O-KQe7NWGBu7FBizH25": {
+      "id": "-O-KQe6W6QupofQLyecJ",
+      "img": "https://i.imgur.com/28r3JwO.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -2047,6 +2051,21 @@
       "title": "Изyмpyдный гоpод",
       "trailer": "https://vk.com/video-133909446_456244464",
       "year": "2016"
+    },
+    "-O-KQe6W6QupofQLyecJ": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Сезон 1\n\nГруппа молодых людей отправляется на вечеринку на отдаленный остров, не подозревая, что этот манящий райский уголок полон опасных тайн и ловушек.\n\nСезон 2\n\nКогда над островом нависла новая угроза, а выхода нет, восставшие начинают напряженную борьбу за свободу, пока Астрид (Амайя Саламанка) осуществляет свои планы по созданию Нового Эдема.",
+      "genre": "Боевик Драма Научная фантастика ",
+      "id": "WELCONEEDE",
+      "imdb": "5.6",
+      "img": "https://i.imgur.com/28r3JwO.jpeg",
+      "push": "-O-KQe6W6QupofQLyecJ",
+      "state": "Испания Турция ",
+      "time": "14062024112810",
+      "title": "Добро пожаловать в Эдем",
+      "trailer": "https://ok.ru/video/3657465072256",
+      "year": "2022"
     }
   },
   "SERIALKOREA": {
@@ -4052,6 +4071,22 @@
         "link": "https://vk.com/video-220020068_456253749",
         "part": 1,
         "title": "Скержет металла"
+      }
+    },
+    "WELCONEEDE": {
+      "-O-K_6CC2-Gbgs9J3hm6": {
+        "id": "WELCONEEDE",
+        "img": "https://i.imgur.com/28r3JwO.jpeg",
+        "link": "https://vk.com/video-225350531_456239107",
+        "part": 1,
+        "title": "Добро пожаловать в Эдем"
+      },
+      "-O-K_A3TQKboDEml4-MQ": {
+        "id": "WELCONEEDE",
+        "img": "https://i.imgur.com/28r3JwO.jpeg",
+        "link": "https://vk.com/video-225350531_456239108",
+        "part": 2,
+        "title": "Добро пожаловать в Эдем"
       }
     }
   },
