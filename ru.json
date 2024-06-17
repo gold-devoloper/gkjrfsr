@@ -1599,6 +1599,10 @@
     "-O-KQe7NWGBu7FBizH25": {
       "id": "-O-KQe6W6QupofQLyecJ",
       "img": "https://i.imgur.com/28r3JwO.jpeg"
+    },
+    "-O-ayXoTKoChU7CIj6b0": {
+      "id": "-O-ayXnpbXz_PfKsqOwz",
+      "img": "https://i.imgur.com/CIdZGJc.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -2066,6 +2070,21 @@
       "title": "Добро пожаловать в Эдем",
       "trailer": "https://ok.ru/video/3657465072256",
       "year": "2022"
+    },
+    "-O-ayXnpbXz_PfKsqOwz": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Получив суперсилу в результате сорванного эксперимента, ошибочно обвиненный мужчина сбегает из тюрьмы, чтобы стать наемным супергероем.",
+      "genre": "Боевик Криминальный Драма ",
+      "id": "LUKECAGE",
+      "imdb": "7.2",
+      "img": "https://i.imgur.com/CIdZGJc.jpeg",
+      "push": "-O-ayXnpbXz_PfKsqOwz",
+      "state": "США ",
+      "time": "17062024091408",
+      "title": "Люк Кейдж",
+      "trailer": "https://ok.ru/video/932129409618",
+      "year": "2016"
     }
   },
   "SERIALKOREA": {
@@ -3000,6 +3019,22 @@
         "link": "https://vk.com/video-206148487_456239751",
         "part": 40,
         "title": "Благословенная девушка"
+      }
+    },
+    "LUKECAGE": {
+      "-O-ayuDFJh2ooBiEe6D1": {
+        "id": "LUKECAGE",
+        "img": "https://i.imgur.com/CIdZGJc.jpeg",
+        "link": "https://vk.com/video-198602434_456243248",
+        "part": 1,
+        "title": "Люк Кейдж"
+      },
+      "-O-az0CqckHmB9EfcZzI": {
+        "id": "LUKECAGE",
+        "img": "https://i.imgur.com/CIdZGJc.jpeg",
+        "link": "https://vk.com/video-84143224_456239770",
+        "part": 2,
+        "title": "Люк Кейдж"
       }
     },
     "NAKLZIMD ": {
