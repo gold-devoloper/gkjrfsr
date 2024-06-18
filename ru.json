@@ -503,6 +503,21 @@
         "title": "Ах, Белинда",
         "trailer": "https://vk.com/video-210750177_456239924",
         "year": "2023"
+      },
+      "-O-f6qruajfaqoGrqkcN": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Робинзон Крузо проходит через множество комичных ситуаций, пока ему не удается хоть как-то освоиться на острове. У него появляется даже Пятница - темнокожая красавица, с которой Робинзон поначалу тщетно пытается найти общий язык. Современный Робинзон не хочет отказываться от благ цивилизации и придумывает, как заменить телевизор, радио и все то, без чего в наше время трудно представить свою жизнь.",
+        "genre": "Приключение Романтика Комедия ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/EqT3V5Z.jpeg",
+        "link": "https://vk.com/video-199553164_456239367",
+        "push": "-O-f6qruajfaqoGrqkcN",
+        "state": "Италия",
+        "time": "18062024043318",
+        "title": "Cиньoр Робинзoн",
+        "trailer": "https://vk.com/video-209477587_456242635",
+        "year": "1976"
       }
     },
     "MULTFILM": {
@@ -1603,6 +1618,22 @@
     "-O-ayXoTKoChU7CIj6b0": {
       "id": "-O-ayXnpbXz_PfKsqOwz",
       "img": "https://i.imgur.com/CIdZGJc.jpeg"
+    },
+    "-O-f3cNTihgnlL8Hn6Rc": {
+      "id": "-O-f3cMxiz8zaf-kxCyK",
+      "img": "https://i.imgur.com/ySC3B88.jpeg"
+    },
+    "-O-f6qsP8I3G_FBlyCeL": {
+      "id": "-O-f6qruajfaqoGrqkcN",
+      "img": "https://i.imgur.com/EqT3V5Z.jpeg"
+    },
+    "-O-f9MC7uHU_zXZeZMej": {
+      "id": "-O-f9MBdaHWKSpP0xew1",
+      "img": "https://i.imgur.com/Urwm1Uy.jpeg"
+    },
+    "-O-fQJoxRPSvYxGWNdE3": {
+      "id": "-O-fQJoGN3yg8KU2L4vN",
+      "img": "https://i.imgur.com/tcs9IJG.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -2085,6 +2116,51 @@
       "title": "Люк Кейдж",
       "trailer": "https://ok.ru/video/932129409618",
       "year": "2016"
+    },
+    "-O-f3cMxiz8zaf-kxCyK": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "В 1967 году девушка-астрофизик — классовый враг и дочь насмерть забитого хунвэйбинами профессора — начинает работать в сверхсекретной лаборатории во Внутренней Монголии, где пытаются отправлять сигналы возможным внеземным цивилизациям. 2024 год. Ускорители частиц по всему миру показывают результаты, которые опровергают известные законы физики, а также происходит серия загадочных самоубийств учёных. Расследованием занимается лондонский детектив, который ведёт пристальное наблюдение за учениками покончившей с собой сотрудницы Оксфордского университета. Одна из них, занимающаяся разработками нановолокна, начинает видеть цифры обратного отсчёта, а другая забирает у матери погибшей загадочный высокотехнологичный шлем виртуальной реальности и запускает видеоигру, в которой нужно спасти от гибели цивилизацию, решив задачу трёх тел — трёх вращающихся вокруг планеты солнц.",
+      "genre": "Драма Приключение Фантастика ",
+      "id": "THREEBODYPROBLEM",
+      "imdb": "7.5",
+      "img": "https://i.imgur.com/ySC3B88.jpeg",
+      "push": "-O-f3cMxiz8zaf-kxCyK",
+      "state": "Великобритания ",
+      "time": "18062024041912",
+      "title": "Зaдaчa тpёх тeл",
+      "trailer": "https://vk.com/video-133909446_456245576",
+      "year": "2024"
+    },
+    "-O-f9MBdaHWKSpP0xew1": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Лондон XIX века. Компания уличных ребятишек под названием «Нерегулярные части» выполняет поручения доктора Ватсона и его неуловимого партнёра Шерлока Холмса, помогая им раскрывать преступления, в которых замешаны потусторонние силы.",
+      "genre": "Криминальный Драма Фантастика ",
+      "id": "THEILLEG",
+      "imdb": "6.1",
+      "img": "https://i.imgur.com/Urwm1Uy.jpeg",
+      "push": "-O-f9MBdaHWKSpP0xew1",
+      "state": "Великобритания ",
+      "time": "18062024044415",
+      "title": "Нерегулярные части",
+      "trailer": "https://vk.com/video-204165032_456239606",
+      "year": "2021"
+    },
+    "-O-fQJoGN3yg8KU2L4vN": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "Семнадцатилетняя Альма сообщает о сексуальном насилии в старшей школе. Начавшееся расследование переворачивает ее жизнь и проверяет на прочность ее отношения.",
+      "genre": "Драма ",
+      "id": "RAISINGVOICES",
+      "imdb": "7.2",
+      "img": "https://i.imgur.com/tcs9IJG.jpeg",
+      "push": "-O-fQJoGN3yg8KU2L4vN",
+      "state": "Испания ",
+      "time": "18062024055821",
+      "title": "Hи oдной большe",
+      "trailer": "https://vk.com/video-76488144_456239364",
+      "year": "2024"
     }
   },
   "SERIALKOREA": {
@@ -3267,6 +3343,15 @@
         "title": "Принцесса и оборотень"
       }
     },
+    "RAISINGVOICES": {
+      "-O-fQzOkufsxrqRYKHbR": {
+        "id": "RAISINGVOICES",
+        "img": "https://i.imgur.com/tcs9IJG.jpeg",
+        "link": "https://vk.com/video-204611178_456245696",
+        "part": 1,
+        "title": "Hи oдной большe"
+      }
+    },
     "SALEM": {
       "-NyfJNGLla6oWQJKb3K9": {
         "id": "SALEM",
@@ -4020,6 +4105,15 @@
         "title": "Сёгун"
       }
     },
+    "THEILLEG": {
+      "-O-f9fzpbdqwMg5Z4pjg": {
+        "id": "THEILLEG",
+        "img": "https://i.imgur.com/Urwm1Uy.jpeg",
+        "link": "https://vk.com/video-84143224_456239629",
+        "part": 1,
+        "title": "Нерегулярные части"
+      }
+    },
     "THEWALKINGDEAD": {
       "-Nxk5clBdQXM1qyjHqi9": {
         "id": "THEWALKINGDEAD",
@@ -4097,6 +4191,15 @@
         "link": "https://vk.com/video-194175662_456239551",
         "part": 11,
         "title": "Ходячие мертвецы"
+      }
+    },
+    "THREEBODYPROBLEM": {
+      "-O-f3uM1CpHdM-Pzh24m": {
+        "id": "THREEBODYPROBLEM",
+        "img": "https://i.imgur.com/ySC3B88.jpeg",
+        "link": "https://vk.com/video-95521435_456245183",
+        "part": 1,
+        "title": "Зaдaчa тpёх тeл"
       }
     },
     "TWISTEDMETALL": {
