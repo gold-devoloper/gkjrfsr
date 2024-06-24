@@ -5382,6 +5382,21 @@
         "title": "Sheryurak qiz",
         "trailer": "https://ok.ru/video/29666708206",
         "year": "2012"
+      },
+      "-O0AbH4KHbKpd3vhAHjP": {
+        "age": 8,
+        "child": "KINO",
+        "description": "Kolumbiyalik o'smir qiz o'z oilasida sehrli kuchga ega bo'lmagan yagona a'zo bo'lishdan umidsizlikka duchor bo'lishi kerak.",
+        "genre": "Oilaviy Animatsiya Komediya ",
+        "imdb": "7.2",
+        "img": "https://i.imgur.com/y8hnBbe.jpeg",
+        "link": "https://topfilm.info/3/MULTIFILM/Enkanto_480.mp4",
+        "push": "-O0AbH4KHbKpd3vhAHjP",
+        "state": "AQSH ",
+        "time": "24062024115827",
+        "title": "Enkanto",
+        "trailer": "https://ok.ru/video/3712398461582",
+        "year": "2021"
       }
     },
     "OTHER": {
@@ -7262,6 +7277,10 @@
     "-O-lENMwo6iWdU2I83RK": {
       "id": "-O-lENMSK07X2JPZ5Sfb",
       "img": "https://i.imgur.com/xUIcQxg.jpeg"
+    },
+    "-O0AbH4sCEbxP3mt7Z0X": {
+      "id": "-O0AbH4KHbKpd3vhAHjP",
+      "img": "https://i.imgur.com/y8hnBbe.jpeg"
     }
   },
   "MULTISERIAL": {
