@@ -6059,6 +6059,21 @@
         "title": "Muhabbat va jazo",
         "trailer": "https://ok.ru/video/7003654589022",
         "year": "2010"
+      },
+      "-O0cKDYq-DcW0fnYhQUL": {
+        "age": 6,
+        "child": "KINO",
+        "description": "Maktabdan ketayotib, Ali, kambag'al oiladan bo'lgan bola, singlisining hozirgina ta'mirdan olgan poyafzalini yo'qotmoqda. Bu jiddiy nazorat edi. Va bolalar ota-onalariga hech narsa aytmaslikka qaror qilishadi va ular hech narsani sezmasliklari uchun ozgina hiyla-nayrang qilishadi. Ammo, ba'zida bu sodir bo'layotganidek, aybsiz ish yuritish kutilmagan holatlarga olib keladi.",
+        "genre": "Drama Sport Oilaviy ",
+        "imdb": "8.2",
+        "img": "https://i.imgur.com/hTQNilr.jpeg",
+        "link": "https://ok.ru/video/405992704530",
+        "push": "-O0cKDYq-DcW0fnYhQUL",
+        "state": "Iran",
+        "time": "30062024014833",
+        "title": "Samo farzandlari",
+        "trailer": "https://ok.ru/video/2214873074269",
+        "year": "1997"
       }
     },
     "QORQINCHLI": {
@@ -7342,6 +7357,10 @@
     "-O0cEIsYEbb8W8tkayCT": {
       "id": "-O0cEIrudaTxQOrXGYcN",
       "img": "https://i.imgur.com/Pz43i0p.jpeg"
+    },
+    "-O0cKDZFHgK-JC9KpMp-": {
+      "id": "-O0cKDYq-DcW0fnYhQUL",
+      "img": "https://i.imgur.com/hTQNilr.jpeg"
     }
   },
   "MULTISERIAL": {
