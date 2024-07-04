@@ -5487,6 +5487,21 @@
         "title": "Enkanto",
         "trailer": "https://ok.ru/video/3712398461582",
         "year": "2021"
+      },
+      "-O0y949CqEfnOaXLt779": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Raylining miyasi to'satdan butunlay kutilmagan narsaga: yangi his-tuyg'ularga o'rin ochishi kerak bo'lgan bir vaqtda katta ta'mirdan o'tadi. Quvonch, qayg'u, g'azab, qo'rquv va jirkanish qandaydir tashvish paydo bo'lishini kutmagan edi. Ko'rinib turibdiki, nafaqat u.",
+        "genre": "Animatsiya Sarguzashtlar Komediya ",
+        "imdb": "7.9",
+        "img": "https://i.imgur.com/apgxoMZ.jpeg",
+        "link": "https://ok.ru/video/7220459670180",
+        "push": "-O0y949CqEfnOaXLt779",
+        "state": "AQSH ",
+        "time": "04072024073130",
+        "title": "Boshqotirma 2",
+        "trailer": "https://ok.ru/video/8764162181854",
+        "year": "2024"
       }
     },
     "OTHER": {
@@ -7437,6 +7452,10 @@
     "-O0wSBM71NpZjU5QnvMd": {
       "id": "-O0wSBLvTBVzH6X4Chky",
       "img": "https://i.imgur.com/L6RuSxP.jpeg"
+    },
+    "-O0y949jl4SMjRhtFD5O": {
+      "id": "-O0y949CqEfnOaXLt779",
+      "img": "https://i.imgur.com/apgxoMZ.jpeg"
     }
   },
   "MULTISERIAL": {
