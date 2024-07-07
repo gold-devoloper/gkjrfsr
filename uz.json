@@ -5502,6 +5502,21 @@
         "title": "Boshqotirma 2",
         "trailer": "https://ok.ru/video/8764162181854",
         "year": "2024"
+      },
+      "-O1CFHGwGHz-p8KdcpwJ": {
+        "age": 6,
+        "child": "KINO",
+        "description": "Mashhur sportchi otasining o'rnini Ultraman sifatida egallash, Tokioni ulkan yirtqich hayvonlardan himoya qilish va afsonaviy qahramonga aylanish uchun istamay uyiga qaytadi.",
+        "genre": "Animatsiya Jangari Sarguzashtlar ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/xL35aZ8.jpeg",
+        "link": "https://vk.com/video-225182992_456239238",
+        "push": "-O1CFHGwGHz-p8KdcpwJ",
+        "state": "AQSH Yaponiya",
+        "time": "07072024055255",
+        "title": "Ultramen",
+        "trailer": "https://vk.com/video-125013150_456242571",
+        "year": "2024"
       }
     },
     "OTHER": {
@@ -7456,6 +7471,10 @@
     "-O0y949jl4SMjRhtFD5O": {
       "id": "-O0y949CqEfnOaXLt779",
       "img": "https://i.imgur.com/apgxoMZ.jpeg"
+    },
+    "-O1CFHHfJkAh1swt9fRm": {
+      "id": "-O1CFHGwGHz-p8KdcpwJ",
+      "img": "https://i.imgur.com/xL35aZ8.jpeg"
     }
   },
   "MULTISERIAL": {
