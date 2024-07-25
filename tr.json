@@ -3,88 +3,37 @@
     "-NcjP0OxLMebzgK9Rzmn": {
       "id": "JANGARI",
       "img": "https://i.pinimg.com/564x/ba/72/4a/ba724ad951e978b20f471b5f1f1021b2.jpg",
-      "title": "Action movies"
+      "title": "Aksiyon"
     },
     "-NcjPMYh_oiLRIgwXOY0": {
       "id": "MULTFILM",
       "img": "https://i.pinimg.com/564x/4e/8f/31/4e8f31644369654e66d7468839e53d62.jpg",
-      "title": "Cartoons"
+      "title": "Çizgi filmler"
     },
     "-NcjVt37PXSB-DHtk5Ec": {
       "id": "FANTASTIK",
       "img": "https://i.pinimg.com/564x/71/d0/16/71d0163e78add5d7391d165de78aabaa.jpg",
-      "title": "Fantastic movies"
+      "title": "Fantastik"
     },
     "-NcjWrnFU08IVJ5605BH": {
       "id": "KOMEDIYA",
       "img": "https://i.pinimg.com/564x/4d/93/57/4d93578e210cbb3db0a0f62a66266699.jpg",
-      "title": "Cotrrrrrmedy movies"
+      "title": "Komedi"
     },
     "-NcjWzvUqnA3KIWWkp9h": {
       "id": "HIND",
       "img": "https://i.pinimg.com/564x/b2/56/d0/b256d0b9414c1d7ee725bd1da197bda2.jpg",
-      "title": "Fortrrrr hindi movies"
+      "title": "Hintçe"
     },
     "-NcjX7vQnVAQGVVZ4fJv": {
       "id": "QORQINCHLI",
       "img": "https://topkinolar.com/uploads/posts/2023-03/1679789955-1692769565.webp",
-      "title": "Horror movisjjsjsjdjes"
+      "title": "Korku"
     },
     "-NcjtffuKn5hTupnMiun": {
       "id": "OTHER",
       "img": "https://i.imgur.com/DQtYnf5.jpg",
-      "title": "Turkishshhshshhsus"
-    }
-  },
-  "CATEGORYX": {
-    "HIND": {
-      "-O24oAY5vZRtlDx2EoEG": {
-        "age": 16,
-        "child": "KINO",
-        "description": "Five filmmakers who embark on a script writing session end up in a haunted house . The spirit in the house gives them various difficult tasks to perform and if not completed will end up dyin...",
-        "genre": "Drama ",
-        "imdb": "8.3",
-        "img": "https://i.imgur.com/CStWcE8.jpeg",
-        "link": "https://www.facebook.com/61562710741114/videos/1024800892443969/?mibextid=rS40aB7S9Ucbxw6v",
-        "push": "-O24oAY5vZRtlDx2EoEG",
-        "state": "India ",
-        "time": "18072024052827",
-        "title": "Aghori",
-        "trailer": "https://www.facebook.com/61562710741114/videos/1024800892443969/?mibextid=rS40aB7S9Ucbxw6v",
-        "year": "2023"
-      },
-      "-O24ubB60Fdm2GI9BcWr": {
-        "age": 12,
-        "child": "KINO",
-        "description": "The protagonist, with a past, has to cross paths with the underworld if he has to save his daughter from a health crisis and time is running out.",
-        "genre": "Action Criminal Drama ",
-        "imdb": "5.0",
-        "img": "https://i.imgur.com/hZJJWPg.jpeg",
-        "link": "https://ok.ru/video/6936605559392",
-        "push": "-O24ubB60Fdm2GI9BcWr",
-        "state": "India ",
-        "time": "18072024055634",
-        "title": "Saindhav",
-        "trailer": "https://vk.com/video-121854569_456240508",
-        "year": "2024"
-      }
-    },
-    "QORQINCHLI": {
-      "-O24fc6tlwtVLT2yD6eR": {
-        "age": 16,
-        "child": "KINO",
-        "description": "When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.",
-        "genre": "Comedy Horror Sci-Fi ",
-        "imdb": "5.9",
-        "img": "https://i.imgur.com/1DQPGVR.jpeg",
-        "link": "https://www.facebook.com/61559362376636/videos/764489322554828/?mibextid=rS40aB7S9Ucbxw6v",
-        "push": "-O24fc6tlwtVLT2yD6eR",
-        "state": "USA  Japan",
-        "time": "18072024045105",
-        "title": "Piranha",
-        "trailer": "https://www.facebook.com/61559362376636/videos/764489322554828/?mibextid=rS40aB7S9Ucbxw6v",
-        "year": "1978"
-      }
+      "title": "Çeşitli"
     }
   },
   "COUNTRY": {
@@ -92,43 +41,43 @@
       "img": "https://i.imgur.com/I582YOt.jpg",
       "push": "-Nj6UEhE_jHgC30VAYZ7",
       "time": "13112023120218",
-      "title": "USA"
+      "title": "Amerika"
     },
     "-Nj6UIYixZuoWduQDpCU": {
       "img": "https://i.imgur.com/qGx0dhx.jpg",
       "push": "-Nj6UIYixZuoWduQDpCU",
       "time": "13112023120234",
-      "title": "India"
+      "title": "Hindistan"
     },
     "-Nj6UMaxyCGwicUrV5cv": {
       "img": "https://i.imgur.com/Ytcy3us.jpg",
       "push": "-Nj6UMaxyCGwicUrV5cv",
       "time": "13112023120250",
-      "title": "Japan"
+      "title": "Japonya"
     },
     "-Nj6UgzYE3thTeQR1B3Q": {
       "img": "https://i.imgur.com/zdO1pEz.jpg",
       "push": "-Nj6UgzYE3thTeQR1B3Q",
       "time": "13112023120418",
-      "title": "Turkey"
+      "title": "Türkiye"
     },
     "-Nj6UzkpIe0kkrSruWp0": {
       "img": "https://i.imgur.com/7U0qSxI.jpg",
       "push": "-Nj6UzkpIe0kkrSruWp0",
       "time": "13112023120535",
-      "title": "Korea"
+      "title": "Kore"
     },
     "-Nj6VRTgbDxKDYrIoF3T": {
       "img": "https://i.imgur.com/nb3NjwD.jpg",
       "push": "-Nj6VRTgbDxKDYrIoF3T",
       "time": "13112023120732",
-      "title": "China"
+      "title": "Çin"
     },
     "-Nj6ViYBniBZd_RQ45Xe": {
       "img": "https://i.imgur.com/2vt7L6o.jpg",
       "push": "-Nj6ViYBniBZd_RQ45Xe",
       "time": "13112023120846",
-      "title": "Russia"
+      "title": "Rusya"
     }
   },
   "IMAGESLIDER": {
@@ -167,58 +116,343 @@
     "-O24ubBdRM2hKThFNFql": {
       "id": "-O24ubB60Fdm2GI9BcWr",
       "img": "https://i.imgur.com/hZJJWPg.jpeg"
+    },
+    "-O2NmGel3uT2uGMvhWjQ": {
+      "id": "-O2NmGeF-bn2hSD0Axvp",
+      "img": "https://i.imgur.com/ItMDBdp.jpeg"
+    },
+    "-O2NybCCCjqxnek88I3N": {
+      "id": "-O2NybBd9_sO0du4qDhY",
+      "img": "https://i.imgur.com/0t9HqwB.jpeg"
+    },
+    "-O2O107t23nvMgJ23AQ9": {
+      "id": "-O2O107SJHc5vqj6EA8-",
+      "img": "https://i.imgur.com/mhiH7Gx.jpeg"
+    },
+    "-O2O4bu5IRWkdIIW4ekQ": {
+      "id": "-O2O4btYnrwnK_s7EerP",
+      "img": "https://i.imgur.com/nKKOjP3.jpeg"
+    },
+    "-O2O5uVxVFiPR4PHb1cU": {
+      "id": "-O2O5uVRx27-MFDDOjXL",
+      "img": "https://i.imgur.com/ndGpSho.jpeg"
+    },
+    "-O2O8NIwhcKEm0U5ZmYA": {
+      "id": "-O2O8NIAxSyg9bxHgKA7",
+      "img": "https://i.imgur.com/ply23Eo.jpeg"
+    },
+    "-O2OAwxMg6ZvAjMqhOq2": {
+      "id": "-O2OAwx-wgzCKrlOvRI8",
+      "img": "https://i.imgur.com/6YplEbY.jpeg"
+    },
+    "-O2OCcaksY4XZtDeAZqF": {
+      "id": "-O2OCcaHWcg-S62dFBbD",
+      "img": "https://i.imgur.com/jNIvfyK.jpeg"
+    },
+    "-O2ONA-O9MUBV2R2reCc": {
+      "id": "-O2ON9zpI32-B3oQzpvL",
+      "img": "https://i.imgur.com/35iPlCn.jpeg"
+    },
+    "-O2OQ1loBDSPN98bEv2q": {
+      "id": "-O2OQ1lSv0AmI8qfK01W",
+      "img": "https://i.imgur.com/r6c6V78.jpeg"
+    },
+    "-O2ck1SGpc1LcHZ-aIa5": {
+      "id": "-O2ck1RnQVL9CO3kCehE",
+      "img": "https://i.imgur.com/rXQK0Xh.jpeg"
     }
   },
-  "NOTIFICATION": {
-    "-Nj67DFpYwbV_BWeKe5u": {
-      "desc": "Reklamalar har 20 daqiqada chiqib turadi  10.15.23 soniyalik reklamalar oldingidan ancha kamaygan. Oldin kinoni ustiga bosganizda 1.2 minut reklama chiqib qolardi endi bu oz ozdan kinoni ichida chiqadi. ",
-      "img": "soon",
-      "time": "13112023102143",
-      "title": "Rek up"
+  "MULTISERIAL": {
+    "-O2ck1RnQVL9CO3kCehE": {
+      "age": 6,
+      "child": "MULTISERIALX",
+      "description": "Genç muhabirin, sadık köpeği ve arkadaşlarının macera dolu dünya seyahatleri.",
+      "genre": "Macera Animasyon Aksiyon",
+      "id": "TINTINTR",
+      "imdb": "8.3",
+      "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+      "push": "-O2ck1RnQVL9CO3kCehE",
+      "state": "Amerika Fransa Kanada Belçika ",
+      "time": "25072024121705",
+      "title": "Tenten",
+      "trailer": "https://ok.ru/video/1266024516286",
+      "year": "1991"
     }
   },
-  "SERIAL": {
-    "-Nl6VXUi_zZJxsWZrOZ4": {
-      "age": 12,
-      "child": "SERIALX",
-      "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of \"Avengers: Endgame.\"",
-      "genre": "Action, Drama, Adventure",
-      "id": "LOKIUS",
-      "imdb": "8.2",
-      "img": "https://i.imgur.com/EKlnVOX.jpg",
-      "push": "-Nl6VXUi_zZJxsWZrOZ4",
-      "state": "USA",
-      "time": "08122023083921",
-      "title": "Loki",
-      "trailer": "https://ok.ru/video/6358452800218",
-      "year": "2021"
-    }
-  },
-  "SERIALKOREA": {
-    "-Nl6DbtuvPY6N6bNsSdY": {
-      "age": 12,
-      "child": "SERIALKOREAX",
-      "description": "Obsessed gamer Arisu suddenly finds himself in a strange, emptied-out version of Tokyo in which he and his friends must compete in dangerous games in order to survive.",
-      "genre": "Action Drama",
-      "id": "ALICEINBODERLAND",
-      "imdb": "7.7",
-      "img": "https://i.imgur.com/3Mn1dyJ.jpg",
-      "push": "-Nl6DbtuvPY6N6bNsSdY",
-      "state": "Korea",
-      "time": "08122023072105",
-      "title": "Alice in Borderland",
-      "trailer": "https://ok.ru/video/6332704885311",
-      "year": "2020"
-    }
-  },
-  "SERIALX": {
-    "LOKIUS": {
-      "-NlD-Q5HezJcORRP_I5G": {
-        "id": "LOKIUS",
-        "img": "https://i.imgur.com/EKlnVOX.jpg",
-        "link": "https://ok.ru/video/6336486640191",
+  "MULTISERIALX": {
+    "TINTINTR": {
+      "-O2ck69Oc-KKYFiXvT5C": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266024516286",
         "part": 1,
-        "title": "Loki"
+        "title": "Tenten"
+      },
+      "-O2ckApoeOxkiC5qYa3h": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266024975038",
+        "part": 2,
+        "title": "Tenten"
+      },
+      "-O2ckEAlh1ucJPpPgnCV": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025106110",
+        "part": 3,
+        "title": "Tenten"
+      },
+      "-O2ckGnLpbSUctQ7B6P3": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025171646",
+        "part": 4,
+        "title": "Tenten"
+      },
+      "-O2ckJZlcmzFo8Miu3KJ": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025827006",
+        "part": 5,
+        "title": "Tenten"
+      },
+      "-O2ckMOVqFOsY0UJAnzZ": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026941118",
+        "part": 6,
+        "title": "Tenten"
+      },
+      "-O2ckQJqHwXGXDm-rpaF": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026023614",
+        "part": 7,
+        "title": "Tenten"
+      },
+      "-O2ckT4FspmbJgwapvMN": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025958078",
+        "part": 8,
+        "title": "Tenten"
+      },
+      "-O2ckVurWaJivwOxfC1s": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025761470",
+        "part": 9,
+        "title": "Tenten"
+      },
+      "-O2ckZ1v37VM77UjrGEi": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026810046",
+        "part": 10,
+        "title": "Tenten"
+      },
+      "-O2ckcbvVv55WNvudvfp": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025564862",
+        "part": 11,
+        "title": "Tenten"
+      },
+      "-O2ckfqBG-t5sSt1_SR_": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026547902",
+        "part": 12,
+        "title": "Tenten"
+      },
+      "-O2ckkgqQsNIJEE90suO": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027662014",
+        "part": 13,
+        "title": "Tenten"
+      },
+      "-O2cknWNdlcUqqiPXDMr": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027399870",
+        "part": 14,
+        "title": "Tenten"
+      },
+      "-O2ckq66qCY9F5C5m93H": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025695934",
+        "part": 15,
+        "title": "Tenten"
+      },
+      "-O2ckskZD-Q24C2kgqZP": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027793086",
+        "part": 16,
+        "title": "Tenten"
+      },
+      "-O2ckvXkUCUt05jTbkac": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027268798",
+        "part": 17,
+        "title": "Tenten"
+      },
+      "-O2ckyMnKUSzrKzNseHs": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026678974",
+        "part": 18,
+        "title": "Tenten"
+      },
+      "-O2cl0CDNFQP9o2x2raQ": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026416830",
+        "part": 19,
+        "title": "Tenten"
+      },
+      "-O2cl4231SDubyV5EXrb": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027530942",
+        "part": 20,
+        "title": "Tenten"
+      },
+      "-O2cl73rq3BhAUZMFDAV": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026154686",
+        "part": 21,
+        "title": "Tenten"
+      },
+      "-O2cl9e6Qw4bPEPOXzDu": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026285758",
+        "part": 22,
+        "title": "Tenten"
+      },
+      "-O2clCWiua0-BnNlADvS": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027137726",
+        "part": 23,
+        "title": "Tenten"
+      },
+      "-O2clHd3jK7Rn2WaWnKk": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027858622",
+        "part": 24,
+        "title": "Tenten"
+      },
+      "-O2clKUY6BC-ou2XMBcX": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026744510",
+        "part": 25,
+        "title": "Tenten"
+      },
+      "-O2clO6NIAwfYJO-M9Us": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025892542",
+        "part": 26,
+        "title": "Tenten"
+      },
+      "-O2clRvKSHz1TEveHgmL": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027465406",
+        "part": 27,
+        "title": "Tenten"
+      },
+      "-O2clVPw-9YScfdzExa_": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266025630398",
+        "part": 28,
+        "title": "Tenten"
+      },
+      "-O2clXrpntLdYXjuUiRe": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026613438",
+        "part": 29,
+        "title": "Tenten"
+      },
+      "-O2claiZaymB_b1_XeGW": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027596478",
+        "part": 30,
+        "title": "Tenten"
+      },
+      "-O2cldbWOYL_KR0E3Wre": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027727550",
+        "part": 31,
+        "title": "Tenten"
+      },
+      "-O2clhJ27F4RxzVSIuif": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026482366",
+        "part": 32,
+        "title": "Tenten"
+      },
+      "-O2cljzPfJ3VH0hJ7bjU": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026875582",
+        "part": 33,
+        "title": "Tenten"
+      },
+      "-O2clm_EFkPjlWn8-qpP": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027203262",
+        "part": 34,
+        "title": "Tenten"
+      },
+      "-O2clpCTcsmaw41YpUA8": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026089150",
+        "part": 35,
+        "title": "Tenten"
+      },
+      "-O2clsxXrW2rETRV3JwZ": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027072190",
+        "part": 36,
+        "title": "Tenten"
+      },
+      "-O2cly0ntYW59R8dDhUN": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026220222",
+        "part": 37,
+        "title": "Tenten"
+      },
+      "-O2cm2DeAL175hN5XMzJ": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266027334334",
+        "part": 38,
+        "title": "Tenten"
+      },
+      "-O2cm5yyhN5syYKl7nLI": {
+        "id": "TINTINTR",
+        "img": "https://i.imgur.com/rXQK0Xh.jpeg",
+        "link": "https://ok.ru/video/1266026351294",
+        "part": 39,
+        "title": "Tenten"
       }
     }
   },
