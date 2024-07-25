@@ -4523,6 +4523,21 @@
         "title": "Trigger",
         "trailer": "https://ok.ru/video/7335422397099",
         "year": "2024"
+      },
+      "-O2du7gbLkUqqMjiJIc9": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Afsonaviy amerikalik urush faxriysi afsonaviy mavjudotni ovlashga yollanadi.",
+        "genre": "Sarguzashtlar Drama Ilmiy-fantastik ",
+        "imdb": "5.7",
+        "img": "https://i.imgur.com/TDHvRA7.jpeg",
+        "link": "https://ok.ru/video/7078892603998",
+        "push": "-O2du7gbLkUqqMjiJIc9",
+        "state": "AQSH ",
+        "time": "25072024054049",
+        "title": "Gitlerni o'ldirgan odam",
+        "trailer": "https://vk.com/video-113076019_456244570",
+        "year": "2018"
       }
     },
     "KOMEDIYA": {
@@ -6194,6 +6209,21 @@
         "title": "Samo farzandlari",
         "trailer": "https://ok.ru/video/2214873074269",
         "year": "1997"
+      },
+      "-O2dwqUpjvWlmLqsSCUl": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Amerikalik ijtimoiy psixolog Ben Monro bezovta qiluvchi voqea bilan bog'liq mahalliy kultni tekshiradi, uning qizi esa sirli mahalliy bola bilan aralashib qoladi.",
+        "genre": "Triller Drama ",
+        "imdb": "4.6",
+        "img": "https://i.imgur.com/umHofln.jpeg",
+        "link": "https://ok.ru/video/7064796072542",
+        "push": "-O2dwqUpjvWlmLqsSCUl",
+        "state": "AQSH Germaniya",
+        "time": "25072024055241",
+        "title": "Qo'rquv shahri",
+        "trailer": "https://vk.com/video-105406967_456241724",
+        "year": "2024"
       }
     },
     "QORQINCHLI": {
@@ -7532,6 +7562,14 @@
     "-O1qA_nZt7Lfq1bdT_L0": {
       "id": "-O1qA_mqRYENLZD30ijd",
       "img": "https://i.imgur.com/lXlw8RV.jpeg"
+    },
+    "-O2du7hPwhTVVMuvd-cM": {
+      "id": "-O2du7gbLkUqqMjiJIc9",
+      "img": "https://i.imgur.com/TDHvRA7.jpeg"
+    },
+    "-O2dwqVYKdBWsmc-C9I6": {
+      "id": "-O2dwqUpjvWlmLqsSCUl",
+      "img": "https://i.imgur.com/umHofln.jpeg"
     }
   },
   "MULTISERIAL": {
