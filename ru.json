@@ -1799,6 +1799,10 @@
     "-O2t_ZtvKMmIkRm-rd35": {
       "id": "-O2t_ZtMN-0XTUpjacz5",
       "img": "https://i.imgur.com/ZP7UFDs.jpeg"
+    },
+    "-O2wCgXvynQceha20aaR": {
+      "id": "-O2wCgXNzJr-h2uKPAgH",
+      "img": "https://i.imgur.com/nCzICWg.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -1816,9 +1820,33 @@
       "title": "Зверополис+",
       "trailer": "https://vk.com/video-93178909_456240745",
       "year": "2022"
+    },
+    "-O2wCgXNzJr-h2uKPAgH": {
+      "age": 18,
+      "child": "MULTISERIALX",
+      "description": "Разбитая домашняя жизнь нигилистически настроенного сумасшедшего ученого и его беспокойного внука еще больше осложняется их межпространственными злоключениями.",
+      "genre": "Анимация Приключение Комедия ",
+      "id": "RİKVAMORTİ",
+      "imdb": "9.1",
+      "img": "https://i.imgur.com/nCzICWg.jpeg",
+      "push": "-O2wCgXNzJr-h2uKPAgH",
+      "state": "США ",
+      "time": "29072024065927",
+      "title": "Рик и Морти",
+      "trailer": "https://vk.com/video-67535637_456239223",
+      "year": "2013"
     }
   },
   "MULTISERIALX": {
+    "RİKVAMORTİ": {
+      "-O2wDcl1W2JRtaCWmZzO": {
+        "id": "RİKVAMORTİ",
+        "img": "https://i.imgur.com/nCzICWg.jpeg",
+        "link": "https://vk.com/video-210665208_456239591",
+        "part": 1,
+        "title": "Рик и Морти"
+      }
+    },
     "ZVEROPOLIS": {
       "-NwEVVpix3QtD8kDt6Ug": {
         "id": "ZVEROPOLIS",
