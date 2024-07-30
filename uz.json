@@ -6344,6 +6344,21 @@
         "title": "Bell va sebastian 3",
         "trailer": "https://ok.ru/video/7085278169694",
         "year": "2017"
+      },
+      "-O31F5RoAH89NyTn8xbK": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Noma'lum qaytish albomidan keyin rok yulduzi Jon Ollman tush ko'rinishidagi O'rta Yer dengizi oroliga qochadi, lekin tez orada uning yangi qoyalar ustidagi uyi yomon obro'ga ega ekanligini va bu u yerdan uzoqlashishni istamagan mehmonlarni hamda eski sevgilisini jalb qilishini bilib oladi.",
+        "genre": "Komediya Romantika Musiqa ",
+        "imdb": "6.4",
+        "img": "https://i.imgur.com/r8OOuCe.jpeg",
+        "link": "https://ok.ru/video/7091965332062",
+        "push": "-O31F5RoAH89NyTn8xbK",
+        "state": "AQSH ",
+        "time": "30072024110741",
+        "title": "Qoyadan ko'rinish",
+        "trailer": "https://vk.com/video-225092466_456239767",
+        "year": "2024"
       }
     },
     "QORQINCHLI": {
@@ -7779,6 +7794,10 @@
     "-O30u8fy0fLSxSEAJMCW": {
       "id": "-O30u8fVJdT57L_O979N",
       "img": "https://i.imgur.com/pzf2o59.jpeg"
+    },
+    "-O31F5SPmipz7ZERN2wU": {
+      "id": "-O31F5RoAH89NyTn8xbK",
+      "img": "https://i.imgur.com/r8OOuCe.jpeg"
     }
   },
   "MULTISERIAL": {

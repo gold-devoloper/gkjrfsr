@@ -59,6 +59,21 @@
       "title": "Кастлвания",
       "trailer": "https://ok.ru/video/8162896644789",
       "year": "2017"
+    },
+    "-O337gGmO96hGFss9yMz": {
+      "age": 18,
+      "child": "ANIMESX",
+      "description": "Начинаются отношения между ботаном и модницей. Сложится ли что-то?",
+      "genre": "Драма Анимация Комедия ",
+      "id": "MYFİRSTGİRLFRİEND",
+      "imdb": "6.2",
+      "img": "https://i.imgur.com/tPMV0qV.jpeg",
+      "push": "-O337gGmO96hGFss9yMz",
+      "state": "Япония",
+      "time": "30072024075433",
+      "title": "Моя первая гяру",
+      "trailer": "https://vk.com/video-13912875_456240618",
+      "year": "2017"
     }
   },
   "ANIMESX": {
@@ -99,6 +114,15 @@
         "link": "https://vk.com/video-195384183_456240908",
         "part": 2,
         "title": "Мои девушки"
+      }
+    },
+    "MYFİRSTGİRLFRİEND": {
+      "-O337nKPdwmJY5uEWOAH": {
+        "id": "MYFİRSTGİRLFRİEND",
+        "img": "https://i.imgur.com/tPMV0qV.jpeg",
+        "link": "https://vk.com/video-184220087_456239454",
+        "part": 1,
+        "title": "Моя первая гяру"
       }
     },
     "YDRESSUP": {
@@ -1921,6 +1945,10 @@
     "-O30xmTIV1wG4nQSKrQT": {
       "id": "-O30xmSgOac31PVzmckO",
       "img": "https://i.imgur.com/gPgks0i.jpeg"
+    },
+    "-O337gHT0kK5HbxF2UqQ": {
+      "id": "-O337gGmO96hGFss9yMz",
+      "img": "https://i.imgur.com/tPMV0qV.jpeg"
     }
   },
   "MULTISERIAL": {
