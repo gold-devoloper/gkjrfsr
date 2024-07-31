@@ -74,6 +74,36 @@
       "title": "Моя первая гяру",
       "trailer": "https://vk.com/video-13912875_456240618",
       "year": "2017"
+    },
+    "-O38pO-elQAEzDP3ULkX": {
+      "age": 16,
+      "child": "ANIMESX",
+      "description": "Бай Сяоцюань мечтает стать бессмертным. Умный, упорный и на первый взгляд наивный, он на самом деле достаточно скрытен и бессовестен. И на пути к цели он демонстрирует каждое качество своей личности, попадая в разные переделки. Однажды вызванный им маг-практик вынужден перенести юношу в секту, где обучают, как стать бессмертным. И хотя Сяоцюань не горит желанием учиться, выхода у него не остаётся.",
+      "genre": "Приключение Анимация ",
+      "id": "VECHNAYAVOLYA",
+      "imdb": "7.9",
+      "img": "https://i.imgur.com/SykgOhV.jpeg",
+      "push": "-O38pO-elQAEzDP3ULkX",
+      "state": "Китай ",
+      "time": "31072024102757",
+      "title": "Вечная воля",
+      "trailer": "https://vk.com/video-194238253_456241406",
+      "year": "2020"
+    },
+    "-O39DLSzdPKZ-zQmYoFu": {
+      "age": 16,
+      "child": "ANIMESX",
+      "description": "Сидо встречает Току, духа, который уничтожил Землю 30 лет назад. Чтобы предотвратить еще одну катастрофу, он должен вступить с ней в романтические отношения, чтобы запечатать ее нестабильные силы.",
+      "genre": "Анимация Боевик Комедия ",
+      "id": "DATEALIVE",
+      "imdb": "6.9",
+      "img": "https://i.imgur.com/B2VJmjF.jpeg",
+      "push": "-O39DLSzdPKZ-zQmYoFu",
+      "state": "Япония ",
+      "time": "01082024121700",
+      "title": "Рандеву с жизнью",
+      "trailer": "https://vk.com/video-221135691_456239659",
+      "year": "2013"
     }
   },
   "ANIMESX": {
@@ -100,6 +130,43 @@
         "title": "Кастлвания"
       }
     },
+    "DATEALIVE": {
+      "-O39Dr0kpU4DOot46Wp1": {
+        "id": "DATEALIVE",
+        "img": "https://i.imgur.com/B2VJmjF.jpeg",
+        "link": "https://vk.com/video-221135691_456239656",
+        "part": 1,
+        "title": "Рандеву с жизнью"
+      },
+      "-O39ECB0qm3wXDqZzpRD": {
+        "id": "DATEALIVE",
+        "img": "https://i.imgur.com/B2VJmjF.jpeg",
+        "link": "https://vk.com/video-211891785_456240196",
+        "part": 2,
+        "title": "Рандеву с жизнью"
+      },
+      "-O39EUSM3G3ju35WZHDI": {
+        "id": "DATEALIVE",
+        "img": "https://i.imgur.com/B2VJmjF.jpeg",
+        "link": "https://vk.com/video-221135691_456239659",
+        "part": 3,
+        "title": "Рандеву с жизнью"
+      },
+      "-O39EbITvFvCP27-Qax3": {
+        "id": "DATEALIVE",
+        "img": "https://i.imgur.com/B2VJmjF.jpeg",
+        "link": "https://vk.com/video-201129506_456240350",
+        "part": 4,
+        "title": "Рандеву с жизнью"
+      },
+      "-O39EzFNa_3ioe5f01hX": {
+        "id": "DATEALIVE",
+        "img": "https://i.imgur.com/B2VJmjF.jpeg",
+        "link": "https://vk.com/video-225378583_456239831",
+        "part": 5,
+        "title": "Рандеву с жизнью"
+      }
+    },
     "MOIDRVUSHKI": {
       "-NwKSJ_l9mjlsyZbH2i-": {
         "id": "MOIDRVUSHKI",
@@ -123,6 +190,36 @@
         "link": "https://vk.com/video-184220087_456239454",
         "part": 1,
         "title": "Моя первая гяру"
+      }
+    },
+    "VECHNAYAVOLYA": {
+      "-O38q0eZZ3Ymd9HeSBIa": {
+        "id": "VECHNAYAVOLYA",
+        "img": "https://i.imgur.com/SykgOhV.jpeg",
+        "link": "https://vk.com/video-194238253_456241406",
+        "part": 1,
+        "title": "Вечная воля"
+      },
+      "-O38q5FOF8s3pZKXd3GP": {
+        "id": "VECHNAYAVOLYA",
+        "img": "https://i.imgur.com/SykgOhV.jpeg",
+        "link": "https://vk.com/video-194238253_456241407",
+        "part": 2,
+        "title": "Вечная воля"
+      },
+      "-O38qA14E5cHoGCd1Nld": {
+        "id": "VECHNAYAVOLYA",
+        "img": "https://i.imgur.com/SykgOhV.jpeg",
+        "link": "https://vk.com/video-194238253_456241408",
+        "part": 3,
+        "title": "Вечная воля"
+      },
+      "-O38qDtSsaT1dHCe7eIg": {
+        "id": "VECHNAYAVOLYA",
+        "img": "https://i.imgur.com/SykgOhV.jpeg",
+        "link": "https://vk.com/video-194238253_456241409",
+        "part": 4,
+        "title": "Вечная воля"
       }
     },
     "YDRESSUP": {
@@ -1991,6 +2088,14 @@
     "-O38G_RP0slF_Q5ILCEB": {
       "id": "-O38G_QVl8_VpuF3WN7y",
       "img": "https://i.imgur.com/QlCTAV9.jpeg"
+    },
+    "-O38pO0NgdK9L7kVEpZe": {
+      "id": "-O38pO-elQAEzDP3ULkX",
+      "img": "https://i.imgur.com/SykgOhV.jpeg"
+    },
+    "-O39DLTZwuxU5BwAuVfX": {
+      "id": "-O39DLSzdPKZ-zQmYoFu",
+      "img": "https://i.imgur.com/B2VJmjF.jpeg"
     }
   },
   "MULTISERIAL": {
