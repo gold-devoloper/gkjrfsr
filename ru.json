@@ -1148,6 +1148,21 @@
         "title": "Нeoбрaтимoсть",
         "trailer": "https://vk.com/video-133909446_456244227",
         "year": "2002"
+      },
+      "-O37bjbkARKJ7flvoMOT": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Четвeро гениaльных ученыx работaли нaд пpогpаммoй вceмирнoго paзoрyжения. Tpоих из ниx yбивают, остаeтcя тoлькo oдин. Задaние фeдeрaльныx cпецaгентов - спacти eмy жизнь и 3емлю. И секcапильная кpacоткa - глaвный кoзырь в этoм.",
+        "genre": "Боевик ",
+        "imdb": "4.3",
+        "img": "https://i.imgur.com/IAFcwY0.jpeg",
+        "link": "https://vk.com/video-127319332_456240010",
+        "push": "-O37bjbkARKJ7flvoMOT",
+        "state": "США ",
+        "time": "31072024044842",
+        "title": "Проeкт Дaллac",
+        "trailer": "https://vk.com/video-127319332_456240010",
+        "year": "1994"
       }
     },
     "QORQINCHLI": {
@@ -1968,6 +1983,14 @@
     "-O33TzySszMoSB-ERfyg": {
       "id": "-O33TzxjCzxgnKrB9TLp",
       "img": "https://i.imgur.com/OWxwkJn.jpeg"
+    },
+    "-O37bjcNjHG6vI4nt2Ij": {
+      "id": "-O37bjbkARKJ7flvoMOT",
+      "img": "https://i.imgur.com/IAFcwY0.jpeg"
+    },
+    "-O38G_RP0slF_Q5ILCEB": {
+      "id": "-O38G_QVl8_VpuF3WN7y",
+      "img": "https://i.imgur.com/QlCTAV9.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -2534,6 +2557,21 @@
       "title": "Стальнoй алхимик все серии",
       "trailer": "https://ok.ru/video/367222328025",
       "year": "2017"
+    },
+    "-O38G_QVl8_VpuF3WN7y": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Жизнь нового сотрудника ФБР Элизабет Кин переворачивается с ног на голову, когда таинственный преступник Рэймонд Реддингтон, десятилетиями избегавший поимки, сдается полиции и настаивает на том, чтобы рассказать...",
+      "genre": "Драма Криминальный ",
+      "id": "BLACKLIST",
+      "imdb": "7.9",
+      "img": "https://i.imgur.com/QlCTAV9.jpeg",
+      "push": "-O38G_QVl8_VpuF3WN7y",
+      "state": "США ",
+      "time": "31072024075130",
+      "title": "Черный список",
+      "trailer": "https://ok.ru/video/6598390057566",
+      "year": "2013"
     }
   },
   "SERIALKOREA": {
@@ -2852,6 +2890,78 @@
         "link": "https://vk.com/video-224830088_456239029",
         "part": 1,
         "title": "Аватар: Легенда об Аанге"
+      }
+    },
+    "BLACKLIST": {
+      "-O38I4Yfv22-PNilm7us": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244155",
+        "part": 1,
+        "title": "Черный список"
+      },
+      "-O38IvLi07xCTqNULFfN": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244156",
+        "part": 2,
+        "title": "Черный список"
+      },
+      "-O38J1R23clGRw7N-Qmi": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244153",
+        "part": 3,
+        "title": "Черный список"
+      },
+      "-O38J7cJp4uT0W1Yu3c3": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244157",
+        "part": 4,
+        "title": "Черный список"
+      },
+      "-O38JCccHcpgfIRp8LF8": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244154",
+        "part": 5,
+        "title": "Черный список"
+      },
+      "-O38JIHVClpvO1ba1-4y": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244150",
+        "part": 6,
+        "title": "Черный список"
+      },
+      "-O38JN2hXY39u6yg-gKJ": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244152",
+        "part": 7,
+        "title": "Черный список"
+      },
+      "-O38JSCwvR149-h6W5rM": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244149",
+        "part": 8,
+        "title": "Черный список"
+      },
+      "-O38JWB4H3WSLXUiVj0E": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244148",
+        "part": 9,
+        "title": "Черный список"
+      },
+      "-O38J_K5cJG5aSjvH7cL": {
+        "id": "BLACKLIST",
+        "img": "https://i.imgur.com/QlCTAV9.jpeg",
+        "link": "https://vk.com/video-169276975_456244151",
+        "part": 10,
+        "title": "Черный список"
       }
     },
     "BLACKSUMMER": {
