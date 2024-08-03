@@ -1504,6 +1504,21 @@
         "title": "Dedpul 3 / Dedpul va Rosamaxa",
         "trailer": "https://ok.ru/video/10290110335488",
         "year": "2024"
+      },
+      "-O3OSGsVDUyZhb0I5Xuo": {
+        "age": 12,
+        "child": "KINO",
+        "description": "1980-yillarda X-odamlar qadimiy qudratli mutant En Sabah Nurni mag'lub etishlari kerak, u dunyoga halokat olib kelish orqali gullab-yashnamoqchi.",
+        "genre": "Jangari Ilmiy-fantastik Sarguzashtlar ",
+        "imdb": "6.8",
+        "img": "https://i.imgur.com/S7jlRKt.jpeg",
+        "link": "https://ok.ru/video/7104531728990",
+        "push": "-O3OSGsVDUyZhb0I5Xuo",
+        "state": "AQSH ",
+        "time": "03082024111631",
+        "title": "X-Men",
+        "trailer": "https://vk.com/video-52925039_171604157",
+        "year": "2016"
       }
     },
     "HIND": {
@@ -4643,6 +4658,21 @@
         "title": "Bayker rayderlar",
         "trailer": "https://vk.com/video-134204425_456239605",
         "year": "2024"
+      },
+      "-O3OTNKuSMgD9vJjjHHe": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Meksikadan Qo'shma Shtatlarga chegarani kesib o'tmoqchi bo'lgan bir guruh odamlar chegara patrul xizmatini o'z qo'liga olgan irqchi odamga duch kelishdi.",
+        "genre": "Jangari Sarguzashtlar Drama ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/ueegwPd.jpeg",
+        "link": "https://ok.ru/video/7102626269790",
+        "push": "-O3OTNKuSMgD9vJjjHHe",
+        "state": "Fransiya Meksika ",
+        "time": "03082024112120",
+        "title": "Sahro: Halokatli poyga",
+        "trailer": "https://vk.com/video-52925039_171628454",
+        "year": "2015"
       }
     },
     "KOMEDIYA": {
@@ -7855,6 +7885,14 @@
     "-O3BGhaJ9HtObAa0wvR9": {
       "id": "-O3BGh_gTDQf4eTqbukT",
       "img": "https://i.imgur.com/Oh95Go7.jpeg"
+    },
+    "-O3OSGt7Zik4Pa9jOqUy": {
+      "id": "-O3OSGsVDUyZhb0I5Xuo",
+      "img": "https://i.imgur.com/S7jlRKt.jpeg"
+    },
+    "-O3OTNLPJBUSMtTzcZHd": {
+      "id": "-O3OTNKuSMgD9vJjjHHe",
+      "img": "https://i.imgur.com/ueegwPd.jpeg"
     }
   },
   "MULTISERIAL": {
