@@ -5470,6 +5470,21 @@
         "title": "Pablo eskobar",
         "trailer": "https://ok.ru/video/7546468698825",
         "year": "2017"
+      },
+      "-O3b7tAfMHkDlV812V_v": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Ishdan bo'shatdingizmi? Hozirgacha eng jasoratli talonchilikni tayyorlang! Jimmi Logan tezda bunday firibgarlikka qodir bo'lgan \"mutaxassislar\" guruhini jalb qiladi va bundan qutulishga umid qilmoqda. Logan kabi bo'ling!",
+        "genre": "Jangari Kriminal Komediya ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/t0AAgNz.jpeg",
+        "link": "https://ok.ru/video/7109450336862",
+        "push": "-O3b7tAfMHkDlV812V_v",
+        "state": "AQSH Xitoy ",
+        "time": "06082024030208",
+        "title": "Loganlar omadi",
+        "trailer": "https://vk.com/video-184447514_456244081",
+        "year": "2017"
       }
     },
     "MULTFILM": {
@@ -7006,6 +7021,21 @@
         "title": "Tarot",
         "trailer": "https://vk.com/video-217157892_456239308",
         "year": "2024"
+      },
+      "-O3bLXVhQc6V_1CDsq34": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Ota o'z o'smir o'g'li bilan qiyin munosabatlarini tuzatishga urinib, uni Appalachi tog'laridagi chekka qishloqqa sayohatga olib boradi. Ertalab uyg'onib, o'g'lining g'oyib bo'lganini bilib oladi. Uni topish uchun dahshatli va qonxo'r yirtqich odamxo'rga duch kelishi kerak...",
+        "genre": "Ujas Triller ",
+        "imdb": "3.3",
+        "img": "https://i.imgur.com/qPMdSsl.jpeg",
+        "link": "https://ok.ru/video/7069791947519",
+        "push": "-O3bLXVhQc6V_1CDsq34",
+        "state": "AQSH ",
+        "time": "06082024040145",
+        "title": "Jallod",
+        "trailer": "https://vk.com/video-179565721_456245956",
+        "year": "2024"
       }
     }
   },
@@ -7969,6 +7999,14 @@
     "-O3Yi5OUVTLB7xzLUxOz": {
       "id": "-O3Yi5NgyuFaWxzy5JHU",
       "img": "https://i.imgur.com/Lex9hdQ.jpeg"
+    },
+    "-O3b7tBNtBf9rQox66iO": {
+      "id": "-O3b7tAfMHkDlV812V_v",
+      "img": "https://i.imgur.com/t0AAgNz.jpeg"
+    },
+    "-O3bLXWZXCY3J8RTqZQj": {
+      "id": "-O3bLXVhQc6V_1CDsq34",
+      "img": "https://i.imgur.com/qPMdSsl.jpeg"
     }
   },
   "MULTISERIAL": {
