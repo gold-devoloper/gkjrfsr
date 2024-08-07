@@ -2796,6 +2796,21 @@
         "title": "Bozor / birja",
         "trailer": "https://ok.ru/video/2739023710801",
         "year": "2018"
+      },
+      "-O3gW5bQ_9aK075HYWCZ": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Yosh shifokor Vasu homilador xotini o'g'irlab ketilganini bilib, o'g'irlab ketuvchilar uning xavfsizligi evaziga u saqlab bemorni talab qilmoqdalar.",
+        "genre": "Jangari Kriminal Triller ",
+        "imdb": "5.6",
+        "img": "https://i.imgur.com/rdfoKAI.jpeg",
+        "link": "https://ok.ru/video/7110920178270",
+        "push": "-O3gW5bQ_9aK075HYWCZ",
+        "state": "Hindiston ",
+        "time": "07082024040601",
+        "title": "Qil ustida",
+        "trailer": "https://ok.ru/video/7110920178270",
+        "year": "2019"
       }
     },
     "JANGARI": {
@@ -6509,6 +6524,21 @@
         "title": "Klarensning kitobi",
         "trailer": "https://ok.ru/video/7094644574814",
         "year": "2023"
+      },
+      "-O3gUssvJYB7gIVqqi4v": {
+        "age": 6,
+        "child": "KINO",
+        "description": "Dehqon o‘z yeridan oqib chiqayotgan suvga egalik qilishini da’vo qilib, qishloqdoshlari bilan qattiq tortishib qolgan. U ochko'zlik kabi jinsiy jihatdan umidsizlikka tushadi.",
+        "genre": "Drama ",
+        "imdb": "7.8",
+        "img": "https://i.imgur.com/vcHaKGW.jpeg",
+        "link": "https://ok.ru/video/7113245461086",
+        "push": "-O3gUssvJYB7gIVqqi4v",
+        "state": "Turkiya ",
+        "time": "07082024040042",
+        "title": "Suvsiz yoz",
+        "trailer": "https://ok.ru/video/7113245461086",
+        "year": "1963"
       }
     },
     "QORQINCHLI": {
@@ -8007,6 +8037,14 @@
     "-O3bLXWZXCY3J8RTqZQj": {
       "id": "-O3bLXVhQc6V_1CDsq34",
       "img": "https://i.imgur.com/qPMdSsl.jpeg"
+    },
+    "-O3gUstr8DT9FCqk-wzl": {
+      "id": "-O3gUssvJYB7gIVqqi4v",
+      "img": "https://i.imgur.com/vcHaKGW.jpeg"
+    },
+    "-O3gW5bybrZgVT1C7GCZ": {
+      "id": "-O3gW5bQ_9aK075HYWCZ",
+      "img": "https://i.imgur.com/rdfoKAI.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -9370,6 +9408,12 @@
       "img": "soon",
       "time": "20052024042222",
       "title": "Девушка брата qayta joylandi"
+    },
+    "-O3bPCGoj7-lp5-k5awR": {
+      "desc": "Salom hammaga bizni yo'qotib qo'ymaslik uchun ilovaga kirganda \"Bizni Telegramda ham kuzating\" tugamasi orqali telegram kanalimizga obuna bo'lib qo'yinglar.",
+      "img": "soon",
+      "time": "06082024041747",
+      "title": "Salom hammaga bizni yo'qotib qo'ymaslik uchun ilovaga kirganda \"Bizni Telegramda ham kuzating\" tugamasi orqali telegram kanalimizga obuna bo'lib qo'yinglar."
     }
   },
   "SERIAL": {
