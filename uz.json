@@ -8045,6 +8045,10 @@
     "-O3gW5bybrZgVT1C7GCZ": {
       "id": "-O3gW5bQ_9aK075HYWCZ",
       "img": "https://i.imgur.com/rdfoKAI.jpeg"
+    },
+    "-O3kr0tgfYZhI-n_IofM": {
+      "id": "-O3kr0syy-0pEu6-TRfU",
+      "img": "https://i.imgur.com/7blGHnd.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -9414,6 +9418,18 @@
       "img": "soon",
       "time": "06082024041747",
       "title": "Salom hammaga bizni yo'qotib qo'ymaslik uchun ilovaga kirganda \"Bizni Telegramda ham kuzating\" tugamasi orqali telegram kanalimizga obuna bo'lib qo'yinglar."
+    },
+    "-O3hRPvJoj-5qifDDUdz": {
+      "desc": "Hammaga salom ilovani eng so'ngi versiyasini urnatib olinglar. Qanday kino kerak funksiyasi ishga tushyapti oxirgi versiyaga yangilib kirsangiz topasiz.",
+      "img": "soon",
+      "time": "07082024082511",
+      "title": "Hammaga salom ilovani eng so'ngi versiyasini urnatib olinglar. Qanday kino kerak funksiyasi ishga tushyapti oxirgi versiyaga yangilib kirsangiz topasiz."
+    },
+    "-O3hYWYpkltFpvPeD5xs": {
+      "desc": "Animelar Fantastik Jangari 18+ kinolar Rus bazadan chiqadi orginal kesilmagan. Ilovani Rus tiliga uzgartirib ko'rish mumkin.",
+      "img": "soon",
+      "time": "07082024085613",
+      "title": "Animelar Fantastik Jangari 18+ kinolar Rus bazadan chiqadi orginal kesilmagan. Ilovani Rus tiliga uzgartirib ko'rish mumkin."
     }
   },
   "SERIAL": {
@@ -10391,6 +10407,21 @@
       "title": "Saroy javohiri",
       "trailer": "https://vk.com/video-186124728_456240192",
       "year": "2003"
+    },
+    "-O3kr0syy-0pEu6-TRfU": {
+      "age": 12,
+      "child": "SERIALX",
+      "description": "Witcher Geralt, mutant va yirtqich hayvon qotili, odamlar ko'pincha yirtqich hayvonlardan ham yomonroq bo'lib chiqadigan dunyoda o'z o'rnini topish uchun kurashadi.",
+      "genre": "Jangari Sarguzashtlar Drama ",
+      "id": "THEWITCHER",
+      "imdb": "8.0",
+      "img": "https://i.imgur.com/7blGHnd.jpeg",
+      "push": "-O3kr0syy-0pEu6-TRfU",
+      "state": "AQSH ",
+      "time": "08082024122018",
+      "title": "Jodugar vedmak",
+      "trailer": "https://vk.com/video-22781583_456244574",
+      "year": "2019"
     }
   },
   "SERIALKOREA": {
@@ -50541,6 +50572,176 @@
         "link": "https://vk.com/video-186124728_456240245",
         "part": 54,
         "title": "Saroy javohiri"
+      }
+    },
+    "THEWITCHER": {
+      "-O3ku3vcK23XDu2cOy9M": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.1-Qism_HD_Daxshat.Net.mp4",
+        "part": 1,
+        "title": "Jodugar vedmak"
+      },
+      "-O3ku6XCHGaUxAWRj3RE": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.2-Qism_HD_Daxshat.Net.mp4",
+        "part": 2,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuAJm1SS52FZuqbXr": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.3-Qism_HD_Daxshat.Net.mp4",
+        "part": 3,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuDbKjIUYNUyVclRN": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.4-Qism_HD_Daxshat.Net.mp4",
+        "part": 4,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuGaxhY-q8PBK0bbk": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.5-Qism_HD_Daxshat.Net.mp4",
+        "part": 5,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuK2ov9yePoTcSK3a": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.6-Qism_HD_Daxshat.Net.mp4",
+        "part": 6,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuN-1PYI8tPKpTIN8": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.7-Qism_HD_Daxshat.Net.mp4",
+        "part": 7,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuQFT3tDq00-ogagU": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/1-Fasl/Jodugar_1.8-Qism_HD_Daxshat.Net.mp4",
+        "part": 8,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuTIcwdWkevmqIlaS": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.1-Qism_HD_Daxshat.Net.mp4",
+        "part": 9,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuWF8Z4_TgAavHQvV": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.2-Qism_HD_Daxshat.Net.mp4",
+        "part": 10,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuZIwet1MN1ZzeGCd": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.3-Qism_HD_Daxshat.Net.mp4",
+        "part": 11,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kubC-VR5-hu_L5OSB": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.4-Qism_HD_Daxshat.Net.mp4",
+        "part": 12,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuemj9iE-X4hHgDsV": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.5-Qism_HD_Daxshat.Net.mp4",
+        "part": 13,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuiBWkLAnV4X6ciVY": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.6-Qism_HD_Daxshat.Net.mp4",
+        "part": 14,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kulJ1qqJXRws4eZVJ": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.7-Qism_HD_Daxshat.Net.mp4",
+        "part": 15,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuoHPu7fPtfyXdT0S": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/2-Fasl/Jodugar_2.8-Qism_HD_Daxshat.Net.mp4",
+        "part": 16,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuqzMXOrQEJ-f8Tv0": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.1-Qism_HD_Daxshat.Net.mp4",
+        "part": 17,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kutyGjZYNzafFBEjF": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.2-Qism_HD_Daxshat.Net.mp4",
+        "part": 18,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuwm2uYko_JJO5NVz": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.3-Qism_HD_Daxshat.Net.mp4",
+        "part": 19,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kuzYy1iEI0ohGXuIb": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.4-Qism_HD_Daxshat.Net.mp4",
+        "part": 20,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kv1MJorIr96FkiOhU": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.5-Qism_HD_Daxshat.Net.mp4",
+        "part": 21,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kv4LYGHP_ClIJedUv": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.6-Qism_HD_Daxshat.Net.mp4",
+        "part": 22,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kv7ZRRI2mB5yn2F-a": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.7-Qism_HD_Daxshat.Net.mp4",
+        "part": 23,
+        "title": "Jodugar vedmak"
+      },
+      "-O3kvAu6kOyjvkjmQ-t7": {
+        "id": "THEWITCHER",
+        "img": "https://i.imgur.com/7blGHnd.jpeg",
+        "link": "https://kxcdn.ru/Seriallar/Jodugar/3-Fasl/Jodugar_3.8-Qism_HD_Daxshat.Net.mp4",
+        "part": 24,
+        "title": "Jodugar vedmak"
       }
     },
     "TRANSFORMERS": {
