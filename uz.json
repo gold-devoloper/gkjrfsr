@@ -2811,6 +2811,21 @@
         "title": "Qil ustida",
         "trailer": "https://ok.ru/video/7110920178270",
         "year": "2019"
+      },
+      "-O3ovMoWHYQAIPMoz8M_": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Madhu (Chiranjeevi) rassom bo'lib, ichkilikboz bo'lib qoladi, chunki uning xotini baxtsiz hodisada turmush qurgandan so'ng darhol o'ldirilgan. U beparvo hayot kechiradi, toki o'g'il bola (Baby Sujitha) .....",
+        "genre": "Jangari Drama Triller ",
+        "imdb": "7.8",
+        "img": "https://i.imgur.com/etzv4T3.jpeg",
+        "link": "https://ok.ru/video/7147078486551",
+        "push": "-O3ovMoWHYQAIPMoz8M_",
+        "state": "Hindiston ",
+        "time": "09082024071744",
+        "title": "Kichik guvoh",
+        "trailer": "https://ok.ru/video/7147078486551",
+        "year": "1987"
       }
     },
     "JANGARI": {
@@ -6539,6 +6554,21 @@
         "title": "Suvsiz yoz",
         "trailer": "https://ok.ru/video/7113245461086",
         "year": "1963"
+      },
+      "-O3oz1catzhMpeSmo9-4": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Norman qizi Chelsi bilan ajralish munosabatlariga ega bo'lgan jirkanchdir. Oltin ko'lmakda u va uning rafiqasi \"Chelsi\" ning yangi yigitining o'g'li Billiga g'amxo'rlik qilishga rozi bo'lishadi va ...",
+        "genre": "Drama ",
+        "imdb": "7.6",
+        "img": "https://i.imgur.com/U0x7t8x.jpeg",
+        "link": "https://ok.ru/video/4859476838935",
+        "push": "-O3oz1catzhMpeSmo9-4",
+        "state": "AQSH ",
+        "time": "09082024073346",
+        "title": "Oltin ko'l",
+        "trailer": "https://ok.ru/video/4859476838935",
+        "year": "1981"
       }
     },
     "QORQINCHLI": {
@@ -8057,6 +8087,14 @@
     "-O3mH2on1cHdEjMGE9GH": {
       "id": "-O3mH2nwBRWTOwjLMUHT",
       "img": "https://i.imgur.com/myC04Xg.jpeg"
+    },
+    "-O3ovMpToPioqIr2RTPg": {
+      "id": "-O3ovMoWHYQAIPMoz8M_",
+      "img": "https://i.imgur.com/etzv4T3.jpeg"
+    },
+    "-O3oz1d4Yn0QCiC0KJhU": {
+      "id": "-O3oz1catzhMpeSmo9-4",
+      "img": "https://i.imgur.com/U0x7t8x.jpeg"
     }
   },
   "MULTISERIAL": {
