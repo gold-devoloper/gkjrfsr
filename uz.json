@@ -2856,6 +2856,21 @@
         "title": "Beva politsiyachi 1",
         "trailer": "https://ok.ru/video/7129781176926",
         "year": "2023"
+      },
+      "-O4EZ-8EYtxMEcNxHGXn": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Detektiv jinoyat sodir bo'lgan ikki xil voqea o'rtasidagi haqiqatni qidiradi.",
+        "genre": "Kriminal Triller ",
+        "imdb": "7.2",
+        "img": "https://i.imgur.com/edRWsjJ.jpeg",
+        "link": "https://ok.ru/video/522183576263",
+        "push": "-O4EZ-8EYtxMEcNxHGXn",
+        "state": "Hindiston ",
+        "time": "14082024112523",
+        "title": "Tasodif",
+        "trailer": "https://ok.ru/video/376470898163",
+        "year": "2017"
       }
     },
     "JANGARI": {
@@ -4808,6 +4823,21 @@
         "title": "Tornadolar",
         "trailer": "https://vk.com/video-106842449_456245092",
         "year": "2024"
+      },
+      "-O4E_a3LQGNEVFjMBQNv": {
+        "age": 16,
+        "child": "KINO",
+        "description": "1990 yil Janubiy Koreya ham, Shimoliy Koreya ham BMTga a'zo emas, shuning uchun ikkala davlat ham Afrika mamlakatlarida Tashkilotda ovozga ega bo'lgan diplomatik ittifoqchilarni topish ustida faol ishlamoqda. Mogadishudagi har ikki elchixona xodimlari intriga va parda ortidagi janglar bilan band bo‘lsa, Somalidagi fuqarolar urushi 10 yildan beri poytaxtni qamrab olgan.",
+        "genre": "Jangari Drama Triller ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/vFaaXwp.jpeg",
+        "link": "https://ok.ru/video/7126835792478",
+        "push": "-O4E_a3LQGNEVFjMBQNv",
+        "state": "Janubiy Koreya ",
+        "time": "14082024113221",
+        "title": "Mogadishodan qochish",
+        "trailer": "https://ok.ru/video/3150893156909",
+        "year": "2021"
       }
     },
     "KOMEDIYA": {
@@ -8213,6 +8243,14 @@
     "-O4E30_VHcShvgv8IOHC": {
       "id": "-O4E30ZnnBouvUm-b2mk",
       "img": "https://i.imgur.com/DRursSd.jpeg"
+    },
+    "-O4EZ-9C8YAoI7hYN10J": {
+      "id": "-O4EZ-8EYtxMEcNxHGXn",
+      "img": "https://i.imgur.com/edRWsjJ.jpeg"
+    },
+    "-O4E_a45SPOuIlq3I4o0": {
+      "id": "-O4E_a3LQGNEVFjMBQNv",
+      "img": "https://i.imgur.com/vFaaXwp.jpeg"
     }
   },
   "MULTISERIAL": {
