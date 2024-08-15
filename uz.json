@@ -1519,6 +1519,21 @@
         "title": "X-Men",
         "trailer": "https://vk.com/video-52925039_171604157",
         "year": "2016"
+      },
+      "-O4Ky4lwDVDbA17JIIPQ": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Hukumat mutantlarni o'zgartirishni taqiqlaganida, ular qochishga majbur bo'lishadi. O'ziga xos qobiliyatlari ularni jamiyatdan xavfli deb hisoblab, tashqariga chiqarib yuboradi. Ularni birma -bir yo'q qilishga buyurilgan maxsus agentlar ovlaydilar. Ov allaqachon boshlangan, lekin birdaniga takomillashtirilgan yangi avlod modasi maydonga kiradi: inson go'shtidagi o'ldirish mashinasi. Ovchilar va o'lja o'rtasidagi kuchlar muvozanati keskin o'zgaradi.",
+        "genre": "Jangari Ilmiy-fantastik ",
+        "imdb": "4.8",
+        "img": "https://i.imgur.com/55AOQCW.jpeg",
+        "link": "https://ok.ru/video/7136294931038",
+        "push": "-O4Ky4lwDVDbA17JIIPQ",
+        "state": "Kanada ",
+        "time": "15082024051705",
+        "title": "Modifikatlar / Rivojlanganlar",
+        "trailer": "https://ok.ru/video/7136294931038",
+        "year": "2019"
       }
     },
     "HIND": {
@@ -6704,6 +6719,36 @@
         "title": "Yosh yigit kees / Hayolparast keys",
         "trailer": "https://ok.ru/video/7131106642526",
         "year": "2003"
+      },
+      "-O4JFUN4mYWtsqKymO0K": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Turli olamlarga tegishli bo'lgan ikki yoshning hikoyasi. Babi mehribonlik va aybsizlikni namoyon etadigan boy qiz. Ache - isyonkor bola, dürtüsel, hushsiz, xavf va xavfga moyil. Bu dargumon, deyarli imkonsiz, lekin ularning uchrashuvi muqarrar, va ular o'rtasidagi bu hayajonli sayohatda birinchi katta sevgi yuzaga keladi.",
+        "genre": "Jangari Drama Romantika ",
+        "imdb": "6.8",
+        "img": "https://i.imgur.com/wqQnFUh.jpeg",
+        "link": "https://ok.ru/video/6252718393950",
+        "push": "-O4JFUN4mYWtsqKymO0K",
+        "state": "Ispaniya ",
+        "time": "15082024091814",
+        "title": "Samolardan balandda 1",
+        "trailer": "https://ok.ru/video/6252718393950",
+        "year": "2010"
+      },
+      "-O4KzUoqQOoMPeX2wBp1": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Fuqarolar urushi davom etar ekan, AQSh prezidenti Avraam Linkoln urush maydonida davom etayotgan qirg'inlar bilan kurashmoqda, chunki u o'z kabinetidagi ko'pchilik bilan urushni ozod qilish qarori bilan kurashmoqda ..",
+        "genre": "Tarixiy Biografiya Drama ",
+        "imdb": "7.3",
+        "img": "https://i.imgur.com/al7euYd.jpeg",
+        "link": "https://ok.ru/video/7135824841310",
+        "push": "-O4KzUoqQOoMPeX2wBp1",
+        "state": "AQSH Hindiston ",
+        "time": "15082024052314",
+        "title": "Linkoln",
+        "trailer": "https://ok.ru/video/340497927708",
+        "year": "2012"
       }
     },
     "QORQINCHLI": {
@@ -8289,6 +8334,18 @@
     "-O4Ipwqld4sU3K0dtFDC": {
       "id": "-O4IpwpqONXhLYgnQcTN",
       "img": "https://i.imgur.com/Cjt1u4d.jpeg"
+    },
+    "-O4JFUOT8LUWEQjPIUUH": {
+      "id": "-O4JFUN4mYWtsqKymO0K",
+      "img": "https://i.imgur.com/wqQnFUh.jpeg"
+    },
+    "-O4Ky4nBkUpovFoeTSiT": {
+      "id": "-O4Ky4lwDVDbA17JIIPQ",
+      "img": "https://i.imgur.com/55AOQCW.jpeg"
+    },
+    "-O4KzUpaJKCmxw0nkzRd": {
+      "id": "-O4KzUoqQOoMPeX2wBp1",
+      "img": "https://i.imgur.com/al7euYd.jpeg"
     }
   },
   "MULTISERIAL": {
