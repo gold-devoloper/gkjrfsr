@@ -5605,6 +5605,21 @@
         "title": "Loganlar omadi",
         "trailer": "https://vk.com/video-184447514_456244081",
         "year": "2017"
+      },
+      "-O4IpwpqONXhLYgnQcTN": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ikki butunlay boshqa oila bir tom ostida yashashga majbur. Bu qiyin bo'lib chiqdi. Umumiy til topishga harakat qilgan sotuvchilar har doim kulgili va bema'ni vaziyatlarga duch kelishadi, ammo natijada ular haqiqiy oilaga aylanadi.\n",
+        "genre": "Drama Komediya ",
+        "imdb": "0",
+        "img": "https://i.imgur.com/Cjt1u4d.jpeg",
+        "link": "https://ok.ru/video/7133335128670",
+        "push": "-O4IpwpqONXhLYgnQcTN",
+        "state": "Qozog'iston ",
+        "time": "15082024072217",
+        "title": "Sig'indi quda  / Kvartirantlar",
+        "trailer": "https://ok.ru/video/7133335128670",
+        "year": "2020"
       }
     },
     "MULTFILM": {
@@ -5892,6 +5907,21 @@
         "title": "Ultramen",
         "trailer": "https://vk.com/video-125013150_456242571",
         "year": "2024"
+      },
+      "-O4ImsvYe84aAt8V8xRb": {
+        "age": 6,
+        "child": "KINO",
+        "description": "O'n yoshli Ben otasi Konor va singlisi Saoirse bilan orol mayoqchasida yashaydi. Qiz haligacha gapirmaydi, lekin ma'lum bo'lishicha, u shelkie, ya'ni olti yil oldin g'oyib bo'lgan onasi kabi muhr xalqiga tegishli. Qo'rqib ketgan Konor bolalarni buvisini ko'rish uchun shaharga jo'natadi, lekin Ben qaytishni orzu qiladi va dengiz Saoirseni chaqirishda davom etadi. Shunday qilib, ularning uyga sarguzashtli sayohati boshlanadi.",
+        "genre": "Animatsiya Sarguzashtlar Drama ",
+        "imdb": "8.0",
+        "img": "https://i.imgur.com/hYfKCQo.jpeg",
+        "link": "https://ok.ru/video/7135136254558",
+        "push": "-O4ImsvYe84aAt8V8xRb",
+        "state": "Irlandiya Belgiya Fransiya ",
+        "time": "15082024070855",
+        "title": "Dengiz musiqasi",
+        "trailer": "https://ok.ru/video/7135136254558",
+        "year": "2014"
       }
     },
     "OTHER": {
@@ -8251,6 +8281,14 @@
     "-O4E_a45SPOuIlq3I4o0": {
       "id": "-O4E_a3LQGNEVFjMBQNv",
       "img": "https://i.imgur.com/vFaaXwp.jpeg"
+    },
+    "-O4ImsxLUULlmMA_52jX": {
+      "id": "-O4ImsvYe84aAt8V8xRb",
+      "img": "https://i.imgur.com/hYfKCQo.jpeg"
+    },
+    "-O4Ipwqld4sU3K0dtFDC": {
+      "id": "-O4IpwpqONXhLYgnQcTN",
+      "img": "https://i.imgur.com/Cjt1u4d.jpeg"
     }
   },
   "MULTISERIAL": {
