@@ -1092,7 +1092,7 @@
         "genre": "Jangari Sarguzashtlar Ilmiy-fantastik ",
         "imdb": "6.6",
         "img": "https://i.imgur.com/0iPtHrH.jpeg",
-        "link": "https://ok.ru/video/7736562420273",
+        "link": "https://ok.ru/video/7138308000350",
         "push": "-Nv-re6M_HDqbd6OwPVL",
         "state": "Janubiy Koreya ",
         "time": "09042024082046",
@@ -4853,6 +4853,21 @@
         "title": "Mogadishodan qochish",
         "trailer": "https://ok.ru/video/3150893156909",
         "year": "2021"
+      },
+      "-O4LGycWhnPBaTXzBNSD": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Ko'zgudagi bolakay / Oydanagi bola Braziliya filmi Uzbek tilida O'zbekcha 2014 tarjima kino Full HD tas-ix skachat Yosh Fernando notinch xarakteri tufayli doim muammoga duch keladi. U yana muammoga duch kelganida, uning Odinref nomli oynadagi aksi paydo bo'lgan muammolarni engishga yordam berish uchun haqiqiy dunyoda paydo bo'ladi. Ammo vaqt o'tishi bilan voqealar Fernando xohlaganidan butunlay boshqacha rivojlana boshlaydi...",
+        "genre": "Jangari Drama Sarguzashtlar ",
+        "imdb": "6.0",
+        "img": "https://i.imgur.com/3cP0OGd.jpeg",
+        "link": "https://ok.ru/video/7135824906846",
+        "push": "-O4LGycWhnPBaTXzBNSD",
+        "state": "Braziliya",
+        "time": "15082024064359",
+        "title": "Ko'zgudagi bolakay / oynadagi bolakay",
+        "trailer": "https://ok.ru/video/7135824906846",
+        "year": "2014"
       }
     },
     "KOMEDIYA": {
@@ -8346,6 +8361,10 @@
     "-O4KzUpaJKCmxw0nkzRd": {
       "id": "-O4KzUoqQOoMPeX2wBp1",
       "img": "https://i.imgur.com/al7euYd.jpeg"
+    },
+    "-O4LGyd5nnEWcZm_vjSo": {
+      "id": "-O4LGycWhnPBaTXzBNSD",
+      "img": "https://i.imgur.com/3cP0OGd.jpeg"
     }
   },
   "MULTISERIAL": {
