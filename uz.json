@@ -8365,6 +8365,10 @@
     "-O4LGyd5nnEWcZm_vjSo": {
       "id": "-O4LGycWhnPBaTXzBNSD",
       "img": "https://i.imgur.com/3cP0OGd.jpeg"
+    },
+    "-O4UmFhtn3f58emsOl4o": {
+      "id": "-O4UmFhA19scT0JiwXi0",
+      "img": "https://i.imgur.com/0zKVKwM.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -12294,6 +12298,21 @@
       "title": "Shaxzodaning qo'shig'i",
       "trailer": "https://vk.com/video-186124728_456248272",
       "year": "2005"
+    },
+    "-O4UmFhA19scT0JiwXi0": {
+      "age": 16,
+      "child": "SERIALKOREAX",
+      "description": "Kambag'al oiladan chiqqan yorqin talaba Jang Se Xun va otasi yirik to'qimachilik kompaniyasining bosh direktori bo'lgan badavlat oiladan bo'lgan qiz Li Ji Yunning sevgi hikoyasi. Oilasining noroziligiga qaramay, Li Ji Yun Jang Se Xunga bo'lgan his-tuyg'ularidan voz kechishni istamaydi va ular ajralishlaridan qo'rqib, farzandiga ataylab homilador bo'lib, turmush qurishga qaror qiladi. Uning rejasi muvaffaqiyatli bo'ladi, lekin u o'zi uchun g'ayrioddiy sharoitlarda yashay olmaydi va bundan tashqari, u chaqaloqni yo'qotadi. Ota-onasiga qaytib, u barcha muammolar uchun Se-Xunni ayblaydi va uni qaytarib olishga bo'lgan barcha harakatlariga qaramay, qat'iy qoladi.",
+      "genre": "Romantika Drama ",
+      "id": "QAQNUSFENİKS",
+      "imdb": "7.8",
+      "img": "https://i.imgur.com/0zKVKwM.jpeg",
+      "push": "-O4UmFhA19scT0JiwXi0",
+      "state": "Janubiy Koreya ",
+      "time": "17082024030137",
+      "title": "Qaqnus / Feniks",
+      "trailer": "https://ok.ru/video/7059610012271",
+      "year": "2004"
     }
   },
   "SERIALKOREAX": {
@@ -21076,6 +21095,99 @@
         "link": "https://files.uzmovi.club/film9/chert/Qalbim%20Eshigin%20Chert%2084.mp4",
         "part": 84,
         "title": "Qalbim Eshigini Chert"
+      }
+    },
+    "QAQNUSFENİKS": {
+      "-O4UmO9MwrC71p0KN1-l": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/7059610012271",
+        "part": 1,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4Umpp9CQwTZaJH6pA4": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724627550",
+        "part": 2,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UmwlH8nxiCM2HII09": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/39165954765",
+        "part": 3,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4Un2DT4Kk_0J5DuTkk": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724824158",
+        "part": 4,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4Un8oMPM7hQceiQkXd": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724758622",
+        "part": 5,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UnIaFH6GysY9hEUaX": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724562014",
+        "part": 6,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UnghOUQyWYgWPBmhK": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/38250351221",
+        "part": 8,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UnmJc3nmQ5Off_WPy": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724365406",
+        "part": 9,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4Unx0RMkiM3shniY68": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724955230",
+        "part": 7,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UoEfWRwpWgc55luw1": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724299870",
+        "part": 10,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UoKuqgIe73oGCEWEN": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724496478",
+        "part": 11,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UoPjd_SXelnMDcz_O": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724234334",
+        "part": 12,
+        "title": "Qaqnus / Feniks"
+      },
+      "-O4UoTxbnIh18q0HFCih": {
+        "id": "QAQNUSFENİKS",
+        "img": "https://i.imgur.com/0zKVKwM.jpeg",
+        "link": "https://ok.ru/video/6281724168798",
+        "part": 13,
+        "title": "Qaqnus / Feniks"
       }
     },
     "QISHSONATASIUZ": {
