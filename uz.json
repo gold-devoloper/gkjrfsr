@@ -1534,6 +1534,21 @@
         "title": "Modifikatlar / Rivojlanganlar",
         "trailer": "https://ok.ru/video/7136294931038",
         "year": "2019"
+      },
+      "-O4WIMPzDF9KEQMH8EDs": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Biokimyogar Maykl Morbius kam uchraydigan qon kasalligidan o'zini davolashga harakat qiladi, lekin uning o'rniga u beixtiyor o'zini vampirizm shaklini yuqtiradi.",
+        "genre": "Sarguzashtlar Ujas Ilmiy-fantastik Triller Jangari ",
+        "imdb": "5.1",
+        "img": "https://i.imgur.com/d9hzrdU.jpeg",
+        "link": "https://kxcdn.ru/Morbius_2022_HD_Daxshat.Net.mp4",
+        "push": "-O4WIMPzDF9KEQMH8EDs",
+        "state": "AQSH ",
+        "time": "17082024100552",
+        "title": "Morbius",
+        "trailer": "https://ok.ru/video/6580408093185",
+        "year": "2022"
       }
     },
     "HIND": {
@@ -4868,6 +4883,21 @@
         "title": "Ko'zgudagi bolakay / oynadagi bolakay",
         "trailer": "https://ok.ru/video/7135824906846",
         "year": "2014"
+      },
+      "-O4WGYh0F1ogxyqG7KjB": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Ethan Hunt va uning XVF jamoasi xavfli qurolni noto'g'ri qo'llarga tushishidan oldin izlashlari kerak.",
+        "genre": "Jangari Sarguzashtlar ",
+        "imdb": "7.7",
+        "img": "https://i.imgur.com/ZmRo8M0.jpeg",
+        "link": "https://ok.ru/video/6804602096177",
+        "push": "-O4WGYh0F1ogxyqG7KjB",
+        "state": "AQSH ",
+        "time": "17082024095758",
+        "title": "Uddalab bo'lmas topshiriq 7",
+        "trailer": "https://ok.ru/video/3609454316131",
+        "year": "2023"
       }
     },
     "KOMEDIYA": {
@@ -8369,6 +8399,14 @@
     "-O4UmFhtn3f58emsOl4o": {
       "id": "-O4UmFhA19scT0JiwXi0",
       "img": "https://i.imgur.com/0zKVKwM.jpeg"
+    },
+    "-O4WGYhgcfAnGS9TwAkY": {
+      "id": "-O4WGYh0F1ogxyqG7KjB",
+      "img": "https://i.imgur.com/ZmRo8M0.jpeg"
+    },
+    "-O4WIMQwOjd8iFKAe5WM": {
+      "id": "-O4WIMPzDF9KEQMH8EDs",
+      "img": "https://i.imgur.com/d9hzrdU.jpeg"
     }
   },
   "MULTISERIAL": {
