@@ -4898,6 +4898,36 @@
         "title": "Uddalab bo'lmas topshiriq 7",
         "trailer": "https://ok.ru/video/3609454316131",
         "year": "2023"
+      },
+      "-O4_9zq7CkTZqU0lwims": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Sharq armiyasi G‘arb armiyasiga qarshi qurol ko‘targan Yaponiyaning 17-asrdagi Sekigahara jangi tasviri.",
+        "genre": "Urush Drama Tarixiy ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/sFPjU4f.jpeg",
+        "link": "https://ok.ru/video/7144016054878",
+        "push": "-O4_9zq7CkTZqU0lwims",
+        "state": "Yaponiya ",
+        "time": "18082024040747",
+        "title": "Sekigahara",
+        "trailer": "https://vk.com/video-55599630_456239762",
+        "year": "2017"
+      },
+      "-O4_BXQCXjB0LOzNaUAv": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Yollanma askarlar guruhi xavfli cho'l bo'ylab ikki yuk mashinasi portlovchi moddalarni tashish uchun 24 soatga ega.",
+        "genre": "Jangari Drama Sarguzashtlar Triller ",
+        "imdb": "4.6",
+        "img": "https://i.imgur.com/mmyxHmi.jpeg",
+        "link": "https://ok.ru/video/7141531650654",
+        "push": "-O4_BXQCXjB0LOzNaUAv",
+        "state": "Fransiya ",
+        "time": "18082024041431",
+        "title": "Qo'quv badali",
+        "trailer": "https://vk.com/video-186658020_456244637",
+        "year": "2024"
       }
     },
     "KOMEDIYA": {
@@ -8407,6 +8437,14 @@
     "-O4WIMQwOjd8iFKAe5WM": {
       "id": "-O4WIMPzDF9KEQMH8EDs",
       "img": "https://i.imgur.com/d9hzrdU.jpeg"
+    },
+    "-O4_9zqX7u70KPj07toE": {
+      "id": "-O4_9zq7CkTZqU0lwims",
+      "img": "https://i.imgur.com/sFPjU4f.jpeg"
+    },
+    "-O4_BXRG6cPYFax5B2RO": {
+      "id": "-O4_BXQCXjB0LOzNaUAv",
+      "img": "https://i.imgur.com/mmyxHmi.jpeg"
     }
   },
   "MULTISERIAL": {
