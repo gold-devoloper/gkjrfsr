@@ -6824,6 +6824,36 @@
         "title": "Linkoln",
         "trailer": "https://ok.ru/video/340497927708",
         "year": "2012"
+      },
+      "-O4_m2SxtdUbDvDB4nHs": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Sibir taygasining bepoyonligidan oldin, muzlagan Baykal ko'li qirg'og'ida, shahardan qochgan parijlik rahbar o'zi orzu qilgan hamma narsani topadi: chuqur o'rganish ...",
+        "genre": "Sarguzashtlar Drama ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/s2QZkUE.jpeg",
+        "link": "https://ok.ru/video/7138801879646",
+        "push": "-O4_m2SxtdUbDvDB4nHs",
+        "state": "Fransiya ",
+        "time": "18082024065826",
+        "title": "Sibir o'rmonlarida",
+        "trailer": "https://ok.ru/video/7138801879646",
+        "year": "2016"
+      },
+      "-O4_n6OrpQLcPqgz_-dr": {
+        "age": 0,
+        "child": "KINO",
+        "description": "Golden Retriever kuchukchasi Napoleon va uning do'sti, to'tiqush Birdo Luccining sarguzashtlari.",
+        "genre": "Oilaviy Sarguzashtlar ",
+        "imdb": "6.0",
+        "img": "https://i.imgur.com/ynNbOHo.jpeg",
+        "link": "https://ok.ru/video/7135830411870",
+        "push": "-O4_n6OrpQLcPqgz_-dr",
+        "state": "AQSH Yaponiya Avstriya ",
+        "time": "18082024070304",
+        "title": "Napoleon",
+        "trailer": "https://ok.ru/video/7135830411870",
+        "year": "1995"
       }
     },
     "QORQINCHLI": {
@@ -8445,6 +8475,14 @@
     "-O4_BXRG6cPYFax5B2RO": {
       "id": "-O4_BXQCXjB0LOzNaUAv",
       "img": "https://i.imgur.com/mmyxHmi.jpeg"
+    },
+    "-O4_m2UHAoNqk3CL8aT1": {
+      "id": "-O4_m2SxtdUbDvDB4nHs",
+      "img": "https://i.imgur.com/s2QZkUE.jpeg"
+    },
+    "-O4_n6PctvS5BeXU6Q4Q": {
+      "id": "-O4_n6OrpQLcPqgz_-dr",
+      "img": "https://i.imgur.com/ynNbOHo.jpeg"
     }
   },
   "MULTISERIAL": {
