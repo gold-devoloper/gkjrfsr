@@ -5710,6 +5710,21 @@
         "title": "Sig'indi quda  / Kvartirantlar",
         "trailer": "https://ok.ru/video/7133335128670",
         "year": "2020"
+      },
+      "-O4dKur3uYD6W7lND_BA": {
+        "age": 16,
+        "child": "KINO",
+        "description": "\"Beshiktosh\" futbol jamoasining ashaddiy muhlisi bo'lgan Mesut haliham uylanmagan, so'qqabosh. Onasi esa qanday bo'lmasin o'g'lini uylantirish dardida, Mesut tabiatan mard, birso'zli, jaydari yigit, oddiy taksi haydovchisi bo'lib ishlaydi. Nihan esa yigitning butunlay aksi, u o'ziga to'q oilada katta bo'lgan, mashhur oliygohlarda ta'lim olgan va eng muhimi turmushga chiqqan. Lekin eri bilan ajrashish arafasida. Bunga esa erining ziqnaligi sabab. Bu ikki yoshning hayot yo'llari kutilmagan tasodif tufayli kesishadi.",
+        "genre": "Komediya Romantika ",
+        "imdb": "4.6",
+        "img": "https://i.imgur.com/ys6YBDl.jpeg",
+        "link": "https://ok.ru/video/7145202256478",
+        "push": "-O4dKur3uYD6W7lND_BA",
+        "state": "Turkiya ",
+        "time": "19082024113359",
+        "title": "Tanho sevgilim",
+        "trailer": "https://ok.ru/video/7637223738037",
+        "year": "2023"
       }
     },
     "MULTFILM": {
@@ -6854,6 +6869,21 @@
         "title": "Napoleon",
         "trailer": "https://ok.ru/video/7135830411870",
         "year": "1995"
+      },
+      "-O4dJpvgBBUSC-8F0dMm": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Birinchi jahon urushidan keyin Mudros sulh natijasida Istanbul ishg'ol qilingan va Fenerbahche futbol jamoasi \"Harington kubogi\"ni qo'lga kiritgan kunlar",
+        "genre": "Biografiya Tarixiy Sport ",
+        "imdb": "6.0",
+        "img": "https://i.imgur.com/PnG71nH.jpeg",
+        "link": "https://ok.ru/video/7145202322014",
+        "push": "-O4dJpvgBBUSC-8F0dMm",
+        "state": "Turkiya ",
+        "time": "19082024112917",
+        "title": "G'alaba tafti ",
+        "trailer": "https://ok.ru/video/7145202322014",
+        "year": "2024"
       }
     },
     "QORQINCHLI": {
@@ -8483,6 +8513,14 @@
     "-O4_n6PctvS5BeXU6Q4Q": {
       "id": "-O4_n6OrpQLcPqgz_-dr",
       "img": "https://i.imgur.com/ynNbOHo.jpeg"
+    },
+    "-O4dJpwYkQTD6CszdvyG": {
+      "id": "-O4dJpvgBBUSC-8F0dMm",
+      "img": "https://i.imgur.com/PnG71nH.jpeg"
+    },
+    "-O4dKus6IVRo0HsfdwSL": {
+      "id": "-O4dKur3uYD6W7lND_BA",
+      "img": "https://i.imgur.com/ys6YBDl.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -9888,6 +9926,12 @@
       "img": "soon",
       "time": "12082024124331",
       "title": "Ilovaga yangilsh bordi play market orqali yangilab olinglar o'zidan yangilash ishlagani yoq kirmay qoladi."
+    },
+    "-O4_ralt-7DaEhbyyKhh": {
+      "desc": "Ilova tilini o'zgartirsangiz kinolar ham o'zgaradi. siz ko'rmagan kinolar usha yerda buni sinab ko'ring Misol uchun Rus tiliga o'zgartiring kinolar ham Rus tiliga o'zgaradi.",
+      "img": "soon",
+      "time": "18082024072241",
+      "title": "Ilova tilini o'zgartirsangiz kinolar ham o'zgaradi. siz ko'rmagan kinolar usha yerda buni sinab ko'ring Misol uchun Rus tiliga o'zgartiring kinolar ham Rus tiliga o'zgaradi."
     }
   },
   "SERIAL": {
