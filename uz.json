@@ -8525,6 +8525,10 @@
     "-O4ejn8nSvFR1fnqRW6t": {
       "id": "-O4ejn7o4yhZqsqkuuiX",
       "img": "https://i.imgur.com/sykTC8o.jpeg"
+    },
+    "-O4zQGKpUrX3ya72lXqy": {
+      "id": "-O4zQGKAZ0Yju92TmzWv",
+      "img": "https://i.imgur.com/b7kg5Pz.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -17888,6 +17892,55 @@
         "link": "https://film10.uzmovi.club/haru/9qism.mp4",
         "part": 9,
         "title": "Men tasodifan uchratgan HaRu"
+      },
+      "-O54f3RRaY6GuPoWmUkK": {
+        "id": "MENTASODIFANUCHRATGANHARU",
+        "img": "https://i.imgur.com/1ZBJQAI.jpg",
+        "link": "https://film10.uzmovi.club/haru/10qism.mp4",
+        "part": 10,
+        "title": "Men tasodifan uchratgan HaRu"
+      },
+      "-O54f6pwu04CRVkIUBxU": {
+        "id": "MENTASODIFANUCHRATGANHARU",
+        "img": "https://i.imgur.com/1ZBJQAI.jpg",
+        "link": "https://film10.uzmovi.club/haru/011qism.mp4",
+        "part": 11,
+        "title": "Men tasodifan uchratgan HaRu"
+      },
+      "-O54f9pxym-tlBD4P2lw": {
+        "id": "MENTASODIFANUCHRATGANHARU",
+        "img": "https://i.imgur.com/1ZBJQAI.jpg",
+        "link": "https://film10.uzmovi.club/haru/120qism.mp4",
+        "part": 12,
+        "title": "Men tasodifan uchratgan HaRu"
+      },
+      "-O54fCO0GPPvG_Wy3kco": {
+        "id": "MENTASODIFANUCHRATGANHARU",
+        "img": "https://i.imgur.com/1ZBJQAI.jpg",
+        "link": "https://film10.uzmovi.club/haru/13qism.mp4",
+        "part": 13,
+        "title": "Men tasodifan uchratgan HaRu"
+      },
+      "-O54fEvatQojlyENkUPt": {
+        "id": "MENTASODIFANUCHRATGANHARU",
+        "img": "https://i.imgur.com/1ZBJQAI.jpg",
+        "link": "https://film10.uzmovi.club/haru/14qism.mp4",
+        "part": 14,
+        "title": "Men tasodifan uchratgan HaRu"
+      },
+      "-O54fIl9KNQVK2oV-JMV": {
+        "id": "MENTASODIFANUCHRATGANHARU",
+        "img": "https://i.imgur.com/1ZBJQAI.jpg",
+        "link": "https://film10.uzmovi.club/haru/15qism.mp4",
+        "part": 15,
+        "title": "Men tasodifan uchratgan HaRu"
+      },
+      "-O54fM7-iUJE_A_5uNWU": {
+        "id": "MENTASODIFANUCHRATGANHARU",
+        "img": "https://i.imgur.com/1ZBJQAI.jpg",
+        "link": "https://film10.uzmovi.club/haru/16qism.mp4",
+        "part": 16,
+        "title": "Men tasodifan uchratgan HaRu"
       }
     },
     "MOJIZALARBOGIKR": {
@@ -25717,6 +25770,21 @@
       "title": "Ezel",
       "trailer": "https://ok.ru/video/2642690771581",
       "year": "2009"
+    },
+    "-O4zQGKAZ0Yju92TmzWv": {
+      "age": 12,
+      "child": "SERIALTURKIYAX",
+      "description": "Afsonaviy Po‘lat Alemdar haqiqatni ochib beradi, yashirin dushmanlarni yengadi va o‘z vataniga xizmat qiladi.",
+      "genre": "Jangari Kriminal Drama Triller ",
+      "id": "QPUSU",
+      "imdb": "6.2",
+      "img": "https://i.imgur.com/b7kg5Pz.jpeg",
+      "push": "-O4zQGKAZ0Yju92TmzWv",
+      "state": "Turkiya ",
+      "time": "23082024062901",
+      "title": "Qashqirlar makoni pistirma",
+      "trailer": "https://ok.ru/video/7377588324950",
+      "year": "2007"
     }
   },
   "SERIALTURKIYAX": {
@@ -37062,6 +37130,22 @@
         "link": "https://film10.uzmovi.club/qorgon/139qism.mp4",
         "part": 139,
         "title": "Qo'rg'on shahzodasi"
+      }
+    },
+    "QPUSU": {
+      "-O4zRHDSW5aUEU2gNrGT": {
+        "id": "QPUSU",
+        "img": "https://i.imgur.com/b7kg5Pz.jpeg",
+        "link": "https://ok.ru/video/7377588324950",
+        "part": 1,
+        "title": "Qashqirlar makoni pistirma"
+      },
+      "-O4zRTPOFAPYuSYJ9-If": {
+        "id": "QPUSU",
+        "img": "https://i.imgur.com/b7kg5Pz.jpeg",
+        "link": "https://ok.ru/video/2129244064317",
+        "part": 2,
+        "title": "Qashqirlar makoni pistirma"
       }
     },
     "RAMOTR": {
