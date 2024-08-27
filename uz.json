@@ -2901,6 +2901,21 @@
         "title": "Tasodif",
         "trailer": "https://ok.ru/video/376470898163",
         "year": "2017"
+      },
+      "-O5HIJezOVTv6h4EDpIm": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Harbiy havo kuchlari uchuvchisi Tejas Gillning g'ayrioddiy sayohati atrofida bo'lib, Hindistonni tinimsiz himoya qilayotgan jasur askarlarni ilhomlantirish va chuqur g'urur tuyg'usini uyg'otishni maqsad qilgan.",
+        "genre": "Jangari Drama Kriminal ",
+        "imdb": "4.2",
+        "img": "https://i.imgur.com/wIFcw62.jpeg",
+        "link": "https://ok.ru/video/8531877825105",
+        "push": "-O5HIJezOVTv6h4EDpIm",
+        "state": "Hindiston ",
+        "time": "27082024102704",
+        "title": "Tejas",
+        "trailer": "https://ok.ru/video/2951794330260",
+        "year": "2023"
       }
     },
     "JANGARI": {
@@ -6027,6 +6042,21 @@
         "title": "Dengiz musiqasi",
         "trailer": "https://ok.ru/video/7135136254558",
         "year": "2014"
+      },
+      "-O5HK2owxLM0hB1xQAOB": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Syujet sharoit bosimi ostida kuchning qorong‘u tomoni vasvasasiga berilib, yangi tashkil etilgan Galaktika imperiyasiga sodiqlik qasamyod qilgan tungi opa Morgan Elsbet va Jedi Barris Offi haqida hikoya qiladi. Morgan Elsbet g'azab va qasos olish istagi bilan boshqariladi, chunki qo'zg'olonchi general Grievous droidlar armiyasi bilan birga o'zining uy sayyorasi Dathomirda genotsidni amalga oshirdi. Axsoka Tanoning yaqin do'sti Barriss Offee, respublika umidsiz ravishda korruptsiya botqog'iga botgan va Jedi o'zlarining asl ideallariga xiyonat qilgan degan xulosaga kelgan.",
+        "genre": "Jangari Animatsiya Ilmiy-fantastik Fantastika ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/QTpJc8a.jpeg",
+        "link": "https://ok.ru/video/7148047960670",
+        "push": "-O5HK2owxLM0hB1xQAOB",
+        "state": "AQSH ",
+        "time": "27082024103440",
+        "title": "Yulduzlar jangi: Imperiya afsonalari",
+        "trailer": "https://ok.ru/video/7148047960670",
+        "year": "2024"
       }
     },
     "OTHER": {
@@ -8529,6 +8559,14 @@
     "-O4zQGKpUrX3ya72lXqy": {
       "id": "-O4zQGKAZ0Yju92TmzWv",
       "img": "https://i.imgur.com/b7kg5Pz.jpeg"
+    },
+    "-O5HIJfiZ8VrjfIDddXF": {
+      "id": "-O5HIJezOVTv6h4EDpIm",
+      "img": "https://i.imgur.com/wIFcw62.jpeg"
+    },
+    "-O5HK2pNFgIAvsLh7TRf": {
+      "id": "-O5HK2owxLM0hB1xQAOB",
+      "img": "https://i.imgur.com/QTpJc8a.jpeg"
     }
   },
   "MULTISERIAL": {
