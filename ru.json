@@ -385,6 +385,23 @@
     }
   },
   "CATEGORYX": {
+    "ANIME": {
+      "-O5NkwM03Hw4De1gWXyn": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Исследуйте фантастическую страну Gearbolt, следуя за разношерстной командой путешественников в незабываемом путешествии, чтобы воссоединить двух лучших друзей.",
+        "genre": "Анимация Фантастика ",
+        "imdb": "6.7",
+        "img": "https://i.imgur.com/UIrjAZU.jpeg",
+        "link": "https://vk.com/video-223669420_456239026",
+        "push": "-O5NkwM03Hw4De1gWXyn",
+        "state": "Япония ",
+        "time": "28082024043412",
+        "title": "Пушечные ядра",
+        "trailer": "https://vk.com/video-34788285_456247545",
+        "year": "2019"
+      }
+    },
     "FANTASTIK": {
       "-NrENs3LT53X3P8ya_AD": {
         "age": 16,
@@ -2294,6 +2311,10 @@
     "-O4dZfVpV35U8100sHDI": {
       "id": "-O4dZfUuE0KLDuwX-urn",
       "img": "https://i.imgur.com/sLMVHoq.jpeg"
+    },
+    "-O5NkwNFqTEkLbt-LlLc": {
+      "id": "-O5NkwM03Hw4De1gWXyn",
+      "img": "https://i.imgur.com/UIrjAZU.jpeg"
     }
   },
   "MULTISERIAL": {
