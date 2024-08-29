@@ -242,6 +242,21 @@
         "title": "Ana Yurdu",
         "trailer": "https://ok.ru/video/97063996014",
         "year": "2015"
+      },
+      "-O5Rk6M5N6RnMZxoMy7-": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Başkan John F. Kennedy'nin suikastının ardından, First Lady Jacqueline Kennedy, inancını yeniden kazanmak, çocuklarını teselli etmek ve kocasının hayatını kurtarmak için acı ve travmayla mücadele ediyor.",
+        "genre": "Dram Biyografi ",
+        "imdb": "6.6",
+        "img": "https://i.imgur.com/H2OianA.jpeg",
+        "link": "https://ok.ru/video/261576854031",
+        "push": "-O5Rk6M5N6RnMZxoMy7-",
+        "state": "Amerika Fransa Çin ",
+        "time": "29082024110904",
+        "title": "Jackie",
+        "trailer": "https://ok.ru/video/3117117475339",
+        "year": "2016"
       }
     },
     "QORQINCHLI": {
@@ -393,6 +408,10 @@
     "-O5ReodpU0mcVVB_tnqq": {
       "id": "-O5ReocrmUKB6Z0TmvZI",
       "img": "https://i.imgur.com/aMRneQU.jpeg"
+    },
+    "-O5Rk6N6mbbOq8iyN1ev": {
+      "id": "-O5Rk6M5N6RnMZxoMy7-",
+      "img": "https://i.imgur.com/H2OianA.jpeg"
     }
   },
   "MULTISERIAL": {
