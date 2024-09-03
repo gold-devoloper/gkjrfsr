@@ -659,6 +659,21 @@
         "title": "Большой Взрыв",
         "trailer": "https://ok.ru/video/3031824206574",
         "year": "2022"
+      },
+      "-O5q9n6V4UG6Szg_oGRD": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Визит молодого человека в его родную деревню раскрывает семейную тайну и мстительного духа Мунджью, который хочет жениться. Теперь парень вынужден защищать себя и свою любовь от когтей Мунджьи.",
+        "genre": "Комедия Ужастик ",
+        "imdb": "7.0",
+        "img": "https://i.imgur.com/8RLXYSZ.jpeg",
+        "link": "https://vk.com/video-81775026_456243101",
+        "push": "-O5q9n6V4UG6Szg_oGRD",
+        "state": "Индия ",
+        "time": "03092024093610",
+        "title": "Мунджья",
+        "trailer": "https://vk.com/video-204165032_456239738",
+        "year": "2024"
       }
     },
     "JANGARI": {
@@ -2540,6 +2555,14 @@
     "-O5pbcSZHQAv3VJRtLOS": {
       "id": "-O5pbcRtOIJSHpYdOBqu",
       "img": "https://i.imgur.com/aP8ZfoW.jpeg"
+    },
+    "-O5q9n74kAkVE2wjiTN6": {
+      "id": "-O5q9n6V4UG6Szg_oGRD",
+      "img": "https://i.imgur.com/8RLXYSZ.jpeg"
+    },
+    "-O5rUH5Rfw6nY-A_HEx2": {
+      "id": "-O5rUH4YqDzkokGXz8hq",
+      "img": "https://i.imgur.com/Bzupxxn.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -2572,6 +2595,21 @@
       "title": "Рик и Морти",
       "trailer": "https://vk.com/video-67535637_456239223",
       "year": "2013"
+    },
+    "-O5rUH4YqDzkokGXz8hq": {
+      "age": 18,
+      "child": "MULTISERIALX",
+      "description": "Исследуем ключевые моменты киновселенной Marvel и переворачиваем их с ног на голову, уводя зрителей на неизведанную территорию.",
+      "genre": "Боевик Приключение Научная фантастика ",
+      "id": "WHATSIF",
+      "imdb": "7.3",
+      "img": "https://i.imgur.com/Bzupxxn.jpeg",
+      "push": "-O5rUH4YqDzkokGXz8hq",
+      "state": "США ",
+      "time": "03092024034517",
+      "title": "Что, если...?",
+      "trailer": "https://ok.ru/video/6552505223681",
+      "year": "2021"
     }
   },
   "MULTISERIALX": {
@@ -2582,6 +2620,15 @@
         "link": "https://vk.com/video-210665208_456239591",
         "part": 1,
         "title": "Рик и Морти"
+      }
+    },
+    "WHATSIF": {
+      "-O5rUObjfEnzNddlkgrH": {
+        "id": "WHATSIF",
+        "img": "https://i.imgur.com/Bzupxxn.jpeg",
+        "link": "https://vk.com/video-7902145_456242945",
+        "part": 1,
+        "title": "Что, если...?"
       }
     },
     "ZVEROPOLIS": {
