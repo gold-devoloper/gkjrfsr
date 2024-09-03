@@ -612,6 +612,36 @@
         "title": "Воспoминания",
         "trailer": "https://ok.ru/video/4760473242256",
         "year": "2021"
+      },
+      "-O5n8DSGhAucS8qvVVw8": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Послушная девица соглашается выйти замуж за прекрасного принца, но вскоре обнаруживает, что королевская семья хочет принести ее в жертву, чтобы вернуть древний долг.",
+        "genre": "Боевик Приключение Фантастика ",
+        "imdb": "6.1",
+        "img": "https://i.imgur.com/z1eJLRC.jpeg",
+        "link": "https://vk.com/video-216842780_456239051",
+        "push": "-O5n8DSGhAucS8qvVVw8",
+        "state": "США ",
+        "time": "02092024073026",
+        "title": "Дракон / Девица / Дева и Дракон",
+        "trailer": "https://ok.ru/video/7286850652695",
+        "year": "2024"
+      },
+      "-O5pbcRtOIJSHpYdOBqu": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Далёкое будущее. Уже почти 30 лет аналитик Атлас Шепард изучает первого ИИ-террориста Харлана, убившего её мать (и свою создательницу) и возглавившего восстание роботов, в результате которого погибло 3 млн. человек. Когда внезапно обнаруживается один из его андроидов-подручных, Атлас вытаскивает из его головы информацию о местонахождении Харлана — планета с враждебными для человека условиями в Галактике Андромеды. Отправленный туда боевой корабль уже на орбите попадает под обстрел, а сама Атлас падает на поверхность планеты в боевом роботе, оснащённом продвинутым ИИ — тем, что она ненавидит всеми фибрами души.",
+        "genre": "Боевик Драма Фантастика ",
+        "imdb": "5.6",
+        "img": "https://i.imgur.com/aP8ZfoW.jpeg",
+        "link": "https://vk.com/video-21210390_456241894",
+        "push": "-O5pbcRtOIJSHpYdOBqu",
+        "state": "США ",
+        "time": "03092024070231",
+        "title": "Aтлac",
+        "trailer": "https://ok.ru/video/6866353982083",
+        "year": "2024"
       }
     },
     "HIND": {
@@ -766,6 +796,21 @@
         "title": "Герцогиня",
         "trailer": "https://vk.com/video-133909446_456245880",
         "year": "2024"
+      },
+      "-O5p_ni6yucviskYpr62": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Высококлассный наемный убийца, склонный к мизантропическому философствованию, поджидает жертву в Париже. Когда всё идёт не по плану, он сам рискует превратиться в мишень и отправляется разбираться с собственными заказчиками.",
+        "genre": "Боевик Криминальный Триллер ",
+        "imdb": "6.7",
+        "img": "https://i.imgur.com/vNDgaJL.jpeg",
+        "link": "https://vk.com/video-174080699_456241020",
+        "push": "-O5p_ni6yucviskYpr62",
+        "state": "США ",
+        "time": "03092024065433",
+        "title": "Убийца",
+        "trailer": "https://vk.com/video-133909446_456244784",
+        "year": "2023"
       }
     },
     "KOMEDIYA": {
@@ -2479,6 +2524,22 @@
     "-O5lUxZKqYa96egDFk1u": {
       "id": "-O5lUxYq9a0qTO0hoPtC",
       "img": "https://i.imgur.com/DStsnA4.jpeg"
+    },
+    "-O5n8DUWy9xkSpgUKreM": {
+      "id": "-O5n8DSGhAucS8qvVVw8",
+      "img": "https://i.imgur.com/z1eJLRC.jpeg"
+    },
+    "-O5pZefvKwDcEQKOJHyC": {
+      "id": "-O5pZefGJGBbNdKx_VgH",
+      "img": "https://i.imgur.com/jOHNjbu.jpeg"
+    },
+    "-O5p_nietNgQo0jGTzsG": {
+      "id": "-O5p_ni6yucviskYpr62",
+      "img": "https://i.imgur.com/vNDgaJL.jpeg"
+    },
+    "-O5pbcSZHQAv3VJRtLOS": {
+      "id": "-O5pbcRtOIJSHpYdOBqu",
+      "img": "https://i.imgur.com/aP8ZfoW.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -3167,6 +3228,21 @@
       "title": "MAЛEHЬKИE ЖEHЩИHЫ",
       "trailer": "https://ok.ru/video/4122242976392",
       "year": "2022"
+    },
+    "-O5pZefGJGBbNdKx_VgH": {
+      "age": 18,
+      "child": "SERIALKOREAX",
+      "description": "Судья превращает суд в подобие реалити-шоу и безжалостно наказывает виновных.",
+      "genre": "Боевик Фантастика Криминальный ",
+      "id": "THEJUDGEDEV",
+      "imdb": "8.3",
+      "img": "https://i.imgur.com/jOHNjbu.jpeg",
+      "push": "-O5pZefGJGBbNdKx_VgH",
+      "state": "Южная Корея ",
+      "time": "03092024064934",
+      "title": "Дьявольский судья",
+      "trailer": "https://ok.ru/video/4441364499149",
+      "year": "2021"
     }
   },
   "SERIALKOREAX": {
@@ -3722,6 +3798,22 @@
         "link": "https://vk.com/video-46341065_456255375",
         "part": 56,
         "title": "Золотые глаза"
+      }
+    },
+    "THEJUDGEDEV": {
+      "-O5pZqu0gf_ZYHse27-W": {
+        "id": "THEJUDGEDEV",
+        "img": "https://i.imgur.com/jOHNjbu.jpeg",
+        "link": "https://vk.com/video-215427119_456244034?list=ln-JS8pJa73wZRhDd3iT9",
+        "part": 1,
+        "title": "Дьявольский судья"
+      },
+      "-O5pZv5WrLuKL0536pwe": {
+        "id": "THEJUDGEDEV",
+        "img": "https://i.imgur.com/jOHNjbu.jpeg",
+        "link": "https://vk.com/video-215427119_456244049?list=ln-XonN7OQCV1dJTkzLjY",
+        "part": 2,
+        "title": "Дьявольский судья"
       }
     }
   },
