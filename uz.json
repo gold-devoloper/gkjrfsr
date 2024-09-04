@@ -2931,6 +2931,21 @@
         "title": "Kalki 2898",
         "trailer": "https://ok.ru/video/7969477298748",
         "year": "2024"
+      },
+      "-O5xlP2u2p_tHDXZJNEQ": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Mashhur politsiyachi uni qotillikka chek qo'yishni talab qilgan ketma-ket qotilni ovlashga urinmoqda.",
+        "genre": "Jangari Kriminal Triller ",
+        "imdb": "6.8",
+        "img": "https://i.imgur.com/0yivWHp.jpeg",
+        "link": "https://ok.ru/video/8572035074641",
+        "push": "-O5xlP2u2p_tHDXZJNEQ",
+        "state": "Hindiston ",
+        "time": "04092024090211",
+        "title": "V",
+        "trailer": "https://ok.ru/video/8572035074641",
+        "year": "2020"
       }
     },
     "JANGARI": {
@@ -8605,6 +8620,14 @@
     "-O5qHS6fzy_jMIcrX0k5": {
       "id": "-O5qHS6-i7VJXmSgdZka",
       "img": "https://i.imgur.com/BrNmrYo.jpeg"
+    },
+    "-O5xlP3UQ4G0mK1dpVP1": {
+      "id": "-O5xlP2u2p_tHDXZJNEQ",
+      "img": "https://i.imgur.com/0yivWHp.jpeg"
+    },
+    "-O5xnXVUgXEPa7ioymME": {
+      "id": "-O5xnXU2xnz_SmTCvx8d",
+      "img": "https://i.imgur.com/YA147fA.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -25867,6 +25890,21 @@
       "title": "Qashqirlar makoni pistirma",
       "trailer": "https://ok.ru/video/7377588324950",
       "year": "2007"
+    },
+    "-O5xnXU2xnz_SmTCvx8d": {
+      "age": 16,
+      "child": "SERIALTURKIYAX",
+      "description": "Serialda ikki oila o'rtasidagi ziddiyat va bu kurash o'rtasida gullab-yashnaydigan buyuk sevgi haqida so'z boradi.",
+      "genre": "Jangari Drama ",
+      "id": "RAMO",
+      "imdb": "7.0",
+      "img": "https://i.imgur.com/YA147fA.jpeg",
+      "push": "-O5xnXU2xnz_SmTCvx8d",
+      "state": "Turkiya ",
+      "time": "04092024091130",
+      "title": "Ramo / Roma",
+      "trailer": "https://ok.ru/video/5281291504209",
+      "year": "2020"
     }
   },
   "SERIALTURKIYAX": {
@@ -38076,6 +38114,62 @@
         "img": "https://i.imgur.com/V0qMfm2.jpg",
         "link": "https://files.uzmovi.club/film9/ramo/Ramo 1-Fasl 121.mp4",
         "part": 121,
+        "title": "Ramo"
+      },
+      "-O5xnfvt5jafihyYj6t7": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5281291504209",
+        "part": 1,
+        "title": "Ramo"
+      },
+      "-O5xnkjYVhXngwvfPppF": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5313757514321",
+        "part": 2,
+        "title": "Ramo"
+      },
+      "-O5xnpXF7Ld27-G6Wxeb": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5323358931537",
+        "part": 3,
+        "title": "Ramo"
+      },
+      "-O5xnucryQpRQ-Z2r_gz": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5338699008593",
+        "part": 4,
+        "title": "Ramo"
+      },
+      "-O5xnzBk54_sEfjqn2s1": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5379726707281",
+        "part": 5,
+        "title": "Ramo"
+      },
+      "-O5xo2DqLw7HyQos0lZ9": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5386619849297",
+        "part": 6,
+        "title": "Ramo"
+      },
+      "-O5xo5sry26WliPQMcKp": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5397139491409",
+        "part": 7,
+        "title": "Ramo"
+      },
+      "-O5xoAMbW7q41kALXSVv": {
+        "id": "RAMOTR",
+        "img": "https://i.imgur.com/V0qMfm2.jpg",
+        "link": "https://ok.ru/video/5397825981009",
+        "part": 8,
         "title": "Ramo"
       }
     },
