@@ -119,6 +119,21 @@
       "title": "Маг-целитель: Новый старт (без цензуры)",
       "trailer": "https://vk.com/video-194238253_456240905",
       "year": "2021"
+    },
+    "-O5vuHxlHqTOk1u-8mT5": {
+      "age": 12,
+      "child": "ANIMESX",
+      "description": "Ван Линь развивал свои способности с младенчества и стал практически непобедим. Однако теперь, когда ему исполнилось шестнадцать, он оказывается перед самым сложным испытанием в своей жизни — старшей школой.",
+      "genre": "Фантастика Анимация Комедия ",
+      "id": "XIANWNANG",
+      "imdb": "7.1",
+      "img": "https://i.imgur.com/g109bGC.jpeg",
+      "push": "-O5vuHxlHqTOk1u-8mT5",
+      "state": "Китай ",
+      "time": "04092024122147",
+      "title": "Повседневная жизнь бессмертного короля",
+      "trailer": "https://ok.ru/video/7444739656395",
+      "year": "2020"
     }
   },
   "ANIMESX": {
@@ -244,6 +259,36 @@
         "link": "https://vk.com/video-194238253_456241409",
         "part": 4,
         "title": "Вечная воля"
+      }
+    },
+    "XIANWNANG": {
+      "-O5vuNHH_naZ_W6CJRKk": {
+        "id": "XIANWNANG",
+        "img": "https://i.imgur.com/g109bGC.jpeg",
+        "link": "https://vk.com/video-201129506_456239023",
+        "part": 1,
+        "title": "Повседневная жизнь бессмертного короля"
+      },
+      "-O5vug3zO5E54-gqSmPa": {
+        "id": "XIANWNANG",
+        "img": "https://i.imgur.com/g109bGC.jpeg",
+        "link": "https://vk.com/video-201129506_456240357",
+        "part": 2,
+        "title": "Повседневная жизнь бессмертного короля"
+      },
+      "-O5vujnrjlXnnajVP_jq": {
+        "id": "XIANWNANG",
+        "img": "https://i.imgur.com/g109bGC.jpeg",
+        "link": "https://vk.com/video-201129506_456244865",
+        "part": 3,
+        "title": "Повседневная жизнь бессмертного короля"
+      },
+      "-O5vuncsIjmE9xXec5k0": {
+        "id": "XIANWNANG",
+        "img": "https://i.imgur.com/g109bGC.jpeg",
+        "link": "https://vk.com/video-201129506_456243833",
+        "part": 4,
+        "title": "Повседневная жизнь бессмертного короля"
       }
     },
     "XOCHUSTAT": {
@@ -2624,6 +2669,10 @@
     "-O5vqKJl7XwvdkdCHMMH": {
       "id": "-O5vqKJOt6a22ddcTq_l",
       "img": "https://i.imgur.com/AXNnQTi.jpeg"
+    },
+    "-O5vuHyaXEivvLA0Zkkq": {
+      "id": "-O5vuHxlHqTOk1u-8mT5",
+      "img": "https://i.imgur.com/g109bGC.jpeg"
     }
   },
   "MULTISERIAL": {
