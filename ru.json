@@ -657,6 +657,21 @@
         "title": "Ты просто космос ",
         "trailer": "https://ok.ru/video/6545512794625",
         "year": "2023"
+      },
+      "-O5voeYpWW_VUCx98CAU": {
+        "age": 12,
+        "child": "KINO",
+        "description": "Когда в будущем Земля станет непригодной для жизни, фермеру и бывшему пилоту НАСА Джозефу Куперу поручают управлять космическим кораблем вместе с группой исследователей, чтобы найти новую планету для людей.",
+        "genre": "Приключение Драма Научная фантастика ",
+        "imdb": "8.7",
+        "img": "https://i.imgur.com/B6CWxkC.jpeg",
+        "link": "https://vk.com/video-110645251_456246272",
+        "push": "-O5voeYpWW_VUCx98CAU",
+        "state": "Великобритания США Канада ",
+        "time": "04092024115711",
+        "title": "Интерстеллар",
+        "trailer": "https://ok.ru/video/8251146832434",
+        "year": "2014"
       }
     },
     "HIND": {
@@ -688,6 +703,21 @@
         "time": "03092024093610",
         "title": "Мунджья",
         "trailer": "https://vk.com/video-204165032_456239738",
+        "year": "2024"
+      },
+      "-O5vqKJOt6a22ddcTq_l": {
+        "age": 16,
+        "child": "KINO",
+        "description": "В далёком будущем аватар Вишну защищает Землю от зла.",
+        "genre": "Боевик Драма Фантастика ",
+        "imdb": "7.2",
+        "img": "https://i.imgur.com/AXNnQTi.jpeg",
+        "link": "https://vk.com/video-48156952_456241187",
+        "push": "-O5vqKJOt6a22ddcTq_l",
+        "state": "Индия ",
+        "time": "04092024120428",
+        "title": "Калки, 2898 год нашей эры",
+        "trailer": "https://vk.com/video-133909446_456245806",
         "year": "2024"
       }
     },
@@ -2582,6 +2612,18 @@
     "-O5rYXzULTQ1PmDwYfbO": {
       "id": "-O5rYXyB9bay4zo9l_qd",
       "img": "https://i.imgur.com/Dc3brPI.jpeg"
+    },
+    "-O5vlqywzB-VzCL-jxep": {
+      "id": "-O5vlqxyzD_ij6UuNkXQ",
+      "img": "https://i.imgur.com/eVL2bSq.jpeg"
+    },
+    "-O5voeZmDVT_ZabQVvkt": {
+      "id": "-O5voeYpWW_VUCx98CAU",
+      "img": "https://i.imgur.com/B6CWxkC.jpeg"
+    },
+    "-O5vqKJl7XwvdkdCHMMH": {
+      "id": "-O5vqKJOt6a22ddcTq_l",
+      "img": "https://i.imgur.com/AXNnQTi.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -3232,6 +3274,21 @@
       "title": "Четыре ярких моря",
       "trailer": "https://ok.ru/video/8367464843918",
       "year": "2024"
+    },
+    "-O5vlqxyzD_ij6UuNkXQ": {
+      "age": 18,
+      "child": "SERIALX",
+      "description": "После убийства офицера полиции и поджога его машины всё внимание приковано к двум другим агентам: девушке офицера и ее любовнику.",
+      "genre": "Триллер Драма Криминальный ",
+      "id": "TELOVOGNE",
+      "imdb": "6.7",
+      "img": "https://i.imgur.com/eVL2bSq.jpeg",
+      "push": "-O5vlqxyzD_ij6UuNkXQ",
+      "state": "Испания ",
+      "time": "04092024114455",
+      "title": "Teлo в oгнe",
+      "trailer": "https://ok.ru/video/6594768341739",
+      "year": "2023"
     }
   },
   "SERIALKOREA": {
@@ -5788,6 +5845,15 @@
         "link": "https://vk.com/video-220020068_456255659",
         "part": 10,
         "title": "Сёгун"
+      }
+    },
+    "TELOVOGNE": {
+      "-O5vlzsK2rGdq405zIj8": {
+        "id": "TELOVOGNE",
+        "img": "https://i.imgur.com/eVL2bSq.jpeg",
+        "link": "https://vk.com/video-138636759_456247939",
+        "part": 1,
+        "title": "Teлo в oгнe"
       }
     },
     "THEILLEG": {
