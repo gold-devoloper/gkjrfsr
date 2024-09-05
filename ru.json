@@ -2711,6 +2711,10 @@
     "-O5xjOnwwscFA2x2bDcQ": {
       "id": "-O5xjOn6-ZDG2v6j5Tj0",
       "img": "https://i.imgur.com/k5NsQKT.jpeg"
+    },
+    "-O6-vnwroEm9YTJ__m5J": {
+      "id": "-O6-vnwL-qGkftJD8mrG",
+      "img": "https://i.imgur.com/X8Ewr6s.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -3375,6 +3379,21 @@
       "time": "04092024114455",
       "title": "Teлo в oгнe",
       "trailer": "https://ok.ru/video/6594768341739",
+      "year": "2023"
+    },
+    "-O6-vnwL-qGkftJD8mrG": {
+      "age": 16,
+      "child": "SERIALX",
+      "description": "Шэн Ян — новичок, только что входящий в общество, а Цзянь Бин — известный рекламный директор в отрасли. Эти два незнакомца создают связь и отправляются в чудесное и романтическое путешествие...",
+      "genre": "Комедия Драма Романтика ",
+      "id": "JIEWDO",
+      "imdb": "7.6",
+      "img": "https://i.imgur.com/X8Ewr6s.jpeg",
+      "push": "-O6-vnwL-qGkftJD8mrG",
+      "state": "Китай ",
+      "time": "05092024114630",
+      "title": "Солнце Со Мной",
+      "trailer": "https://ok.ru/video/7303064390353",
       "year": "2023"
     }
   },
@@ -4617,6 +4636,22 @@
         "link": "https://vk.com/video-51712074_456243645",
         "part": 27,
         "title": "Под властью нелюдей"
+      }
+    },
+    "JIEWDO": {
+      "-O6-w0I7lliIW2Swj2XI": {
+        "id": "JIEWDO",
+        "img": "https://i.imgur.com/X8Ewr6s.jpeg",
+        "link": "https://vk.com/video-215384804_456239737",
+        "part": 1,
+        "title": "Солнце Со Мной"
+      },
+      "-O6-w4V-Md-C3untnMuF": {
+        "id": "JIEWDO",
+        "img": "https://i.imgur.com/X8Ewr6s.jpeg",
+        "link": "https://vk.com/video-215384804_456239736",
+        "part": 2,
+        "title": "Солнце Со Мной"
       }
     },
     "LINGLONG": {
