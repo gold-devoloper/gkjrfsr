@@ -1549,6 +1549,21 @@
         "title": "Morbius",
         "trailer": "https://ok.ru/video/6580408093185",
         "year": "2022"
+      },
+      "-O66_ZaskjMBVamQmvLy": {
+        "age": 6,
+        "child": "KINO",
+        "description": "O'smir kuchli korporatsiyada ishlaydigan shafqatsiz laboratoriya direktori tomonidan o'g'irlab ketilgan ARI deb nomlanuvchi do'stona robotga yordam berish uchun jasorat topadi, uni xavfli qurolga aylantirmoqchi ..",
+        "genre": "Oilaviy Ilmiy-fantastik ",
+        "imdb": "4.4",
+        "img": "https://i.imgur.com/XUGzC7O.jpeg",
+        "link": "https://ok.ru/video/7193966611038",
+        "push": "-O66_ZaskjMBVamQmvLy",
+        "state": "Fransiya ",
+        "time": "06092024064641",
+        "title": "Robot ari",
+        "trailer": "https://ok.ru/video/7193966611038",
+        "year": "2020"
       }
     },
     "HIND": {
@@ -8628,6 +8643,10 @@
     "-O5xnXVUgXEPa7ioymME": {
       "id": "-O5xnXU2xnz_SmTCvx8d",
       "img": "https://i.imgur.com/YA147fA.jpeg"
+    },
+    "-O66_ZcZRqsUZjedg5XH": {
+      "id": "-O66_ZaskjMBVamQmvLy",
+      "img": "https://i.imgur.com/XUGzC7O.jpeg"
     }
   },
   "MULTISERIAL": {
