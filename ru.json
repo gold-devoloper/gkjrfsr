@@ -134,6 +134,21 @@
       "title": "Повседневная жизнь бессмертного короля",
       "trailer": "https://ok.ru/video/7444739656395",
       "year": "2020"
+    },
+    "-O6FfLAN4Dzd1g5k4gKO": {
+      "age": 16,
+      "child": "ANIMESX",
+      "description": "Сигэо Кагэяма, также известный как Моб, — восьмиклассник с психическими способностями. Он умеет сгибать ложки и поднимать вещи силой мысли с ранних лет, но затем он постепенно начал сдерживаться от использования способностей на публике. И теперь единственное, чего он хочет — это подружиться с одноклассницей Цубоми. Вместе со своим психическим наставником (у которого нет психических способностей), он продолжает повседневную жизнь, пытаясь понять свое назначение в жизни.",
+      "genre": "Анимация Боевик ",
+      "id": "MOBPSYCHO",
+      "imdb": "8.6",
+      "img": "https://i.imgur.com/upyWTY3.jpeg",
+      "push": "-O6FfLAN4Dzd1g5k4gKO",
+      "state": "Япония ",
+      "time": "08092024010829",
+      "title": "Моб Психо 100",
+      "trailer": "https://vk.com/video-34788285_456245696",
+      "year": "2016"
     }
   },
   "ANIMESX": {
@@ -195,6 +210,29 @@
         "link": "https://vk.com/video-225378583_456239831",
         "part": 5,
         "title": "Рандеву с жизнью"
+      }
+    },
+    "MOBPSYCHO": {
+      "-O6FfaqZ6SqjXvM_dtnh": {
+        "id": "MOBPSYCHO",
+        "img": "https://i.imgur.com/upyWTY3.jpeg",
+        "link": "https://vk.com/video-150878424_456239283",
+        "part": 1,
+        "title": "Моб Психо 100"
+      },
+      "-O6FfgmcmFW7XhqX3Mag": {
+        "id": "MOBPSYCHO",
+        "img": "https://i.imgur.com/upyWTY3.jpeg",
+        "link": "https://vk.com/video-205333784_456239636",
+        "part": 2,
+        "title": "Моб Психо 100"
+      },
+      "-O6FfjqAJzqT_Kerf60q": {
+        "id": "MOBPSYCHO",
+        "img": "https://i.imgur.com/upyWTY3.jpeg",
+        "link": "https://vk.com/video-205333784_456239630",
+        "part": 3,
+        "title": "Моб Психо 100"
       }
     },
     "MOIDRVUSHKI": {
@@ -2715,6 +2753,10 @@
     "-O6-vnwroEm9YTJ__m5J": {
       "id": "-O6-vnwL-qGkftJD8mrG",
       "img": "https://i.imgur.com/X8Ewr6s.jpeg"
+    },
+    "-O6FfLBLZJ9qoNvga4MR": {
+      "id": "-O6FfLAN4Dzd1g5k4gKO",
+      "img": "https://i.imgur.com/upyWTY3.jpeg"
     }
   },
   "MULTISERIAL": {
