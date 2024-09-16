@@ -2961,6 +2961,21 @@
         "title": "V",
         "trailer": "https://ok.ru/video/8572035074641",
         "year": "2020"
+      },
+      "-O6vDWdH58LxrxwVol-6": {
+        "age": 16,
+        "child": "KINO",
+        "description": "2016-yildagi Kashmirdagi tartibsizliklardan so‘ng Hindiston hukumati Zuni Xaksarni o‘ta maxfiy missiyaga tanladi. Operatsiyadan ko‘zlangan asosiy maqsad, bir tomchi qon ham to‘kilmasin, 370-moddani bekor qilish orqali terrorizmga chek qo‘yish va vodiydagi milliardlab dollarlik yashirin iqtisodiyotga barham berishdir.",
+        "genre": "Jangari Drama Triller ",
+        "imdb": "7.9",
+        "img": "https://i.imgur.com/ZoJkRwB.jpeg",
+        "link": "https://ok.ru/video/7220757858910",
+        "push": "-O6vDWdH58LxrxwVol-6",
+        "state": "Hindiston ",
+        "time": "16092024072614",
+        "title": "370-modda",
+        "trailer": "https://ok.ru/video/7220757858910",
+        "year": "2024"
       }
     },
     "JANGARI": {
@@ -8647,6 +8662,10 @@
     "-O66_ZcZRqsUZjedg5XH": {
       "id": "-O66_ZaskjMBVamQmvLy",
       "img": "https://i.imgur.com/XUGzC7O.jpeg"
+    },
+    "-O6vDWeCDwXMsJ9fFXxU": {
+      "id": "-O6vDWdH58LxrxwVol-6",
+      "img": "https://i.imgur.com/ZoJkRwB.jpeg"
     }
   },
   "MULTISERIAL": {
