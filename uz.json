@@ -2991,6 +2991,21 @@
         "title": "Trigger / Tepki",
         "trailer": "https://ok.ru/video/7226289490526",
         "year": "2022"
+      },
+      "-O7bWYZX7UOEAeVirATm": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Nafaqadagi qamoqxona xodimi o‘g‘lining qotillarini topish uchun qidiruvga chiqadi. Ammo yo'l uni biroz qorong'i bo'lsa-da, tanish joyga olib boradi. U bu murakkab vaziyatdan muvaffaqiyatli chiqib keta oladimi?",
+        "genre": "Jangari Komediya Kriminal Triller ",
+        "imdb": "7.1",
+        "img": "https://i.imgur.com/u0axC2v.jpeg",
+        "link": "https://ok.ru/video/8633709169233",
+        "push": "-O7bWYZX7UOEAeVirATm",
+        "state": "Hindiston ",
+        "time": "25092024095241",
+        "title": "Jayiler",
+        "trailer": "https://ok.ru/video/8633709169233",
+        "year": "2023"
       }
     },
     "JANGARI": {
@@ -5018,6 +5033,21 @@
         "title": "Qo'quv badali",
         "trailer": "https://vk.com/video-186658020_456244637",
         "year": "2024"
+      },
+      "-O79ugzR6RkGR06ntwLy": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Dunkan Vizla - dunyodagi eng xavfli qotillardan biri. U \"Qora Kayzer\" laqabi bilan mashxur. Uning xo'jayini bilan tuzilgan shartnomada uning yoshi 50 ga yetishi bilan katta miqdorda nafaqa puli berilishi kerak edi. Lekin uning xo'jayini bu shartnomani buzdi va unga qarshi qotillar guruhini yubordi.",
+        "genre": "Jangari Kriminal Triller ",
+        "imdb": "6.3",
+        "img": "https://i.imgur.com/OeBNfQw.jpeg",
+        "link": "https://ok.ru/video/1577134852652",
+        "push": "-O79ugzR6RkGR06ntwLy",
+        "state": "AQSH Germaniya ",
+        "time": "19092024083334",
+        "title": "Qutbli",
+        "trailer": "https://ok.ru/video/1577134852652",
+        "year": "2019"
       }
     },
     "KOMEDIYA": {
@@ -8723,6 +8753,14 @@
     "-O77r-pWxkEr_nmuKFKP": {
       "id": "-O77r-oyctP7SMrGfMFm",
       "img": "https://i.imgur.com/dOH1kyN.jpeg"
+    },
+    "-O79ugzr67VOcyhH764t": {
+      "id": "-O79ugzR6RkGR06ntwLy",
+      "img": "https://i.imgur.com/OeBNfQw.jpeg"
+    },
+    "-O7bWY_Qn992ChwLq8H3": {
+      "id": "-O7bWYZX7UOEAeVirATm",
+      "img": "https://i.imgur.com/u0axC2v.jpeg"
     }
   },
   "MULTISERIAL": {
