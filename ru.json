@@ -2147,6 +2147,21 @@
         "title": "Чужой: Ромул",
         "trailer": "https://vk.com/video-125013150_456242921",
         "year": "2024"
+      },
+      "-OJlSs71DJSO1cdgYzU1": {
+        "age": 18,
+        "child": "KINO",
+        "description": "Румыния, 1952 год. Когда в уединенном монастыре молодая монахиня совершает самоубийство, Ватикан отправляет расследовать происшествие священника с туманным прошлым и послушницу на пороге невозвратных обетов. Рискуя не только жизнью, но и душой, они сталкиваются со злобной силой, принявшей облик демонической монахини.",
+        "genre": "Ужастик Триллер ",
+        "imdb": "5.4",
+        "img": "https://i.imgur.com/FopGDJv.jpeg",
+        "link": "https://vk.com/video-171437921_456241378",
+        "push": "-OJlSs71DJSO1cdgYzU1",
+        "state": "США ",
+        "time": "23022025112110",
+        "title": "Проклятие монахини",
+        "trailer": "https://m.imdb.com/video/vi2039200537/?playlistId=tt5814060&ref_=tt_ov_ov_vi",
+        "year": "2018"
       }
     }
   },
@@ -2814,6 +2829,10 @@
     "-OJWNHe1AvwhmJB4s-0R": {
       "id": "-OJWNHdA4SMkNMNhaTfo",
       "img": "https://i.imgur.com/vW4oAYj.jpeg"
+    },
+    "-OJlSs7UAl4-3ZfD85v8": {
+      "id": "-OJlSs71DJSO1cdgYzU1",
+      "img": "https://i.imgur.com/FopGDJv.jpeg"
     }
   },
   "MULTISERIAL": {
