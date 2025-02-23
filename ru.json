@@ -2833,6 +2833,10 @@
     "-OJlSs7UAl4-3ZfD85v8": {
       "id": "-OJlSs71DJSO1cdgYzU1",
       "img": "https://i.imgur.com/FopGDJv.jpeg"
+    },
+    "-OJlWPn3iMqPooMEZ0Jw": {
+      "id": "-OJlWPmenumWxd_uVOQX",
+      "img": "https://i.imgur.com/G8fivLN.jpeg"
     }
   },
   "MULTISERIAL": {
@@ -3512,6 +3516,21 @@
       "time": "05092024114630",
       "title": "Солнце Со Мной",
       "trailer": "https://ok.ru/video/7303064390353",
+      "year": "2023"
+    },
+    "-OJlWPmenumWxd_uVOQX": {
+      "age": 12,
+      "child": "SERIALX",
+      "description": "Их позывной — «Журавли», но в полку их ласково называют «журавушки». Многие считают взвод «заговоренным», ведь его бойцы умудряются выполнять самые сложные задания, брать «языков» и проводить диверсии в тылу врага, возвращаться даже из самых гибельных ситуаций. Однако, в действительности, не всё так просто: вылазки часто оканчиваются неудачами, раненых и убитых друзей приходится выносить на себе, а каждое новое задание превращается в игру со смертью. Их враг всегда коварен, однако находчивость, смекалка и помощь друзей помогают им не терять веру в свое дело и в победу.",
+      "genre": "Боевик ",
+      "id": "POZIVNOYJURAVLI",
+      "imdb": "0",
+      "img": "https://i.imgur.com/G8fivLN.jpeg",
+      "push": "-OJlWPmenumWxd_uVOQX",
+      "state": "Россия ",
+      "time": "23022025113639",
+      "title": "позывной журавли",
+      "trailer": "https://www.kinopoisk.ru/series/5292768/",
       "year": "2023"
     }
   },
@@ -5095,6 +5114,15 @@
         "link": "https://vk.com/video-205067490_456241071",
         "part": 1,
         "title": "Наутилус"
+      }
+    },
+    "POZIVNOYJURAVLI": {
+      "-OJlWgELQJ144Ax7GORz": {
+        "id": "POZIVNOYJURAVLI",
+        "img": "https://i.imgur.com/G8fivLN.jpeg",
+        "link": "https://vk.com/video-215477252_456239327",
+        "part": 1,
+        "title": "позывной журавли"
       }
     },
     "PRINKESSANDWOLF": {
