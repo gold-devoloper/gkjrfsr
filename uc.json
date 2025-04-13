@@ -3,25 +3,25 @@
     "amount": "60",
     "price": "0.99",
     "currency": "USD",
-    "imageurl": "http://asilmedia.org/uploads/mini/fullstory/0b/265x372x75f345425426a295166cc08275fbda.jpg.pagespeed.ic.JgSgFXqpJr.webp"
+    "imageurl": "https://i.imgur.com/eQ0an1R.png"
   },
   {
     "amount": "300",
     "price": "4.99",
     "currency": "USD",
-    "imageurl": "http://asilmedia.org/uploads/mini/fullstory/0b/265x372x75f345425426a295166cc08275fbda.jpg.pagespeed.ic.JgSgFXqpJr.webp"
+    "imageurl": "https://i.imgur.com/2JzwckS.png"
   },
   {
     "amount": "100",
     "price": "1.99",
     "currency": "USD",
-    "imageurl": "https://example.com/images/ff_diamonds_100.png"
+    "imageurl": "https://i.imgur.com/pqTC7Ab.png"
   },
   {
     "amount": "250",
     "price": "4.99",
     "currency": "USD",
-    "imageurl": "https://example.com/images/mlb_diamonds_250.png"
+    "imageurl": "https://i.imgur.com/UxODalH.png"
   }
 ]
 
