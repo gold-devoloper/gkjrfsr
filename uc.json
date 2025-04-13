@@ -1,4 +1,5 @@
-{
+[
+  {
     "amount": "60",
     "price": "0.99",
     "currency": "USD",
@@ -22,4 +23,5 @@
     "currency": "USD",
     "imageurl": "https://example.com/images/mlb_diamonds_250.png"
   }
+]
 
