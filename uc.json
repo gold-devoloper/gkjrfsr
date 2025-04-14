@@ -22,6 +22,24 @@
     "price": "117.000",
     "currency": "USD",
     "imageurl": "https://i.imgur.com/UxODalH.png"
+  },
+  {
+    "amount": "1845",
+    "price": "292.500",
+    "currency": "UZS",
+    "imageurl": "https://i.imgur.com/2JzwckS.png"
+  },
+  {
+    "amount": "3940",
+    "price": "585.000",
+    "currency": "UZS",
+    "imageurl": "https://i.imgur.com/pqTC7Ab.png"
+  },
+  {
+    "amount": "8280",
+    "price": "1.170.000",
+    "currency": "USD",
+    "imageurl": "https://i.imgur.com/UxODalH.png"
   }
 ]
 
