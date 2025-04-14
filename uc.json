@@ -1,25 +1,25 @@
 [
   {
-    "amount": "60",
-    "price": "0.99",
-    "currency": "USD",
+    "amount": "31",
+    "price": "6.500",
+    "currency": "UZS",
     "imageurl": "https://i.imgur.com/eQ0an1R.png"
   },
   {
-    "amount": "300",
-    "price": "4.99",
-    "currency": "USD",
+    "amount": "62",
+    "price": "12.500",
+    "currency": "UZS",
     "imageurl": "https://i.imgur.com/2JzwckS.png"
   },
   {
-    "amount": "100",
-    "price": "1.99",
-    "currency": "USD",
+    "amount": "334",
+    "price": "60.000",
+    "currency": "UZS",
     "imageurl": "https://i.imgur.com/pqTC7Ab.png"
   },
   {
-    "amount": "250",
-    "price": "4.99",
+    "amount": "678",
+    "price": "117.000",
     "currency": "USD",
     "imageurl": "https://i.imgur.com/UxODalH.png"
   }
