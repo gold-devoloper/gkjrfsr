@@ -24,7 +24,7 @@
     "amount": "678",
     "price": "117.000",
     "coin": "10.000",
-    "currency": "USD",
+    "currency": "UZS",
     "imageurl": "https://i.imgur.com/ChQyVVO.png"
   },
   {
@@ -45,7 +45,7 @@
     "amount": "8280",
     "price": "1.170.000",
     "coin": "100.000",
-    "currency": "USD",
+    "currency": "UZS",
     "imageurl": "https://i.imgur.com/QVXLVLV.png"
   }
 ]
