@@ -2,42 +2,49 @@
   {
     "amount": "31",
     "price": "6.500",
+    "coin": "500",
     "currency": "UZS",
     "imageurl": "https://i.imgur.com/DIk6nY5.png"
   },
   {
     "amount": "62",
     "price": "12.500",
+    "coin": "1000",
     "currency": "UZS",
     "imageurl": "https://i.imgur.com/QXYpN4X.png"
   },
   {
     "amount": "334",
     "price": "60.000",
+    "coin": "5.000",
     "currency": "UZS",
     "imageurl": "https://i.imgur.com/glQSYff.png"
   },
   {
     "amount": "678",
     "price": "117.000",
+    "coin": "10.000",
     "currency": "USD",
     "imageurl": "https://i.imgur.com/ChQyVVO.png"
   },
   {
     "amount": "1845",
     "price": "292.500",
+    "coin": "25.000",
     "currency": "UZS",
     "imageurl": "https://i.imgur.com/tmoo3du.png"
   },
   {
     "amount": "3940",
     "price": "585.000",
+    "coin": "50.500",
     "currency": "UZS",
     "imageurl": "https://i.imgur.com/MSQDfGm.png"
   },
   {
     "amount": "8280",
     "price": "1.170.000",
+    "coin": "100.000",
     "currency": "USD",
     "imageurl": "https://i.imgur.com/QVXLVLV.png"
   }
