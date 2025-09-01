@@ -5078,6 +5078,21 @@
         "title": "Qutbli",
         "trailer": "https://ok.ru/video/1577134852652",
         "year": "2019"
+      },
+      "-OW3dCe4zNMK-x4D37e1": {
+        "age": 16,
+        "child": "KINO",
+        "description": "Marsel politsiyasiga o'tkazilgan politsiya zobiti Danielning katta jiyani bilan kuchli Ferrarisni haydab ketayotgan italiyalik qaroqchilar guruhini yo'q qilish uchun tayinlangan ...",
+        "genre": "Jangari Komediya Kriminal ",
+        "imdb": "4.6",
+        "img": "Tt",
+        "link": "https://vk.com/video-229908696_456239518",
+        "push": "-OW3dCe4zNMK-x4D37e1",
+        "state": "Fransiya ",
+        "time": "26072025075150",
+        "title": "Taksi 5",
+        "trailer": "https://m.imdb.com/title/tt7238392/i",
+        "year": "2018"
       }
     },
     "KOMEDIYA": {
@@ -8799,6 +8814,14 @@
     "-OAArffrH_xBD0hrJd0Z": {
       "id": "-OAArfeyXW5nPrwq0ISA",
       "img": "https://i.imgur.com/vyp1HDw.jpeg"
+    },
+    "-OW3dCeCDL4fNrNyxsTC": {
+      "id": "-OW3dCe4zNMK-x4D37e1",
+      "img": "Tt"
+    },
+    "-OZ3dhL2dGND-jpyykz6": {
+      "id": "-OZ3dhKd3rd6Mz6T-gnJ",
+      "img": "https://images2.imgbox.com/bb/c4/v8J2ezkr_o.jpg"
     }
   },
   "MULTISERIAL": {
@@ -10216,6 +10239,41 @@
       "img": "soon",
       "time": "28082024025132",
       "title": "Dyuna 2 FULLHD formatga o'zgartirildi."
+    }
+  },
+  "REELS": {
+    "-OZ3dhKd3rd6Mz6T-gnJ": {
+      "age": 18,
+      "child": "REELSX",
+      "description": "Troy Levin patent yaratishga yuragi va qalbini bag'ishlaydi va uni Traxon Group tomonidan maqtovga sazovor bo'lishiga umid qilib, keliniga sovg'a qiladi. U o'zi bilmagan holda, u allaqachon unga xiyonat qilgan va bir badavlat odam bilan xayrlashish uchun oyog'ini sindirishni rejalashtirmoqda. Uni hayratda qoldirgan holda, Traxon Group raisi uni uzoq vaqtdan beri yo'qolgan o'g'li deb biladi.",
+      "genre": "Drama Melodrama Romantika ",
+      "id": "TIANGUI",
+      "imdb": "0",
+      "img": "https://images2.imgbox.com/bb/c4/v8J2ezkr_o.jpg",
+      "push": "-OZ3dhKd3rd6Mz6T-gnJ",
+      "state": "Janubiy Koreya ",
+      "time": "01092025024105",
+      "title": "Yo'qotilgan merosxo'r: uning hisob-kitob tongi",
+      "trailer": "https://ok.ru/video/9297513417279",
+      "year": "2025"
+    }
+  },
+  "REELSX": {
+    "TIANGUI": {
+      "-OZ3j65sP-3yWBdbL2Ds": {
+        "id": "TIANGUI",
+        "img": "https://images2.imgbox.com/bb/c4/v8J2ezkr_o.jpg",
+        "link": "https://ok.ru/video/9297719134783",
+        "part": 1,
+        "title": "Yo'qotilgan merosxo'r: uning hisob-kitob tongi"
+      },
+      "-OZ3jYzJpWtZDxG-HfYo": {
+        "id": "TIANGUI",
+        "img": "https://images2.imgbox.com/bb/c4/v8J2ezkr_o.jpg",
+        "link": "https://ok.ru/video/9297731390015",
+        "part": 2,
+        "title": "Yo'qotilgan merosxo'r: uning hisob-kitob tongi"
+      }
     }
   },
   "SERIAL": {
